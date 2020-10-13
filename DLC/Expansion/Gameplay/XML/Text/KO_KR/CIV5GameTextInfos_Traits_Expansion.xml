@@ -56,7 +56,7 @@
       <Text>페니키아의 계승자</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
-      <Text>도시를 불태우는 속도가 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]로 제공됩니다. 다른 도시의 이름을 빌려 씁니다. [COLOR_POSITIVE_TEXT]목축업[ENDCOLOR] 기술을 연구한 상태로 게임을 시작하고, 목장 하나당 [ICON_PRODUCTION]생산이 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다.</Text>
+      <Text>도시를 불태우는 속도가 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR] 증가합니다. 다른 도시의 이름을 빌려 씁니다. [COLOR_POSITIVE_TEXT]목축업[ENDCOLOR] 기술을 연구한 상태로 게임을 시작하고, 목장 하나당 [ICON_PRODUCTION]생산이 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
       <Text>신의 재앙</Text>
