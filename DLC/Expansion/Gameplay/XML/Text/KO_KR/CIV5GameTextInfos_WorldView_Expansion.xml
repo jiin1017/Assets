@@ -62,8 +62,7 @@
       <Text>더 큰 문명에 대한 보너스</Text>
     </Row>
     <Row Tag="TXT_KEY_EUPANEL_VISIBLE_AA_UNITS">
-      <Text>[COLOR_WARNING_TEXT]{1_Number}기의 적 지대공 유닛 포착
-[ENDCOLOR]</Text>
+      <Text>[COLOR_WARNING_TEXT]{1_Number}기의 적 지대공 유닛 포착[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_SV_OVERLAY_RELIGION">
       <Text>종교 지도</Text>

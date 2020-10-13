@@ -1315,7 +1315,7 @@
       <Text>유지비</Text>
     </Row>
     <Row Tag="TXT_KEY_PEDIA_MOUNTAINADJYIELD_LABEL">
-      <Text>산이 근처에 있을 시 보너스</Text>
+      <Text>산 인접 보너스</Text>
     </Row>
     <Row Tag="TXT_KEY_PEDIA_MOVECOST_LABEL">
       <Text>소모하는 이동력</Text>

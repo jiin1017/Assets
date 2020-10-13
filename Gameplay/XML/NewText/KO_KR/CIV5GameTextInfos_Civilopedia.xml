@@ -11412,82 +11412,82 @@
 		</Row>
 		<!-- TXT_KEY_PEDIA_PROMOTION~ -->
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_XTRA_MOVES_I">
-			<Text>이동력 증가 1</Text>
+			<Text>이동력 증가 1</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_XTRA_SIGHT_I">
-			<Text>추가 시야 (1)</Text>
+			<Text>추가 시야 (1)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_XTRA_SIGHT_II">
-			<Text>추가 시야 (2)</Text>
+			<Text>추가 시야 (2)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_XTRA_SIGHT_III">
-			<Text>추가 시야 (3)</Text>
+			<Text>추가 시야 (3)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_XTRA_SIGHT_IV">
-			<Text>추가 시야 (4)</Text>
+			<Text>추가 시야 (4)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SIGHT_PENALTY">
-			<Text>시야 감소</Text>
+			<Text>시야 감소</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_AIR_RECON">
 			<Text>공중 정찰</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_MOUNTED_I">
-			<Text>대 기마 유닛 보너스 (50)</Text>
+			<Text>대 기마 유닛 보너스 (50)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_MOUNTED_II">
-			<Text>대 기마 유닛 보너스 (100)</Text>
+			<Text>대 기마 유닛 보너스 (100)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_SIEGE">
-			<Text>대 도시 보너스 (20)</Text>
+			<Text>대 도시 보너스 (20)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_ASSUALT">
-			<Text>대 도시 보너스 (50)</Text>
+			<Text>대 도시 보너스 (50)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_DEFENSE_PENALTY">
-			<Text>방어 시 페널티</Text>
+			<Text>방어 시 페널티</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MOUNTED_PENALTY">
-			<Text>대 기마 유닛 페널티</Text>
+			<Text>대 기마 유닛 페널티</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_PENALTY">
-			<Text>대 도시 페널티</Text>
+			<Text>대 도시 페널티</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_INTERCEPTION_I">
-			<Text>요격 보너스 (20)</Text>
+			<Text>요격 보너스 (20)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_INTERCEPTION_II">
-			<Text>요격 보너스 (40)</Text>
+			<Text>요격 보너스 (40)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_INTERCEPTION_III">
-			<Text>요격 보너스 (50)</Text>
+			<Text>요격 보너스 (50)</Text>  <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_INTERCEPTION_IV">
-			<Text>요격 보너스 (100)</Text>
+			<Text>요격 보너스 (100)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_AIR_SWEEP">
-			<Text>제공</Text>
+			<Text>제공</Text> 
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_WEAK_RANGED">
-			<Text>원거리 공격력 감소</Text>
+			<Text>원거리 공격력 감소</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_AIR">
-			<Text>대 항공기 보너스 (100)</Text>
+			<Text>대 항공기 보너스 (100)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_HELICOPTER">
-			<Text>대 헬기 보너스</Text>
+			<Text>대 헬기 보너스</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_FIGHTER">
-			<Text>대 전투기 보너스</Text>
+			<Text>대 전투기 보너스</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_I">
-			<Text>대 잠수함 보너스 (50)</Text>
+			<Text>대 잠수함 보너스 (50)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_II">
-			<Text>대 잠수함 보너스 (100)</Text>
+			<Text>대 잠수함 보너스 (100)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK">
-			<Text>대 전차 보너스</Text>
+			<Text>대 전차 보너스</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_EVASION_I">
 			<Text>회피력 (50)</Text>
@@ -11514,16 +11514,16 @@
 			<Text>유닛 배치 가능 (4)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_FOLIAGE_IMPASSABLE">
-			<Text>숲과 정글 이동 불가</Text>
+			<Text>숲과 정글 이동 불가</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ROUGH_TERRAIN_ENDS">
-			<Text>험지 페널티</Text>
+			<Text>험지 페널티</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_OCEAN_IMPASSABLE_ASTRO">
-			<Text>천문학 필요</Text>
+			<Text>천문학 필요</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_OCEAN_IMPASSABLE">
-			<Text>대양 이동 불가</Text>
+			<Text>대양 이동 불가</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_INVISIBLE_SUBMARINE">
 			<Text>보이지 않음 (잠수함)</Text>
@@ -11544,16 +11544,16 @@
 			<Text>빙하 타일에 진입 가능</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_NO_CAPTURE">
-			<Text>도시 점령 불가</Text>
+			<Text>도시 점령 불가</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ONLY_DEFENSIVE">
-			<Text>근접 공격 불가</Text>
+			<Text>근접 공격 불가</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_NO_DEFENSIVE_BONUSES">
 			<Text>방어력 보너스 없음</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_PARADROP">
-			<Text>공중 투하</Text>
+			<Text>공중 투하</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MUST_SET_UP">
 			<Text>원거리 공격 설치 작업이 필요</Text>
@@ -11565,10 +11565,10 @@
 			<Text>공격 후 이동 가능</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_OPEN_TERRAIN">
-			<Text>평지 전투 보너스</Text>
+			<Text>평지 전투 보너스</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SECOND_ATTACK">
-			<Text>두 번 공격함</Text>
+			<Text>두 번 공격</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_OCEAN_MOVEMENT">
 			<Text>해상 이동력</Text>
@@ -11592,22 +11592,22 @@
 			<Text>적 전멸시킬 때 체력 20 회복</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ATTACK_BONUS">
-			<Text>공격할 때 전투 보너스 (25)</Text>
+			<Text>공격할 때 전투 보너스 (25)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MOHAWK">
-			<Text>숲/정글 전투 보너스 (50)</Text>
+			<Text>숲/정글 전투 보너스 (50)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_JAGUAR">
-			<Text>정글 전투 보너스 (50)</Text>
+			<Text>정글 전투 보너스 (50)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_FOREIGN_LANDS">
-			<Text>타국 지역 보너스</Text>
+			<Text>타국 지역 보너스</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_FASTER_HEAL">
-			<Text>체력 회복 속도 두 배</Text>
+			<Text>체력 회복 속도 두 배</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_STRONGER_VS_DAMAGED">
-			<Text>피해받은 적에게 보너스</Text>
+			<Text>피해받은 적에게 보너스</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SPECIALABILITIES_MOVEMENT">
 			<Text>{TXT_KEY_ABLTY_FASTER_MOVEMENT_STRING} {@1_RouteDescription} [NEWLINE]</Text>

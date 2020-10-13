@@ -534,7 +534,7 @@
       <Text>[COLOR_POSITIVE_TEXT]전격전[ENDCOLOR][NEWLINE]모든 위대한 장군의 [ICON_MOVES]이동력이 [COLOR_POSITIVE_TEXT]3[ENDCOLOR] 증가합니다. 모든 기갑 유닛이 적군의 통제 지역을 무시하고, 공격력이 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 증가하며, [ICON_MOVES]이동력은 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]천명[ENDCOLOR][NEWLINE][ICON_PEACE]신앙으로 구매하는 종교 유닛 및 건물의 가격이 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 감소합니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]명백한 운명[ENDCOLOR][NEWLINE][ICON_PEACE]신앙으로 구매하는 종교 유닛 및 건물의 가격이 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 감소합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE">
       <Text>해안 공공시설</Text>
