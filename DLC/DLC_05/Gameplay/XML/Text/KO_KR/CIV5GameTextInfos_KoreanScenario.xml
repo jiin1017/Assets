@@ -5,7 +5,7 @@
 <GameData>
   <Language_KO_KR>
     <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_HELP">
-      <Text>와조는 일본의 고유 시설로 이 시나리오에서 요새를 대체합니다. 와조는 해안 타일에만 건설할 수 있으며 주둔하고 있는 어떤 유닛이든 방어력을 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 높이는 효과가 있습니다. 또한, 와조 주위에 있는 적 유닛은 턴을 마칠 때마다 [COLOR_POSITIVE_TEXT]2[ENDCOLOR]의 데미지를 입습니다.</Text>
+      <Text>와조는 일본의 고유 시설로 이 시나리오에서 요새를 대체합니다. 와조는 해안 타일에만 건설할 수 있으며 주둔하고 있는 어떤 유닛이든 방어력을 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 높이는 효과가 있습니다.  와조 주위에 있는 적 유닛은 턴을 마칠 때마다 [COLOR_POSITIVE_TEXT]2[ENDCOLOR]의 데미지를 입습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_TEXT">
       <Text>와조는 특별한 목적이 있는 시설로 해당 타일의 생산을 높여주거나 자원을 채집할 수 있도록 해주지는 않지만, 주변에 있는 적 유닛이 턴을 마칠 때마다 2만큼의 피해를 주고 해당 타일에 주둔한 아군 유닛의 방어력을 50%만큼 높여줍니다. 그러나 와조는 적 영토에 있는 유닛에게는 방어력 보너스를 주지 않습니다.[NEWLINE][NEWLINE]일본이 한국을 침략한 전쟁인 임진왜란 당시 일본은 상당한 수의 급조한 성, 즉 와조를 한국 남해 해안선을 따라 지어 이들을 전초기지와 요새로 사용하였습니다. 일본군은 전통적인 성 건축법을 따라 인공 언덕이나 고원을 만들고 그 위에 나무 벽, 탑 그리고 내부 구조물을 세웠습니다.</Text>
@@ -62,10 +62,10 @@
       <Text>만주 정예 기마궁병</Text>
     </Row>
     <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HELP">
-      <Text>정예 기마궁병은 기사를 대체하는 만주의 고유 유닛으로 강력한 원거리 공격, 기사보다 빠른 [COLOR_POSITIVE_TEXT]5[ENDCOLOR]의 이동력, 그리고 경험치를 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 더 빨리 얻을 수 있는 승급이 있습니다. 또한, 유닛 전투로 획득할 수 있는 위대한 장군 포인트를 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]로 더 빨리 얻을 수 있습니다.</Text>
+      <Text>정예 기마궁병은 기사를 대체하는 만주의 고유 유닛으로 강력한 원거리 공격, 기사보다 빠른 [COLOR_POSITIVE_TEXT]5[ENDCOLOR]의 이동력, 그리고 경험치를 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 더 빨리 얻을 수 있는 승급이 있습니다.  유닛 전투로 획득할 수 있는 위대한 장군 포인트를 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]로 더 빨리 얻을 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_INFO">
-      <Text>정예 기마궁병은 중세 시대에 생산할 수 있는 만주의 고유 유닛입니다. 일반적인 기사를 대체하는 유닛으로 기사보다 더 많이 움직일 수 있고, 경험치를 50% 더 빨리 얻을 수 있게 해주는 승급을 지니며, 위대한 장군 포인트도 두 배 빨리 획득합니다. 또한, 정예 기마궁병은 강력한 원거리 공격으로 멀리서 적을 공격할 수 있습니다.</Text>
+      <Text>정예 기마궁병은 중세 시대에 생산할 수 있는 만주의 고유 유닛입니다. 일반적인 기사를 대체하는 유닛으로 기사보다 더 많이 움직일 수 있고, 경험치를 50% 더 빨리 얻을 수 있게 해주는 승급을 지니며, 위대한 장군 포인트도 두 배 빨리 획득합니다.  정예 기마궁병은 강력한 원거리 공격으로 멀리서 적을 공격할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_STRATEGY">
       <Text>만주 고유 유닛인 정예 기마궁병은 중세 시대에 생산할 수 있는 유닛으로 기사를 대체합니다. 정예 기마궁병은 강력한 원거리 공격력과 증가된 이동력(총 5포인트)을 갖추고 있으므로 치고 빠지는 전술에 매우 효과적입니다. 다른 유닛에 비해 승급이 두 배 빠르며 위대한 장군 포인트도 두 배 빠르게 모을 수 있습니다. 만주는 이들 기마 전사로 드넓은 벌판을 쉽게 지배했습니다.</Text>

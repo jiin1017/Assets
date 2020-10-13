@@ -791,7 +791,7 @@
       <Text>비우기</Text>
     </Row>
     <Row Tag="TXT_KEY_NO_SWAPPING_TT">
-      <Text>당신의 턴에 아이템을 교환하지 않도록 해당 슬롯을 비웁니다. 또한, 다른 문명도 슬롯이 비어있으면 자신의 턴에 이와 같은 종류의 아이템을 교환할 수 없습니다.</Text>
+      <Text>당신의 턴에 아이템을 교환하지 않도록 해당 슬롯을 비웁니다.  다른 문명도 슬롯이 비어있으면 자신의 턴에 이와 같은 종류의 아이템을 교환할 수 없습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_NEW_TO_XP">
       <Text>신과 왕 초보자</Text>

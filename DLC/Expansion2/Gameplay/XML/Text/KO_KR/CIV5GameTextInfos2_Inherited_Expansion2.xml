@@ -47,7 +47,7 @@
       <Text>스파이로 다른 문명의 기술을 어떻게 훔치나요?</Text>
     </Row>
     <Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_SUMMARY">
-      <Text>스파이를 사용하면 선진 문명의 기술을 훔칠 수 있습니다. 기술을 훔치려면 먼저 스파이를 목표 문명의 도시에 잠입시킵니다. 도시에 잠입한 스파이는 일정한 시간을 들여 "첩보망 구축" 활동을 합니다. 이는 "활동" 열에서 확인할 수 있습니다. 첩보망이 구축되면 목표 도시에 훔칠만한 기술이 있는지 알 수 있습니다. 기술을 훔치는데 걸리는 시간은 해당 도시의 과학과 스파이의 계급에 따라 다릅니다. 해당 도시가 생산하는 과학량이 많을 수록, 스파이의 계급이 높을 수록 기술을 훔치는 데 필요한 시간이 줄어듭니다.[NEWLINE][NEWLINE]해당 도시에 경찰서나 인터넷 검열 시스템이 있다면 스파이가 아예 활동하지 못 할 수도 있습니다. 또한 해당 도시에 대항 스파이가 있다면 당신의 스파이가 잡히거나 죽을 수 있습니다. 잡힌 스파이는 여러 턴 동안 활동을 할 수 없게 됩니다. 상대 문명이 당신 스파이의 신분을 파악하면 해당 문명과의 관계가 악화됩니다.</Text>
+      <Text>스파이를 사용하면 선진 문명의 기술을 훔칠 수 있습니다. 기술을 훔치려면 먼저 스파이를 목표 문명의 도시에 잠입시킵니다. 도시에 잠입한 스파이는 일정한 시간을 들여 "첩보망 구축" 활동을 합니다. 이는 "활동" 열에서 확인할 수 있습니다. 첩보망이 구축되면 목표 도시에 훔칠만한 기술이 있는지 알 수 있습니다. 기술을 훔치는데 걸리는 시간은 해당 도시의 과학과 스파이의 계급에 따라 다릅니다. 해당 도시가 생산하는 과학량이 많을 수록, 스파이의 계급이 높을 수록 기술을 훔치는 데 필요한 시간이 줄어듭니다.[NEWLINE][NEWLINE]해당 도시에 경찰서나 인터넷 검열 시스템이 있다면 스파이가 아예 활동하지 못 할 수도 있습니다.  해당 도시에 대항 스파이가 있다면 당신의 스파이가 잡히거나 죽을 수 있습니다. 잡힌 스파이는 여러 턴 동안 활동을 할 수 없게 됩니다. 상대 문명이 당신 스파이의 신분을 파악하면 해당 문명과의 관계가 악화됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_TOPIC">
       <Text>기술 훔치기</Text>
@@ -447,7 +447,7 @@
       <Text>{TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC}</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_SUMMARY">
-      <Text>당신이 창시한 종교가 도시 국가의 대중종교가 되면 해당 도시 국가에 대한 영향력이 25% 천천히 떨어지며 해당 도시 국가와의 영향력이 나쁘다면 회복 속도가 50% 빨라집니다.[NEWLINE][NEWLINE]또한 해당 도시 국가는 종종 특정 종교를 전파해 달라고 부탁하는데, 이에 성공하면 영향력이 상당히 증가합니다.</Text>
+      <Text>당신이 창시한 종교가 도시 국가의 대중종교가 되면 해당 도시 국가에 대한 영향력이 25% 천천히 떨어지며 해당 도시 국가와의 영향력이 나쁘다면 회복 속도가 50% 빨라집니다.[NEWLINE][NEWLINE] 해당 도시 국가는 종종 특정 종교를 전파해 달라고 부탁하는데, 이에 성공하면 영향력이 상당히 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC">
       <Text>종교 및 도시 국가와의 영향력</Text>
@@ -459,7 +459,7 @@
       <Text>{TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_TOPIC}</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_SUMMARY">
-      <Text>다른 문명을 만난 뒤 첫 번째로 할 수 있는 외교적 행동으로 대사관을 건설할 수 있습니다. 대사관은 ‘문자’ 기술을 연구하면 지을 수 있습니다. 대사관을 통해 상대와 방위 조약을 체결하거나 연구 협정을 맺을 수 있으며, 대사관이 완성되고 나면 상대의 수도 위치를 볼 수 있게 됩니다. 또한, 당신만 ‘문자’를 갖고 있고 상대는 없는 경우에도 게이머는 대사관을 지을 수 있습니다. 이때, 상대는 약간의 금전적 보상을 요구할 수도 있습니다. 상대와 전쟁을 벌이면 대사관은 자동으로 즉시 폐쇄됩니다.</Text>
+      <Text>다른 문명을 만난 뒤 첫 번째로 할 수 있는 외교적 행동으로 대사관을 건설할 수 있습니다. 대사관은 ‘문자’ 기술을 연구하면 지을 수 있습니다. 대사관을 통해 상대와 방위 조약을 체결하거나 연구 협정을 맺을 수 있으며, 대사관이 완성되고 나면 상대의 수도 위치를 볼 수 있게 됩니다.  당신만 ‘문자’를 갖고 있고 상대는 없는 경우에도 게이머는 대사관을 지을 수 있습니다. 이때, 상대는 약간의 금전적 보상을 요구할 수도 있습니다. 상대와 전쟁을 벌이면 대사관은 자동으로 즉시 폐쇄됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_TOPIC">
       <Text>대사관 건설</Text>
@@ -507,7 +507,7 @@
       <Text>{TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC}</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_SUMMARY">
-      <Text>처음에는 스파이 한 명으로 시작하지만 시대가 바뀌면서 스파이를 더 모집할 수 있습니다. 또한 국가 불가사의인 국가 정보국을 건설하면 스파이를 추가로 획득합니다.</Text>
+      <Text>처음에는 스파이 한 명으로 시작하지만 시대가 바뀌면서 스파이를 더 모집할 수 있습니다.  국가 불가사의인 국가 정보국을 건설하면 스파이를 추가로 획득합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC">
       <Text>스파이 더 얻기</Text>
@@ -587,7 +587,7 @@
       <Text>스파이 및 외교관</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_STEALING_TECHS_SUMMARY">
-      <Text>스파이를 사용하면 선진 문명의 기술을 훔칠 수 있습니다. 기술을 훔치려면 먼저 스파이를 목표 문명의 도시에 잠입시킵니다. 도시에 잠입한 스파이는 일정한 시간을 들여 "첩보망 구축" 활동을 합니다. 이는 "활동" 열에서 확인할 수 있습니다. 첩보망이 구축되면 목표 도시에 훔칠만한 기술이 있는지 알 수 있습니다. 기술을 훔치는데 걸리는 시간은 해당 도시의 과학과 스파이의 계급에 따라 다릅니다. 해당 도시가 생산하는 과학량이 많을 수록, 스파이의 계급이 높을 수록 기술을 훔치는 데 필요한 시간이 줄어듭니다.[NEWLINE][NEWLINE]해당 도시에 경찰서나 인터넷 검열 시스템이 있다면 스파이가 아예 활동하지 못 할 수도 있습니다. 또한 해당 도시에 대항 스파이가 있다면 당신의 스파이가 잡히거나 죽을 수 있습니다. 잡힌 스파이는 여러 턴 동안 활동을 할 수 없게 됩니다. 상대 문명이 당신 스파이의 신분을 파악하면 해당 문명과의 관계가 악화됩니다.</Text>
+      <Text>스파이를 사용하면 선진 문명의 기술을 훔칠 수 있습니다. 기술을 훔치려면 먼저 스파이를 목표 문명의 도시에 잠입시킵니다. 도시에 잠입한 스파이는 일정한 시간을 들여 "첩보망 구축" 활동을 합니다. 이는 "활동" 열에서 확인할 수 있습니다. 첩보망이 구축되면 목표 도시에 훔칠만한 기술이 있는지 알 수 있습니다. 기술을 훔치는데 걸리는 시간은 해당 도시의 과학과 스파이의 계급에 따라 다릅니다. 해당 도시가 생산하는 과학량이 많을 수록, 스파이의 계급이 높을 수록 기술을 훔치는 데 필요한 시간이 줄어듭니다.[NEWLINE][NEWLINE]해당 도시에 경찰서나 인터넷 검열 시스템이 있다면 스파이가 아예 활동하지 못 할 수도 있습니다.  해당 도시에 대항 스파이가 있다면 당신의 스파이가 잡히거나 죽을 수 있습니다. 잡힌 스파이는 여러 턴 동안 활동을 할 수 없게 됩니다. 상대 문명이 당신 스파이의 신분을 파악하면 해당 문명과의 관계가 악화됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_ADVISOR_QUESTION">
       <Text>첩보망은 어떻게 구축하나요?</Text>
@@ -596,7 +596,7 @@
       <Text>{TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC}</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_SUMMARY">
-      <Text>첩보망을 구축하려면 목표 도시에 스파이를 보내야 합니다. 도시에 잠입한 스파이는 일정한 시간을 들여 "첩보망 구축" 활동을 합니다. 이는 "활동" 열에서 확인할 수 있습니다. 첩보망이 구축되면 목표 도시에 훔칠 만한 기술이 있는지 알 수 있습니다. 또한 해당 도시 내부를 볼 수 있게 되므로 상대 문명의 침략 준비 등 중요한 정보를 가로챌 수도 있습니다</Text>
+      <Text>첩보망을 구축하려면 목표 도시에 스파이를 보내야 합니다. 도시에 잠입한 스파이는 일정한 시간을 들여 "첩보망 구축" 활동을 합니다. 이는 "활동" 열에서 확인할 수 있습니다. 첩보망이 구축되면 목표 도시에 훔칠 만한 기술이 있는지 알 수 있습니다.  해당 도시 내부를 볼 수 있게 되므로 상대 문명의 침략 준비 등 중요한 정보를 가로챌 수도 있습니다</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC">
       <Text>첩보망 구축 중</Text>
@@ -873,7 +873,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_MOVEMENT_EMBARKING_HEADING3_BODY">
-      <Text>게임이 시작되면, 지상 유닛들은 물이 있는 타일에는 들어갈 수 없습니다. 하지만 광학 기술이 개발되면, 지상 유닛들이 "승선"한 뒤 물이 있는 타일로 이동시킬 수 있는 기능이 추가됩니다. 유닛을 승선하려면, 유닛을 해안 타일로 이동한 뒤 "승선" 버튼을 클릭합니다. 승선한 상태에서 유닛은 물이 있는 곳으로 반드시 이동해야만 합니다. (광학 기술은 유닛들이 해안가의 물에 이동하는 것만을 가능하게 해줍니다. 이후 등장하는 천문학 기술이 개발되면, 유닛을 심해 타일로 이동할 수 있습니다.)[NEWLINE][NEWLINE]물에서 승선한 유닛들은 매우 느려지며, 거의 무력한 상태가 됩니다. 이들은 어느 정도는 수비를 할 수 있으나, 공격은 가할 수 없으며 사방이 트인 바다에 너무 오랫동안 혼자 놓여서는 안됩니다. 승선한 지상 유닛들은 강력한 해군과 함께 움직이는 것이 매우 중요합니다.[NEWLINE][NEWLINE]승선한 유닛이 다시 지상 타일에 근접하면, "상륙 모드" 버튼을 클릭할 수 있습니다. 그러면 유닛은 다시 지상으로 이동할 수 있게 됩니다. 또한, 지상 타일에 오른쪽 마우스 버튼을 클릭한 뒤 유닛을 클릭하면 자동으로 상륙하게 만들 수 있습니다.</Text>
+      <Text>게임이 시작되면, 지상 유닛들은 물이 있는 타일에는 들어갈 수 없습니다. 하지만 광학 기술이 개발되면, 지상 유닛들이 "승선"한 뒤 물이 있는 타일로 이동시킬 수 있는 기능이 추가됩니다. 유닛을 승선하려면, 유닛을 해안 타일로 이동한 뒤 "승선" 버튼을 클릭합니다. 승선한 상태에서 유닛은 물이 있는 곳으로 반드시 이동해야만 합니다. (광학 기술은 유닛들이 해안가의 물에 이동하는 것만을 가능하게 해줍니다. 이후 등장하는 천문학 기술이 개발되면, 유닛을 심해 타일로 이동할 수 있습니다.)[NEWLINE][NEWLINE]물에서 승선한 유닛들은 매우 느려지며, 거의 무력한 상태가 됩니다. 이들은 어느 정도는 수비를 할 수 있으나, 공격은 가할 수 없으며 사방이 트인 바다에 너무 오랫동안 혼자 놓여서는 안됩니다. 승선한 지상 유닛들은 강력한 해군과 함께 움직이는 것이 매우 중요합니다.[NEWLINE][NEWLINE]승선한 유닛이 다시 지상 타일에 근접하면, "상륙 모드" 버튼을 클릭할 수 있습니다. 그러면 유닛은 다시 지상으로 이동할 수 있게 됩니다.  지상 타일에 오른쪽 마우스 버튼을 클릭한 뒤 유닛을 클릭하면 자동으로 상륙하게 만들 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_NOTIFICATION_ALREADY_CREATED_PANTHEON">
       <Text>이미 종교관을 세웠습니다.</Text>
@@ -1399,7 +1399,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WAR_CANOES_HELP">
-      <Text>승선한 유닛의 방어력이 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]만큼 증가하며 시야 또한 증가합니다.</Text>
+      <Text>승선한 유닛의 방어력이 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]만큼 증가하며 시야  증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
       <Text>근접전 회피</Text>
@@ -1422,7 +1422,7 @@
         위대한 제독(아래 참조)을 제외한 위인은 모두 능력이 두 개 있습니다.[NEWLINE]- 위인을 소모하여 특수 시설을 건설할 수 있습니다.[NEWLINE]- 기타 특수 능력을 사용할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_BODY">
-      <Text>성채를 건설하면 주위 타일이 당신어의 영토로 변합니다. 또한 성채는 주둔하는 유닛에 큰 방어 보너스를 제공합니다. 게다가 성채 주위에서 턴을 끝내는 적 유닛은 피해를 입습니다. 하지만 이 피해는 주위에 성채가 몇 개 있든 한 번만 받게 됩니다. 자신이 건설한 성채라도 다른 문명이 주위 도시를 점령하는 등의 이유로 타일의 소유권이 바뀌면 해당 문명의 성채가 됩니다. 성채를 건설해 다른 문명의 영토를 잠식하면 해당 문명과의 외교 관계가 악화됩니다.</Text>
+      <Text>성채를 건설하면 주위 타일이 당신어의 영토로 변합니다.  성채는 주둔하는 유닛에 큰 방어 보너스를 제공합니다. 게다가 성채 주위에서 턴을 끝내는 적 유닛은 피해를 입습니다. 하지만 이 피해는 주위에 성채가 몇 개 있든 한 번만 받게 됩니다. 자신이 건설한 성채라도 다른 문명이 주위 도시를 점령하는 등의 이유로 타일의 소유권이 바뀌면 해당 문명의 성채가 됩니다. 성채를 건설해 다른 문명의 영토를 잠식하면 해당 문명과의 외교 관계가 악화됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_HEADING4_BODY">
       <Text>위대한 장군은 2타일 이내에 있는 모든 아군 지상 유닛들에 15%의 전투 보너스를 제공합니다. 전투 보너스는 근접 공격 유닛, 장거리 공격 유닛 및 모든 종류의 지상 유닛에 같이 적용됩니다.</Text>
@@ -1539,22 +1539,22 @@
       <Text>개틀링 기관총은 석궁병 등의 이전 원거리 유닛보다 훨씬 더 강력합니다. 사정거리는 1타일이지만 반격을 받지 않고 다른 유닛에게 큰 피해를 줄 수 있습니다. 기관총을 도시에 배치해 수비를 강화하십시오.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL_STRATEGY">
-      <Text>[ICON_GREAT_ADMIRAL]위대한 제독은  2타일 내의 모든 아군 해상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다. 또한 자신이 있는 타일과 주변 타일의 모든 해상 유닛의 피해를 즉시 회복시키는 [COLOR_POSITIVE_TEXT]함대 수리[ENDCOLOR]를 수행할 수 있습니다.[NEWLINE][NEWLINE]함대 수리 능력을 사용하면 위대한 제독이 사라집니다.</Text>
+      <Text>[ICON_GREAT_ADMIRAL]위대한 제독은  2타일 내의 모든 아군 해상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다.  자신이 있는 타일과 주변 타일의 모든 해상 유닛의 피해를 즉시 회복시키는 [COLOR_POSITIVE_TEXT]함대 수리[ENDCOLOR]를 수행할 수 있습니다.[NEWLINE][NEWLINE]함대 수리 능력을 사용하면 위대한 제독이 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
-      <Text>[ICON_GREAT_ENGINEER]위대한 기술자는 타일의 [ICON_PRODUCTION]생산을 크게 향상시키는 [COLOR_POSITIVE_TEXT]제조공장[ENDCOLOR]을 건설할 수 있습니다. 또한 도시의 건물 생산 속도를 증가시키는 [COLOR_POSITIVE_TEXT]생산 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 기술자가 사라집니다. </Text>
+      <Text>[ICON_GREAT_ENGINEER]위대한 기술자는 타일의 [ICON_PRODUCTION]생산을 크게 향상시키는 [COLOR_POSITIVE_TEXT]제조공장[ENDCOLOR]을 건설할 수 있습니다.  도시의 건물 생산 속도를 증가시키는 [COLOR_POSITIVE_TEXT]생산 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 기술자가 사라집니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
-      <Text>[ICON_GREAT_GENERAL]위대한 장군은 유닛에게 큰 방어 보너스를 주는 [COLOR_POSITIVE_TEXT]성채[ENDCOLOR]를 건설할 수 있습니다. 성채를 건설하면 주변 타일이 당신의 영토가 되며 성채 옆의 적 유닛에게 피해를 줍니다. 성채를 건설하면 위대한 장군이 사라집니다. 또한 2타일 내의 모든 아군 지상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다.</Text>
+      <Text>[ICON_GREAT_GENERAL]위대한 장군은 유닛에게 큰 방어 보너스를 주는 [COLOR_POSITIVE_TEXT]성채[ENDCOLOR]를 건설할 수 있습니다. 성채를 건설하면 주변 타일이 당신의 영토가 되며 성채 옆의 적 유닛에게 피해를 줍니다. 성채를 건설하면 위대한 장군이 사라집니다.  2타일 내의 모든 아군 지상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY">
-      <Text>[ICON_GREAT_MERCHANT]위대한 상인은 대량의 [ICON_GOLD]골드를 제공하는 [COLOR_POSITIVE_TEXT]세관[ENDCOLOR]을 건설할 수 있습니다. 또한 도시 국가에서 [COLOR_POSITIVE_TEXT]무역 임무[ENDCOLOR]를 수행하여 [ICON_GOLD]골드를 생성하고 해당 도시 국가와의 [ICON_INFLUENCE]영향력을 증가시킬 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 상인이 사라집니다.</Text>
+      <Text>[ICON_GREAT_MERCHANT]위대한 상인은 대량의 [ICON_GOLD]골드를 제공하는 [COLOR_POSITIVE_TEXT]세관[ENDCOLOR]을 건설할 수 있습니다.  도시 국가에서 [COLOR_POSITIVE_TEXT]무역 임무[ENDCOLOR]를 수행하여 [ICON_GOLD]골드를 생성하고 해당 도시 국가와의 [ICON_INFLUENCE]영향력을 증가시킬 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 상인이 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY">
-      <Text>[ICON_PROPHET]위대한 선지자는 종교를 창시하거나 강화할 수 있는 유일한 유닛입니다. 위대한 선지자는 대량의 [ICON_PEACE]신앙을 획득할 수 있는 [COLOR_POSITIVE_TEXT]성지[ENDCOLOR]를 건설할 수 있습니다. 또한 해당 도시의 이전 종교를 모두 대체하면서 종교를 [COLOR_POSITIVE_TEXT]4번[ENDCOLOR] 전파할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 선지자는 사라집니다.</Text>
+      <Text>[ICON_PROPHET]위대한 선지자는 종교를 창시하거나 강화할 수 있는 유일한 유닛입니다. 위대한 선지자는 대량의 [ICON_PEACE]신앙을 획득할 수 있는 [COLOR_POSITIVE_TEXT]성지[ENDCOLOR]를 건설할 수 있습니다.  해당 도시의 이전 종교를 모두 대체하면서 종교를 [COLOR_POSITIVE_TEXT]4번[ENDCOLOR] 전파할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 선지자는 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY">
-      <Text>[ICON_GREAT_SCIENTIST]위대한 과학자는 대량의 [ICON_RESEARCH]과학을 제공하는 [COLOR_POSITIVE_TEXT]아카데미[ENDCOLOR]를 건설할 수 있습니다. 또한 문명의 과학을 바탕으로 [COLOR_POSITIVE_TEXT]과학 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 과학자가 사라집니다.</Text>
+      <Text>[ICON_GREAT_SCIENTIST]위대한 과학자는 대량의 [ICON_RESEARCH]과학을 제공하는 [COLOR_POSITIVE_TEXT]아카데미[ENDCOLOR]를 건설할 수 있습니다.  문명의 과학을 바탕으로 [COLOR_POSITIVE_TEXT]과학 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 과학자가 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
       <Text>1차 세계대전 보병은 현대 시대의 기본 보병 유닛입니다. 이 유닛은 전 단계 유닛인 소총병보다 훨씬 강력합니다.</Text>

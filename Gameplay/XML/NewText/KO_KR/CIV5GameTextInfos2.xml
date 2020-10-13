@@ -1101,10 +1101,10 @@
       <Text>공중 투하</Text>
     </Row>
     <Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP">
-      <Text>우호적인 영토 내에 있을 때, 이 유닛은 다음 타일로 강하할 수 있습니다. 또한 그 후에도 다른 행동을 취할 수 있습니다.</Text>
+      <Text>우호적인 영토 내에 있을 때, 이 유닛은 다음 타일로 강하할 수 있습니다.  그 후에도 다른 행동을 취할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP_WITH_RANGE">
-      <Text>우호적인 영토 내에 있을 때, 이 유닛은 최대 {1_NumTiles}타일 떨어진 곳까지 강하할 수 있습니다. 또한 그 후에도 다른 행동을 취할 수 있습니다.</Text>
+      <Text>우호적인 영토 내에 있을 때, 이 유닛은 최대 {1_NumTiles}타일 떨어진 곳까지 강하할 수 있습니다.  그 후에도 다른 행동을 취할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_INTERFACEMODE_PING">
       <Text>팀원 핑</Text>
@@ -1860,7 +1860,7 @@
       <Text>도시 합병</Text>
     </Row>
     <Row Tag="TXT_KEY_POPUP_ANNEX_PUPPET">
-      <Text>{@1_CityName}의 [ICON_PUPPET]괴뢰정부를 합병하시겠습니까? 합병을 하게되면 이 도시에서 무엇을 생산할지 결정할 수 있지만, [ICON_HAPPINESS_4]불행이 증가하게 되고 새로운 사회 정책을 획득하기까지 더 오래 걸리게 됩니다. 또한, 다시 [ICON_PUPPET]괴뢰정부를 세울 수 없습니다.</Text>
+      <Text>{@1_CityName}의 [ICON_PUPPET]괴뢰정부를 합병하시겠습니까? 합병을 하게되면 이 도시에서 무엇을 생산할지 결정할 수 있지만, [ICON_HAPPINESS_4]불행이 증가하게 되고 새로운 사회 정책을 획득하기까지 더 오래 걸리게 됩니다.  다시 [ICON_PUPPET]괴뢰정부를 세울 수 없습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE">
       <Text>확실합니까?</Text>

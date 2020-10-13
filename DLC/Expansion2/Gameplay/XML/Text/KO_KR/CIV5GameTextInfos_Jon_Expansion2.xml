@@ -334,13 +334,13 @@
       <Text>미학</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR]은 문명이 [ICON_CULTURE]문화를 생성하는 능력을 강화합니다.[NEWLINE][NEWLINE]미학을 채택하면 위대한 작가, 예술가, 음악가를 25% 더 빨리 얻을 수 있으며, 우피치 미술관을 건설할 수 있습니다.[NEWLINE][NEWLINE]미학 계열의 모든 정책을 채택하면 세계 불가사의와 박물관의 걸작 테마 보너스가 두 배로 증가합니다. 또한, 산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 작가, 예술가 또는 음악가를 구매할 수 있습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR]은 문명이 [ICON_CULTURE]문화를 생성하는 능력을 강화합니다.[NEWLINE][NEWLINE]미학을 채택하면 위대한 작가, 예술가, 음악가를 25% 더 빨리 얻을 수 있으며, 우피치 미술관을 건설할 수 있습니다.[NEWLINE][NEWLINE]미학 계열의 모든 정책을 채택하면 세계 불가사의와 박물관의 걸작 테마 보너스가 두 배로 증가합니다.  산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 작가, 예술가 또는 음악가를 구매할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_RELIGION">
       <Text>[COLOR_WARNING_TEXT]이 계열은 종교가 있어야만 열립니다.[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]상업[ENDCOLOR]은 [ICON_GOLD]골드에 초점을 맞춘 보너스를 제공합니다.[NEWLINE][NEWLINE]상업을 채택하면 [ICON_CAPITAL]수도의 [ICON_GOLD]골드가 25% 증가하며, 빅 벤을 건설할 수 있습니다.[NEWLINE][NEWLINE]상업 계열의 모든 정책을 채택하면 모든 교역소의 [ICON_GOLD]골드 획득량이 1 증가합니다. 또한, 산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 상인을 구매할 수 있습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]상업[ENDCOLOR]은 [ICON_GOLD]골드에 초점을 맞춘 보너스를 제공합니다.[NEWLINE][NEWLINE]상업을 채택하면 [ICON_CAPITAL]수도의 [ICON_GOLD]골드가 25% 증가하며, 빅 벤을 건설할 수 있습니다.[NEWLINE][NEWLINE]상업 계열의 모든 정책을 채택하면 모든 교역소의 [ICON_GOLD]골드 획득량이 1 증가합니다.  산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 상인을 구매할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION">
       <Text>탐험</Text>
@@ -349,10 +349,10 @@
       <Text>탐험</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]탐험[ENDCOLOR]은 바다를 넘어 제국을 확장하는 능력을 강화합니다.[NEWLINE][NEWLINE]탐험을 채택하면 해상 유닛의 [ICON_MOVES]이동력이 1 증가하고 해상 전투 유닛의 시야가 1 증가하며, 루브르 박물관을 건설할 수 있습니다.[NEWLINE][NEWLINE]탐험 계열의 모든 정책을 채택하면 고고학 보너스를 얻을 수 있습니다. 또한, 산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 제독을 구매할 수 있습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]탐험[ENDCOLOR]은 바다를 넘어 제국을 확장하는 능력을 강화합니다.[NEWLINE][NEWLINE]탐험을 채택하면 해상 유닛의 [ICON_MOVES]이동력이 1 증가하고 해상 전투 유닛의 시야가 1 증가하며, 루브르 박물관을 건설할 수 있습니다.[NEWLINE][NEWLINE]탐험 계열의 모든 정책을 채택하면 고고학 보너스를 얻을 수 있습니다.  산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 제독을 구매할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_HONOR_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]명예[ENDCOLOR]는 당신의 군대를 다양한 방법으로 강화합니다.[NEWLINE][NEWLINE]명예를 채택하면 야만인과의 전투 시에 33%의 전투 보너스를 얻을 수 있으며, 밝혀진 영역에 야만인들의 야영지가 나타나면 알림을 받을 수 있습니다. 야만인을 처치할 때마다 [ICON_CULTURE]문화를 얻을 수 있으며, 제우스 동상을 건설할 수 있습니다.[NEWLINE][NEWLINE]명예 계열의 모든 정책을 채택하면 적 유닛을 처치할 때마다 [ICON_GOLD]골드를 얻을 수 있습니다. 또한, 산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 장군을 구매할 수 있습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]명예[ENDCOLOR]는 당신의 군대를 다양한 방법으로 강화합니다.[NEWLINE][NEWLINE]명예를 채택하면 야만인과의 전투 시에 33%의 전투 보너스를 얻을 수 있으며, 밝혀진 영역에 야만인들의 야영지가 나타나면 알림을 받을 수 있습니다. 야만인을 처치할 때마다 [ICON_CULTURE]문화를 얻을 수 있으며, 제우스 동상을 건설할 수 있습니다.[NEWLINE][NEWLINE]명예 계열의 모든 정책을 채택하면 적 유닛을 처치할 때마다 [ICON_GOLD]골드를 얻을 수 있습니다.  산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 장군을 구매할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP">
       <Text>[COLOR_POSITIVE_TEXT]자유[ENDCOLOR]는 빠른 확장을 원하는 문명에 적합합니다.[NEWLINE][NEWLINE]자유를 채택하면 모든 도시에서 [ICON_CULTURE]문화를 1 생성합니다. 피라미드를 건설할 수 있습니다.[NEWLINE][NEWLINE]자유 계열의 모든 정책을 채택하면 원하는 위인이 [ICON_CAPITAL]수도 근처에 출현합니다.
@@ -365,10 +365,10 @@
       <Text>[COLOR_POSITIVE_TEXT]신앙[ENDCOLOR]은 문명의 [ICON_PEACE]신앙을 강화합니다.[NEWLINE][NEWLINE]신앙을 채택하면 성소와 사원의 건설 시간이 반으로 줄어들고 젠네 모스크를 건설할 수 있습니다.[NEWLINE][NEWLINE]신앙 계열의 모든 정책을 채택하면 위대한 선지자가 출현하며 성지에서 [ICON_CULTURE]문화를 추가로 3 생성합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]합리[ENDCOLOR]는 [ICON_RESEARCH]과학을 사용하고 생성하는 능력을 강화합니다.[NEWLINE][NEWLINE]합리를 채택하면 제국이 [ICON_HAPPINESS_1]행복한 상태일 때 [ICON_RESEARCH]과학을 10% 더 얻을 수 있으며, 영곡탑을 건설할 수 있습니다.[NEWLINE][NEWLINE]합리 계열의 모든 정책을 채택하면 기술을 1개 얻을 수 있습니다. 또한, 산업 시대 시작부터 [ICON_PEACE]신앙을 소모해 위대한 과학자를 구매할 수 있습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]합리[ENDCOLOR]는 [ICON_RESEARCH]과학을 사용하고 생성하는 능력을 강화합니다.[NEWLINE][NEWLINE]합리를 채택하면 제국이 [ICON_HAPPINESS_1]행복한 상태일 때 [ICON_RESEARCH]과학을 10% 더 얻을 수 있으며, 영곡탑을 건설할 수 있습니다.[NEWLINE][NEWLINE]합리 계열의 모든 정책을 채택하면 기술을 1개 얻을 수 있습니다.  산업 시대 시작부터 [ICON_PEACE]신앙을 소모해 위대한 과학자를 구매할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]전통[ENDCOLOR]은 작은 제국에 적합합니다.[NEWLINE][NEWLINE]전통을 채택하면 도시의 경계 확장 시간이 매우 단축되며 [ICON_CAPITAL]수도에서 얻을 수 있는 [ICON_CULTURE]문화가 3 증가하고, 공중 정원을 건설할 수 있습니다. [NEWLINE][NEWLINE]전통 계열의 모든 정책을 채택하면 [ICON_FOOD]식량이 15% 증가하고 첫 4개의 도시가 송수로를 가진 상태로 시작합니다. 또한, 산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 기술자를 구매할 수 있습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]전통[ENDCOLOR]은 작은 제국에 적합합니다.[NEWLINE][NEWLINE]전통을 채택하면 도시의 경계 확장 시간이 매우 단축되며 [ICON_CAPITAL]수도에서 얻을 수 있는 [ICON_CULTURE]문화가 3 증가하고, 공중 정원을 건설할 수 있습니다. [NEWLINE][NEWLINE]전통 계열의 모든 정책을 채택하면 [ICON_FOOD]식량이 15% 증가하고 첫 4개의 도시가 송수로를 가진 상태로 시작합니다.  산업 시대 시작부터 [ICON_PEACE]신앙으로 위대한 기술자를 구매할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_CAPITALISM">
       <Text>자본주의</Text>
@@ -746,7 +746,7 @@
       <Text>주의 선택</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICYSCREEN_CONFIRM_CHANGE_IDEOLOGY">
-      <Text>이념을 변경하면 당신의 각 도시는 {1_AnarchyTurns}턴 동안 무정부상태가 되며 이 상태에서는 [ICON_PRODUCTION]생산, [ICON_GOLD]골드, [ICON_RESEARCH]과학, [ICON_CULTURE]문화 또는 [ICON_PEACE]신앙이 발생하지 않습니다. 또한, 현재 당신이 보유하고 있는 이념 주의의 수가 {3_CurrentIdeologyTree}의 {2_CurrentIdeologyTenets}개에서 {5_NewIdeologyTree}의 {4_NewIdeologyTenets}개로 떨어지게 됩니다.[NEWLINE][NEWLINE]하지만 {6_HappinessGain} [ICON_HAPPINESS_1] 여론 행복은 증가하게 됩니다.[NEWLINE](참고 : 새로운 이념을 주의로 선택할 때까지 주의로부터 얻는 행복을 일시적으로 상실하게 됩니다.)[NEWLINE][NEWLINE][COLOR_GREEN]{5_NewIdeologyName}[ENDCOLOR] 이념으로 변경하겠습니까?</Text>
+      <Text>이념을 변경하면 당신의 각 도시는 {1_AnarchyTurns}턴 동안 무정부상태가 되며 이 상태에서는 [ICON_PRODUCTION]생산, [ICON_GOLD]골드, [ICON_RESEARCH]과학, [ICON_CULTURE]문화 또는 [ICON_PEACE]신앙이 발생하지 않습니다.  현재 당신이 보유하고 있는 이념 주의의 수가 {3_CurrentIdeologyTree}의 {2_CurrentIdeologyTenets}개에서 {5_NewIdeologyTree}의 {4_NewIdeologyTenets}개로 떨어지게 됩니다.[NEWLINE][NEWLINE]하지만 {6_HappinessGain} [ICON_HAPPINESS_1] 여론 행복은 증가하게 됩니다.[NEWLINE](참고 : 새로운 이념을 주의로 선택할 때까지 주의로부터 얻는 행복을 일시적으로 상실하게 됩니다.)[NEWLINE][NEWLINE][COLOR_GREEN]{5_NewIdeologyName}[ENDCOLOR] 이념으로 변경하겠습니까?</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICYSCREEN_CONFIRM_TENET">
       <Text>[COLOR_GREEN]{1_TenetName}[ENDCOLOR]{1: plural 1?을; 2?를;} 채택하시겠습니까?</Text>
@@ -866,7 +866,7 @@
       <Text>당신에 대한 도시 국가의 [COLOR_POSITIVE_TEXT]두려움[ENDCOLOR]이 도시 국가의 [COLOR_WARNING_TEXT]불복[ENDCOLOR]보다 크다면 [ICON_INFLUENCE]영향력을 소모해 {@3_Unit} 하나를 공물로 요구할 수 있습니다. {1_FearLevel}{2_FactorDetails}</Text>
     </Row>
     <Row Tag="TXT_KEY_POP_CSTATE_GIFT_TILE_IMPROVEMENT_TT">
-      <Text>[ICON_GOLD]골드를 지불하면 이 도시 국가의 전략 사치 자원을 하나 개발할 수 있습니다. 해당 도시 국가는 개발한 자원을 얻게 되고 동맹인 문명 또한 해당 자원을 획득합니다.</Text>
+      <Text>[ICON_GOLD]골드를 지불하면 이 도시 국가의 전략 사치 자원을 하나 개발할 수 있습니다. 해당 도시 국가는 개발한 자원을 얻게 되고 동맹인 문명  해당 자원을 획득합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POP_CSTATE_GIFT_UNIT">
       <Text>도시 국가에 유닛을 주면 [ICON_INFLUENCE]영향력이 {1_Influence}만큼 증가</Text>

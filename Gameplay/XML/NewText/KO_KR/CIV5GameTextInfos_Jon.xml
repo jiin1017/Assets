@@ -122,7 +122,7 @@
       <Text>턴당 [COLOR_NEGATIVE_TEXT]2[ENDCOLOR] [ICON_GOLD]골드가 유지비로 지출됩니다.[NEWLINE][NEWLINE]철도는 유닛을 엄청난 속도로 이동시켜줍니다.[NEWLINE][NEWLINE]철도를 통해 [ICON_CAPITAL]수도와 연결된 도시는 [ICON_PRODUCTION]생산이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_RAILROAD_REC">
-      <Text>철도는 유닛을 엄청난 속도로 이동시켜줍니다. 또한 [ICON_CAPITAL]수도와 철도로 연결된 도시의 [ICON_PRODUCTION]생산을 증가시켜줍니다.</Text>
+      <Text>철도는 유닛을 엄청난 속도로 이동시켜줍니다.  [ICON_CAPITAL]수도와 철도로 연결된 도시의 [ICON_PRODUCTION]생산을 증가시켜줍니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_REMOVE_FEATURE_HELP">
       <Text>이 타일에 시설의 건설을 가능하게 합니다.</Text>
@@ -145,7 +145,7 @@
       <Text>턴당 [COLOR_NEGATIVE_TEXT]1[ENDCOLOR] [ICON_GOLD]골드가 유지비로 지출됩니다.[NEWLINE][NEWLINE]도로는 유닛을 빠른 속도로 이동시켜줍니다.[NEWLINE][NEWLINE]도로를 통해 [ICON_CAPITAL]수도와 도시가 연결되면 턴당 많은 양의 [ICON_GOLD]골드를 얻을 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_ROAD_REC">
-      <Text>도로는 유닛을 더 빠르게 이동시켜줍니다. 또한 [ICON_CAPITAL]수도와 도시를 도로로 연결하면 [ICON_GOLD]골드를 추가로 얻습니다.</Text>
+      <Text>도로는 유닛을 더 빠르게 이동시켜줍니다.  [ICON_CAPITAL]수도와 도시를 도로로 연결하면 [ICON_GOLD]골드를 추가로 얻습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_SCRUB_FALLOUT">
       <Text>[LINK=FEATURE_FALLOUT]낙진[\LINK] 제거</Text>
@@ -336,7 +336,7 @@
       <Text>건물을 건설할 때 [ICON_PRODUCTION]생산 보너스를 [COLOR_POSITIVE_TEXT]10%[ENDCOLOR] 제공합니다.[NEWLINE]언덕에 위치하지 않은 도시에서만 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_STATE_ALLY_TT">
-      <Text>도시 국가와 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]을 맺으면 도시 국가의 특성과 관련한 보너스를 더 많이 받습니다. 또한 도시 국가가 소유한 모든 자원을 제공받습니다.</Text>
+      <Text>도시 국가와 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]을 맺으면 도시 국가의 특성과 관련한 보너스를 더 많이 받습니다.  도시 국가가 소유한 모든 자원을 제공받습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_STATE_CULTURED_TT">
       <Text>[COLOR_POSITIVE_TEXT]문화적[ENDCOLOR] 도시 국가와 친선 관계가 되면, [ICON_CULTURE]문화를 선물받아 사회 정책을 더 빨리 채택할 수 있습니다.</Text>
@@ -411,7 +411,7 @@
       <Text>[COLOR_POSITIVE_TEXT]호의적[ENDCOLOR]인 성격의 도시 국가와 친해지면, 불가사의 건설을 요구한다거나 도로를 연결해달라는 등등의 주로 평화적인 요구를 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_HOSTILE_TT">
-      <Text>[COLOR_POSITIVE_TEXT]배타적[ENDCOLOR]인 성격의 도시 국가는 일반적인 도시 국가보다 [ICON_INFLUENCE]영향력이 더 빨리 감소합니다. 또한 근처의 도시 국가를 점령해달라는 요청을 더 자주 합니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]배타적[ENDCOLOR]인 성격의 도시 국가는 일반적인 도시 국가보다 [ICON_INFLUENCE]영향력이 더 빨리 감소합니다.  근처의 도시 국가를 점령해달라는 요청을 더 자주 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_IRRATIONAL_TT">
       <Text>[COLOR_POSITIVE_TEXT]비이성적[ENDCOLOR]인 성격의 도시 국가는 다른 도시 국가와 달리, 무슨 요청을 할지 알 수 없습니다.</Text>
@@ -504,7 +504,7 @@
       <Text>도시 국가와 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]을 맺으면 도시 국가가 소유한 모든 자원을 제공받습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_ALLIES">
-      <Text>{2_CityStateName:textkey}의 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]이 되려면 [COLOR_POSITIVE_TEXT]{1_Num} [ENDCOLOR][ICON_INFLUENCE]영향력이 필요합니다. 동맹을 맺게 되면 도시 국가가 소유한 모든 자원을 제공받습니다. 또한 도시 국가의 특성과 연관된 보너스를 우호적일 때보다 더 많이 받습니다.</Text>
+      <Text>{2_CityStateName:textkey}의 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]이 되려면 [COLOR_POSITIVE_TEXT]{1_Num} [ENDCOLOR][ICON_INFLUENCE]영향력이 필요합니다. 동맹을 맺게 되면 도시 국가가 소유한 모든 자원을 제공받습니다.  도시 국가의 특성과 연관된 보너스를 우호적일 때보다 더 많이 받습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_CURRENT">
       <Text>{2_CityStateName:textkey}에서 [COLOR_POSITIVE_TEXT]{1_Num} [ENDCOLOR][ICON_INFLUENCE]영향력을 확보했습니다. {3_DetailString}</Text>
@@ -2550,7 +2550,7 @@
       <Text>미학</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_AESTHETICS_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR][NEWLINE]모든 도시 국가의 최소 [ICON_INFLUENCE]영향력이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 또한, 전쟁 중인 도시 국가를 제외하고 [ICON_INFLUENCE]영향력이 20 이하인 도시 국가도 수치에 관계없이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 이 효과는 매 턴 시작할 때마다 적용되며 매우 분노한 도시 국가도 포함됩니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR][NEWLINE]모든 도시 국가의 최소 [ICON_INFLUENCE]영향력이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다.  전쟁 중인 도시 국가를 제외하고 [ICON_INFLUENCE]영향력이 20 이하인 도시 국가도 수치에 관계없이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 이 효과는 매 턴 시작할 때마다 적용되며 매우 분노한 도시 국가도 포함됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_ARISTOCRACY">
       <Text>귀족제</Text>
@@ -2608,7 +2608,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_HONOR_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]명예[ENDCOLOR]는 다양한 방법으로 군대의 효율을 높입니다.[NEWLINE][NEWLINE]명예를 채택하면 [COLOR_NEGATIVE_TEXT]야만인[ENDCOLOR]과의 전투에서 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가합니다. 또한 안개가 걷힌 지역에 새로운 야만인 주둔지가 생기는 경우 이를 알려줍니다. [COLOR_NEGATIVE_TEXT]야만인[ENDCOLOR]을 처치할 때마다 [ICON_CULTURE]문화를 획득합니다.[NEWLINE][NEWLINE]명예 계열의 모든 정책을 채택하면 적 유닛을 처치할 때마다 [ICON_GOLD]골드를 추가로 얻습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]명예[ENDCOLOR]는 다양한 방법으로 군대의 효율을 높입니다.[NEWLINE][NEWLINE]명예를 채택하면 [COLOR_NEGATIVE_TEXT]야만인[ENDCOLOR]과의 전투에서 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가합니다.  안개가 걷힌 지역에 새로운 야만인 주둔지가 생기는 경우 이를 알려줍니다. [COLOR_NEGATIVE_TEXT]야만인[ENDCOLOR]을 처치할 때마다 [ICON_CULTURE]문화를 획득합니다.[NEWLINE][NEWLINE]명예 계열의 모든 정책을 채택하면 적 유닛을 처치할 때마다 [ICON_GOLD]골드를 추가로 얻습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY">
       <Text>자유</Text>
@@ -2668,7 +2668,7 @@
       <Text>전통</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]전통[ENDCOLOR]은 소규모 국가에 이상적입니다.[NEWLINE][NEWLINE]전통을 채택하면 도시의 국경 확장률이 매우 증가하고, 또한 [ICON_CAPITAL]수도에 [COLOR_POSITIVE_TEXT]3[ENDCOLOR] [ICON_CULTURE]문화를 제공합니다.[NEWLINE][NEWLINE]전통 계열의 모든 정책을 채택하면 각 도시에 [ICON_FOOD]식량 성장률이 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 증가하고, 추가로 [ICON_FOOD]식량이 [COLOR_POSITIVE_TEXT]2[ENDCOLOR] 증가합니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]전통[ENDCOLOR]은 소규모 국가에 이상적입니다.[NEWLINE][NEWLINE]전통을 채택하면 도시의 국경 확장률이 매우 증가하고,  [ICON_CAPITAL]수도에 [COLOR_POSITIVE_TEXT]3[ENDCOLOR] [ICON_CULTURE]문화를 제공합니다.[NEWLINE][NEWLINE]전통 계열의 모든 정책을 채택하면 각 도시에 [ICON_FOOD]식량 성장률이 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 증가하고, 추가로 [ICON_FOOD]식량이 [COLOR_POSITIVE_TEXT]2[ENDCOLOR] 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_BRANCH_UNLOCK_SPEND">
       <Text>[COLOR_POSITIVE_TEXT]이 정책 계열을 선택할 수 있습니다![NEWLINE]클릭하면 {1_Num} [ICON_CULTURE]문화를 소모하여 정책 계열을 개방합니다.[ENDCOLOR]</Text>
@@ -2895,7 +2895,7 @@
       <Text>대의제</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_REPRESENTATION_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]대의제[ENDCOLOR][NEWLINE]당신이 직접 건설한 도시 또는 합병한 도시로 인해 늘어나는 정책의 [ICON_CULTURE]문화 요구치가 평소보다 [COLOR_POSITIVE_TEXT]33%[ENDCOLOR] 감소합니다. 또한, [ICON_GOLDEN_AGE]황금기를 시작합니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]대의제[ENDCOLOR][NEWLINE]당신이 직접 건설한 도시 또는 합병한 도시로 인해 늘어나는 정책의 [ICON_CULTURE]문화 요구치가 평소보다 [COLOR_POSITIVE_TEXT]33%[ENDCOLOR] 감소합니다.  [ICON_GOLDEN_AGE]황금기를 시작합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_REPUBLIC">
       <Text>공화제</Text>
@@ -2989,7 +2989,7 @@
       <Text>친선 관계가 되려면 [COLOR_POSITIVE_TEXT]{1_Num} [ENDCOLOR][ICON_INFLUENCE]영향력이 필요합니다. 그리고 동맹이 되려면 [COLOR_POSITIVE_TEXT]{2_Num} [ENDCOLOR][ICON_INFLUENCE]영향력이 필요합니다. 현재 당신은 [COLOR_POSITIVE_TEXT]{3_Num} [ENDCOLOR][ICON_INFLUENCE]영향력을 갖고 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POP_CSTATE_GOLD_TT">
-      <Text>[ICON_GOLD]골드를 선물하여 얻은 [ICON_INFLUENCE]영향력은 턴마다 감소합니다. 또한 한꺼번에 많은 양의 [ICON_GOLD]골드를 선물하는 편이 더 많은 [ICON_INFLUENCE]영향력을 얻습니다.</Text>
+      <Text>[ICON_GOLD]골드를 선물하여 얻은 [ICON_INFLUENCE]영향력은 턴마다 감소합니다.  한꺼번에 많은 양의 [ICON_GOLD]골드를 선물하는 편이 더 많은 [ICON_INFLUENCE]영향력을 얻습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POP_CSTATE_MAKE_PEACE">
       <Text>평화 협정</Text>
@@ -3337,7 +3337,7 @@
       <Text>군사 유닛의 업그레이드에 필요한 [ICON_GOLD]골드가 [COLOR_POSITIVE_TEXT]33%[ENDCOLOR] 감소합니다.[NEWLINE][NEWLINE]이 불가사의는 전 세계에서 하나만 건설할 수 있는 [COLOR_POSITIVE_TEXT]세계 불가사의[ENDCOLOR]입니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP">
-      <Text>영곡탑이 지어진 도시 근처의 타일에서 위대한 과학자가 탄생합니다. 또한, 연구 협정으로 생성된 [ICON_RESEARCH]과학의 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 추가적으로 생성합니다.[NEWLINE][NEWLINE]이 불가사의는 전 세계에서 하나만 건설할 수 있는 [COLOR_POSITIVE_TEXT]세계 불가사의[ENDCOLOR]입니다.</Text>
+      <Text>영곡탑이 지어진 도시 근처의 타일에서 위대한 과학자가 탄생합니다.  연구 협정으로 생성된 [ICON_RESEARCH]과학의 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 추가적으로 생성합니다.[NEWLINE][NEWLINE]이 불가사의는 전 세계에서 하나만 건설할 수 있는 [COLOR_POSITIVE_TEXT]세계 불가사의[ENDCOLOR]입니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_WONDER_PYRAMIDS_HELP">
       <Text>타지마할이 완성되면 국가의 [ICON_GOLDEN_AGE]황금기가 시작될 뿐만 아니라 추가로 [COLOR_POSITIVE_TEXT]4[ENDCOLOR] 행복을 제공합니다.[NEWLINE][NEWLINE]이 불가사의는 전 세계에서 하나만 건설할 수 있는 [COLOR_POSITIVE_TEXT]세계 불가사의[ENDCOLOR]입니다.</Text>

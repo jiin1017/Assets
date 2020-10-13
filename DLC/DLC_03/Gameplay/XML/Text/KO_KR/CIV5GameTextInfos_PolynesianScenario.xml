@@ -24,7 +24,7 @@
 	  </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_HEROIC_EPIC_STRATEGY">
-      <Text>이 국가 불가사의는 도시에서 만들어진 모든 유닛에게 페널티 없이 물 타일에서 공격할 수 있는 수륙 양용이 부여됩니다. 또한, 도시에 문화를 1만큼 제공합니다. 문명의 모든 도시에 병영이 있어야 영웅 서사시를 건설할 수 있습니다.
+      <Text>이 국가 불가사의는 도시에서 만들어진 모든 유닛에게 페널티 없이 물 타일에서 공격할 수 있는 수륙 양용이 부여됩니다.  도시에 문화를 1만큼 제공합니다. 문명의 모든 도시에 병영이 있어야 영웅 서사시를 건설할 수 있습니다.
 	  </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_OBSERVATORY_HELP">
@@ -80,7 +80,7 @@
    </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_DAWN_POLYNESIAN_TEXT">
-      <Text>알로하. 위대한 폴리네시아의 왕이시여! 당신은 지금 아름다운 열대 섬 하나만을 통치하고 있지만 곧 바다를 가로질러 위대한 업적을 쌓으실 명운을 타고나셨나이다. 폴리네시아인은 밤하늘의 별과 새떼 그리고 광대한 태평양 해류를 보고 정확하게 길을 찾는 방법을 알아냈습니다. 용감한 우리 뱃사람들은 이제 카누를 타고 새로 정착할 섬을 찾기 위해 대양을 누빌 것입니다. 고향을 등지고 거친 파도를 넘어 멀리 식민지를 건설하여 폴리네시아 전체에 길이 빛날 문화를 퍼뜨리십시오![NEWLINE][NEWLINE]승리 조건[NEWLINE]가장 먼저 사회 정책을 모두 채택하는 문명이 승리합니다.[NEWLINE][NEWLINE]특별 규칙[NEWLINE]전체적으로 태평양을 중심으로 펼쳐지는 바다가 많은 지형이므로 새로운 기술 및 사회 정책 발전표도 이에 맞게 준비되어있습니다. 네 개의 주요 문명은 각각 고유한 특성을 갖고 시작하며 일반적인 폴리네시아 고유 보너스(모아이 시설 및 마오리 전사 유닛)또한 적용받으며 시작합니다. 도시 숫자는 사회 정책 채택에 필요한 문화요구량에 영향을 주지 않으므로 마음껏 세력을 늘리셔도 괜찮습니다.</Text>
+      <Text>알로하. 위대한 폴리네시아의 왕이시여! 당신은 지금 아름다운 열대 섬 하나만을 통치하고 있지만 곧 바다를 가로질러 위대한 업적을 쌓으실 명운을 타고나셨나이다. 폴리네시아인은 밤하늘의 별과 새떼 그리고 광대한 태평양 해류를 보고 정확하게 길을 찾는 방법을 알아냈습니다. 용감한 우리 뱃사람들은 이제 카누를 타고 새로 정착할 섬을 찾기 위해 대양을 누빌 것입니다. 고향을 등지고 거친 파도를 넘어 멀리 식민지를 건설하여 폴리네시아 전체에 길이 빛날 문화를 퍼뜨리십시오![NEWLINE][NEWLINE]승리 조건[NEWLINE]가장 먼저 사회 정책을 모두 채택하는 문명이 승리합니다.[NEWLINE][NEWLINE]특별 규칙[NEWLINE]전체적으로 태평양을 중심으로 펼쳐지는 바다가 많은 지형이므로 새로운 기술 및 사회 정책 발전표도 이에 맞게 준비되어있습니다. 네 개의 주요 문명은 각각 고유한 특성을 갖고 시작하며 일반적인 폴리네시아 고유 보너스(모아이 시설 및 마오리 전사 유닛) 적용받으며 시작합니다. 도시 숫자는 사회 정책 채택에 필요한 문화요구량에 영향을 주지 않으므로 마음껏 세력을 늘리셔도 괜찮습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_IMPROVEMENTS_MOAI_HELP">
       <Text>모아이는 해안에만 건설할 수 있습니다. 만약 다른 모아이를 옆에 또 건설하면 추가적인 [ICON_CULTURE]문화 보너스를 제공할 것 입니다.</Text>
@@ -150,7 +150,7 @@
       </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_FIJI_TEXT">
-      <Text>약 3,500년 전 라피테스 인이 처음으로 피지에 정착했습니다. 이후 기원전 900년에서 600년 사이에 동남아시아와 인도네시아의 말라네시아 인이 이주해 왔습니다. 폴리네시아 중심부 근처에 자리 잡은 피지의 위치 때문에 이곳은 교역의 길목이 되었고 폴리네시아 전역에서 좀 처럼 찾아보기 힘든 수천 킬로미터 떨어진 지역에서 온 것으로 추정되는 돌과 교역 품 그리고 도구와 같은 고고학적 사료가 섬에서 발견되었습니다. 투이 통가 왕조의 전성기에 피지는 이들의 영향력 범위 안에 있었다.[NEWLINE][NEWLINE]피지는 19세기 내내 인근 통가의 침략과 부족 간 전쟁으로 몸살을 앓았습니다. 피지의 족장 세루 에펜시아 카코바우는 자신의 권력을 확장하고 왕권을 확립하는데 기독교 선교사를 이용했다고 합니다. (그 자신 역시 기독교인이었다) 카코바우는 호주 목화 농부들에게 땅을 팔고 일부 손실을 보아 미 의회를 자극하였고 이로 인해 문제에 봉착하게 되었습니다. 결국, 카코바우는 1874년에 자신의 영토를 영국에 양도하였다고 합니다.[NEWLINE][NEWLINE]초대 영국 총독은 '피지인을 위한 피지'와 같은 진보적인 일련의 법안들을 통과시켰고 결과적으로 원주민들은 섬의 땅 대부분에 대한 권리를 유지할 수 있었다고 합니다. 또한 영국의 식민 지배(마하트마 간디를 포함한 많은 사람이 중단할 것을 주장했던)와 함께 섬의 문화에 새로운 면을 가져온 인도의 계약 노동자들이 이주해왔습니다.[NEWLINE][NEWLINE]피지는 1970년에 독립했다. 독립 후 피지는 1987년까지 경제 원조를 받았지만 급작스레 원조가 끊긴 뒤 경제는 침체기에 들어섰으며 두 번의 군 쿠데타와 한 번의 민간 쿠데타가 일어나기도 했습니다.
+      <Text>약 3,500년 전 라피테스 인이 처음으로 피지에 정착했습니다. 이후 기원전 900년에서 600년 사이에 동남아시아와 인도네시아의 말라네시아 인이 이주해 왔습니다. 폴리네시아 중심부 근처에 자리 잡은 피지의 위치 때문에 이곳은 교역의 길목이 되었고 폴리네시아 전역에서 좀 처럼 찾아보기 힘든 수천 킬로미터 떨어진 지역에서 온 것으로 추정되는 돌과 교역 품 그리고 도구와 같은 고고학적 사료가 섬에서 발견되었습니다. 투이 통가 왕조의 전성기에 피지는 이들의 영향력 범위 안에 있었다.[NEWLINE][NEWLINE]피지는 19세기 내내 인근 통가의 침략과 부족 간 전쟁으로 몸살을 앓았습니다. 피지의 족장 세루 에펜시아 카코바우는 자신의 권력을 확장하고 왕권을 확립하는데 기독교 선교사를 이용했다고 합니다. (그 자신 역시 기독교인이었다) 카코바우는 호주 목화 농부들에게 땅을 팔고 일부 손실을 보아 미 의회를 자극하였고 이로 인해 문제에 봉착하게 되었습니다. 결국, 카코바우는 1874년에 자신의 영토를 영국에 양도하였다고 합니다.[NEWLINE][NEWLINE]초대 영국 총독은 '피지인을 위한 피지'와 같은 진보적인 일련의 법안들을 통과시켰고 결과적으로 원주민들은 섬의 땅 대부분에 대한 권리를 유지할 수 있었다고 합니다.  영국의 식민 지배(마하트마 간디를 포함한 많은 사람이 중단할 것을 주장했던)와 함께 섬의 문화에 새로운 면을 가져온 인도의 계약 노동자들이 이주해왔습니다.[NEWLINE][NEWLINE]피지는 1970년에 독립했다. 독립 후 피지는 1987년까지 경제 원조를 받았지만 급작스레 원조가 끊긴 뒤 경제는 침체기에 들어섰으며 두 번의 군 쿠데타와 한 번의 민간 쿠데타가 일어나기도 했습니다.
 	  </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_GUADALCANAL_TEXT">
@@ -164,7 +164,7 @@
       <Text>마주로 섬은 마샬 제도에서 가장 큰 섬이자 수도입니다. 주 산호섬에는 최소 2천 년 이상 사람이 살아왔다고 합니다. 마주로는 1914년에 일본군이 점령하기 전까지 독일 제국의 지배하에 있었습니다. 그렇지만, 식민 지배자 대부분은 원주민들 스스로 방어를 하도록 내버려두었다고 합니다.[NEWLINE]1944년 1월 30일 미국은 거대한 해군을 이끌고 마주로를 침공했지만, 일본군은 이미 섬을 비우고 인근 카와자레인 섬과 인에워탁 섬으로 철수한 상태였습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_NAURU_TEXT">
-      <Text>태평양 서쪽에 있는 나우루는 '행복한 섬'(수천 개의 다른 섬 역시 행복하지만)이라고도 불리며, 지금은 국토가 20 제곱 km에 불과한 세계에서 가장 작은 섬나라입니다. 미크로네시아 인과 폴리네시아 인이 이곳에 정착했으며 세계 식민 세력의 지배를 받아왔습니다. 또한, 미군은 태평양 전쟁에서 이 요새화된 섬을 그냥 지나쳤음에도 불구하고 일본군은 이 섬을 2차 세계대전 내내 점령하고 있었습니다.[NEWLINE][NEWLINE]나우루에는 엄청난 양의 인산염이 매장되어 있었고 이는 섬에서 가장 풍부한 천연자원이었습니다. 나우루는 1960년대에 들어서 광물에 대한 권리를 되찾은 후 채광 사업을 국유화시켰습니다. 그리고 잠시 동안이지만 나우루는 세계에서 가장 높은 1인당 국민소득을 자랑했었다고 합니다. 하지만, 매장돼 있던 인산염이 고갈되고 국가가 투자한 일련의 사업이 모두 실패로 끝나버리자 나우루는 일시에 빈곤 국가로 전락해버렸고, 남은 것은 황폐해진 생태계뿐이었습니다. 그 후 나우루는 쇠약해 가는 자국의 경제를 살리기 위해 면세 정책을 펼치고, 다른 나라의 범죄자를 수용하는 등 몇 가지 실험적인 정책을 시행했습니다.   
+      <Text>태평양 서쪽에 있는 나우루는 '행복한 섬'(수천 개의 다른 섬 역시 행복하지만)이라고도 불리며, 지금은 국토가 20 제곱 km에 불과한 세계에서 가장 작은 섬나라입니다. 미크로네시아 인과 폴리네시아 인이 이곳에 정착했으며 세계 식민 세력의 지배를 받아왔습니다.  미군은 태평양 전쟁에서 이 요새화된 섬을 그냥 지나쳤음에도 불구하고 일본군은 이 섬을 2차 세계대전 내내 점령하고 있었습니다.[NEWLINE][NEWLINE]나우루에는 엄청난 양의 인산염이 매장되어 있었고 이는 섬에서 가장 풍부한 천연자원이었습니다. 나우루는 1960년대에 들어서 광물에 대한 권리를 되찾은 후 채광 사업을 국유화시켰습니다. 그리고 잠시 동안이지만 나우루는 세계에서 가장 높은 1인당 국민소득을 자랑했었다고 합니다. 하지만, 매장돼 있던 인산염이 고갈되고 국가가 투자한 일련의 사업이 모두 실패로 끝나버리자 나우루는 일시에 빈곤 국가로 전락해버렸고, 남은 것은 황폐해진 생태계뿐이었습니다. 그 후 나우루는 쇠약해 가는 자국의 경제를 살리기 위해 면세 정책을 펼치고, 다른 나라의 범죄자를 수용하는 등 몇 가지 실험적인 정책을 시행했습니다.   
 	  </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_NENDO_TEXT">
@@ -309,7 +309,7 @@
       <Text>[COLOR_POSITIVE_TEXT]예술[ENDCOLOR]은 더 많은 정책을 채용할 수 있도록 제국의 문화를 늘립니다.[NEWLINE][NEWLINE]예술을 채택하면 기념비와 사원으로 얻는 턴당 [ICON_CULTURE]문화가 각각 2 만큼 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_CEREMONY_TEXT">
-      <Text>의식은 한 사회가 중요한 사건을 기리고 사회적 유대감을 형성하는 데 사용하는 의례라고 할 수 있습니다. 이러한 의식은 카바와 같은 공동 의식에서부터 파도타기같이 좀 더 사적인 것까지 범위가 다양합니다. 또한, 의식의 분위기가 얼마나 성스러운가에 따라 분류되기도 하는데, 일부는 타푸와 같이 상당히 엄숙한 반면 다른 것들은 훨씬 더 자유스러운 분위기로 진행되곤 합니다. 의식의 정확한 본질이 무엇이 되었건 간에 이런 의식은 해당 문화의 사회적 유대감을 강화시키는 역할을 수행했습니다.
+      <Text>의식은 한 사회가 중요한 사건을 기리고 사회적 유대감을 형성하는 데 사용하는 의례라고 할 수 있습니다. 이러한 의식은 카바와 같은 공동 의식에서부터 파도타기같이 좀 더 사적인 것까지 범위가 다양합니다.  의식의 분위기가 얼마나 성스러운가에 따라 분류되기도 하는데, 일부는 타푸와 같이 상당히 엄숙한 반면 다른 것들은 훨씬 더 자유스러운 분위기로 진행되곤 합니다. 의식의 정확한 본질이 무엇이 되었건 간에 이런 의식은 해당 문화의 사회적 유대감을 강화시키는 역할을 수행했습니다.
 	  </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA">
@@ -372,7 +372,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_DESC">
-      <Text>마나는 폴리네시아 사람들의 정신적 지주로 모든 창조물에 만연한 신비스러운 힘이나 본질을 뜻합니다. 폴리네시아의 섬마다 약간 다르게 단어를 사용하고 있기는 하지만 단어의 중요성과 핵심 의미는 잘 보존돼 있습니다. 위대한 업적과 행동은 마나의 결과물이며 이를 실현한 사람은 마나를 획득합니다. 마나를 소유한 사람은 권한과 명성 그리고 권력을 얻게 되고 마나를 잃으면 권력을 잃게 된다고 합니다. 또한, 마나가 고갈되면 마법을 시전 하기가 굉장히 어려워진다고 합니다.
+      <Text>마나는 폴리네시아 사람들의 정신적 지주로 모든 창조물에 만연한 신비스러운 힘이나 본질을 뜻합니다. 폴리네시아의 섬마다 약간 다르게 단어를 사용하고 있기는 하지만 단어의 중요성과 핵심 의미는 잘 보존돼 있습니다. 위대한 업적과 행동은 마나의 결과물이며 이를 실현한 사람은 마나를 획득합니다. 마나를 소유한 사람은 권한과 명성 그리고 권력을 얻게 되고 마나를 잃으면 권력을 잃게 된다고 합니다.  마나가 고갈되면 마법을 시전 하기가 굉장히 어려워진다고 합니다.
       </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_HELP">
@@ -394,7 +394,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_DESC">
-      <Text>고위 관리를 위해 마오리 족이 행하는 환영행사는 복잡한 의식입니다. 전통적으로 방문자에게 형식적인 위협을 가하는 것으로 시작(여기가 파우히리 의식 중 가장 흥미진진한 부분으로 인식됨)하며 앞으로 진행할 일의 방향에 혼선이 생기지 않도록 방문자가 변함없는 사람인지를 판단하고 주인의 전투력을 보여줍니다. 방문자는 평화의 아투아가 주는 선물 라우타푸를 받게 되며 양측은 서로 코를 맞대고 인사를 합니다. 인사가 끝나고 나면 의식 또한 마무리됩니다.
+      <Text>고위 관리를 위해 마오리 족이 행하는 환영행사는 복잡한 의식입니다. 전통적으로 방문자에게 형식적인 위협을 가하는 것으로 시작(여기가 파우히리 의식 중 가장 흥미진진한 부분으로 인식됨)하며 앞으로 진행할 일의 방향에 혼선이 생기지 않도록 방문자가 변함없는 사람인지를 판단하고 주인의 전투력을 보여줍니다. 방문자는 평화의 아투아가 주는 선물 라우타푸를 받게 되며 양측은 서로 코를 맞대고 인사를 합니다. 인사가 끝나고 나면 의식  마무리됩니다.
       </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_HELP">
@@ -454,7 +454,7 @@
       <Text>[COLOR_POSITIVE_TEXT]타푸[ENDCOLOR][NEWLINE]이후에 사회 정책 채택에 필요한 [ICON_CULTURE]문화요구치가 10%만큼 감소합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_THE_ARTS_TEXT">
-      <Text>예술은 개인의 감정을 추상적으로 표현한 것으로 예술가가 상상한 것을 물리적인 방식으로 만들어낸 것이라고 할 수 있습니다. 예술가의 노력으로 거의 모든 평범한 물체를 예술의 경지로 끌어올릴 수 있습니다. 예를 들면 간단한 나무껍질 옷감으로 옷을 만들 수도 있지만 같은 나무껍질로 타파를 만들면 하나의 예술품이 됩니다. 또한, 예술은 예술가가 좀 더 불멸의 존재에 가까워지도록 마나를 이용해 물체를 신성하게 만드는 방법이기도 합니다.
+      <Text>예술은 개인의 감정을 추상적으로 표현한 것으로 예술가가 상상한 것을 물리적인 방식으로 만들어낸 것이라고 할 수 있습니다. 예술가의 노력으로 거의 모든 평범한 물체를 예술의 경지로 끌어올릴 수 있습니다. 예를 들면 간단한 나무껍질 옷감으로 옷을 만들 수도 있지만 같은 나무껍질로 타파를 만들면 하나의 예술품이 됩니다.  예술은 예술가가 좀 더 불멸의 존재에 가까워지도록 마나를 이용해 물체를 신성하게 만드는 방법이기도 합니다.
 	  </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI">
@@ -479,20 +479,20 @@
    </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_HELP">
-      <Text>어선의 [ICON_GOLD]골드를 증가시킵니다. 또한 해안 도시에 [COLOR_POSITIVE_TEXT]항구[ENDCOLOR]를 건설해 물 자원에서 얻을 수 있는 [ICON_PRODUCTION]생산을 증가 시킬 수 있습니다.</Text>
+      <Text>어선의 [ICON_GOLD]골드를 증가시킵니다.  해안 도시에 [COLOR_POSITIVE_TEXT]항구[ENDCOLOR]를 건설해 물 자원에서 얻을 수 있는 [ICON_PRODUCTION]생산을 증가 시킬 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_QUOTE">
       <Text>[NEWLINE][TAB][TAB]"수경 재배는 위험 부담이 큰 사업입니다. 돈을 벌려고 수경 재배를 시작해서는 안 됩니다. 오직 이 사업을 사랑하는 사람만이 할 자격이 있습니다."[NEWLINE][TAB][TAB] - 마이클 매튜[NEWLINE][TAB]</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ASTRONOMY_HELP">
-      <Text>승선한 유닛에 [ICON_MOVES]이동력 +1을 제공합니다. 과학을 증가시키는 첫 건물인 [COLOR_POSITIVE_TEXT]천문대[ENDCOLOR]를 만들 수 있습니다. 또한, 물 타일의 [ICON_FOOD]식량을 증가시킬 수 있는 [COLOR_POSITIVE_TEXT]등대[ENDCOLOR]와 해상 교역로를 연결하는 데 필요한 [COLOR_POSITIVE_TEXT]항만[ENDCOLOR]을 건설할 수 있습니다.</Text>
+      <Text>승선한 유닛에 [ICON_MOVES]이동력 +1을 제공합니다. 과학을 증가시키는 첫 건물인 [COLOR_POSITIVE_TEXT]천문대[ENDCOLOR]를 만들 수 있습니다.  물 타일의 [ICON_FOOD]식량을 증가시킬 수 있는 [COLOR_POSITIVE_TEXT]등대[ENDCOLOR]와 해상 교역로를 연결하는 데 필요한 [COLOR_POSITIVE_TEXT]항만[ENDCOLOR]을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_DESC">
       <Text>폴리네시아 문화에는 널리 통용되는 고유의 문자 체계가 없었고 의식용 춤과 노래 등 구전이나 다양한 연상 기호 방법을 통해 문화가 계승되었다고 합니다. 폴리네시아 각 지역의 춤은 서로 다릅니다. 의식용 춤은 풍요 의식을 동반해 신을 섬기고 족장과 영웅을 찬양하는 데 사용되었으며, 존경하는 방문자를 환영하는 방법으로도 사용되었습니다. 서양의 문물을 접하게 되면서 대부분의 서양의 악기와 음악 스타일이 현지의 춤과 뒤섞이였다고 합니다.[NEWLINE][NEWLINE]폴리네시아에서 가장 유명한 의식용 춤은 아마도 하와이에서 만들어진 훌라와 뉴질랜드의 마오리 하카일 것입니다. 훌라는 파도치는 함성과 동작으로 유명하며 하카는 생동감 넘치는 동작과 발구름, 그리고 리듬을 타는 함성으로 유명합니다. 훌라는 두 개의 커다란 종류로 분류됩니다. 서양 문물이 유입되기 전의 고대 훌라는 '카히코'라고 불리며 좀 더 현대적인 19세기와 20세기 스타일의 훌라는 '아우아나'라고 불립니다. 마오리 족 남녀 모두 장례식에서부터 전쟁에 이르기까지 하카를 춰왔다고 합니다.[NEWLINE][NEWLINE]아직도 춤은 폴리네시아 문화의 중요한 일부분으로 우아한 동작과 좀 더 평화로운 징후의 조화 그리고 힘이 넘치는 럭비팀의 공격적인 인사법 등을 통해 미래의 세대가 문화를 경험할 수 있도록 폴리네시아 전역에 걸쳐 널리 전수되고 있습니다.
    </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_HELP">
-      <Text>게임 내에서 가장 강력한 고전 유닛인 [COLOR_POSITIVE_TEXT]마오리 전사[ENDCOLOR]를 만들 수 있습니다. 또한, [COLOR_POSITIVE_TEXT]건국 서사시[ENDCOLOR]를 건설할 수 있게 됩니다. </Text>
+      <Text>게임 내에서 가장 강력한 고전 유닛인 [COLOR_POSITIVE_TEXT]마오리 전사[ENDCOLOR]를 만들 수 있습니다.  [COLOR_POSITIVE_TEXT]건국 서사시[ENDCOLOR]를 건설할 수 있게 됩니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_QUOTE">
       <Text>[NEWLINE][TAB][TAB]"난 춤을 출줄 아는 신만을 믿을 것이다."[NEWLINE][TAB][TAB] - 프리드리히 니체[NEWLINE][TAB]</Text>
@@ -501,22 +501,22 @@
       <Text>르네상스 시대의 첫 해상 유닛인 [COLOR_POSITIVE_TEXT]캐러벨선[ENDCOLOR]을 만들 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CONSTRUCTION_HELP">
-      <Text>도시의 방어력을 상당 수준 증가시키는 [COLOR_POSITIVE_TEXT]성벽[ENDCOLOR]을 건설할 수 있습니다. 또한, 노동자이 [COLOR_POSITIVE_TEXT]도로[ENDCOLOR]와 [COLOR_POSITIVE_TEXT]요새[ENDCOLOR]를 건설할 수 있게 됩니다. </Text>
+      <Text>도시의 방어력을 상당 수준 증가시키는 [COLOR_POSITIVE_TEXT]성벽[ENDCOLOR]을 건설할 수 있습니다.  노동자이 [COLOR_POSITIVE_TEXT]도로[ENDCOLOR]와 [COLOR_POSITIVE_TEXT]요새[ENDCOLOR]를 건설할 수 있게 됩니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
-      <Text>[ICON_GOLD]골드를 증가시키는 [COLOR_POSITIVE_TEXT]시장[ENDCOLOR]을 건설할 수 있으며 타일을 [COLOR_POSITIVE_TEXT]교역소[ENDCOLOR]로 개발할 수 있습니다. 또한, 도시의 [ICON_PRODUCTION]생산의 일부를 유닛이나 건물 생산에 사용하지 않고 [ICON_GOLD]골드를 생산하는데 쓸 수 있습니다.</Text>
+      <Text>[ICON_GOLD]골드를 증가시키는 [COLOR_POSITIVE_TEXT]시장[ENDCOLOR]을 건설할 수 있으며 타일을 [COLOR_POSITIVE_TEXT]교역소[ENDCOLOR]로 개발할 수 있습니다.  도시의 [ICON_PRODUCTION]생산의 일부를 유닛이나 건물 생산에 사용하지 않고 [ICON_GOLD]골드를 생산하는데 쓸 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
-      <Text>화기를 사용하는 첫 유닛인 [COLOR_POSITIVE_TEXT]머스킷 총병[ENDCOLOR]을 양성할 수 있습니다. 또한, 유럽인과의 접촉으로 얻은 새로운 기술의 경제적 혜택 몇 가지를 제공합니다.</Text>
+      <Text>화기를 사용하는 첫 유닛인 [COLOR_POSITIVE_TEXT]머스킷 총병[ENDCOLOR]을 양성할 수 있습니다.  유럽인과의 접촉으로 얻은 새로운 기술의 경제적 혜택 몇 가지를 제공합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MASONRY_HELP">
-      <Text>도시의 문화를 증가시키는 [COLOR_POSITIVE_TEXT]기념비[ENDCOLOR]를 건설할 수 있습니다. 또한, 노동자이 [ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]대리석[ENDCOLOR] 위에 채석장을 건설할 수 있으며 다른 시설을 건설할 수 있도록 [COLOR_POSITIVE_TEXT]습지[ENDCOLOR]를 개간할 수 있습니다.</Text>
+      <Text>도시의 문화를 증가시키는 [COLOR_POSITIVE_TEXT]기념비[ENDCOLOR]를 건설할 수 있습니다.  노동자이 [ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]대리석[ENDCOLOR] 위에 채석장을 건설할 수 있으며 다른 시설을 건설할 수 있도록 [COLOR_POSITIVE_TEXT]습지[ENDCOLOR]를 개간할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MINING_HELP">
       <Text>노동자이 [COLOR_POSITIVE_TEXT]광산[ENDCOLOR]을 건설하여 타일에서 얻을 수 있는 [ICON_PRODUCTION]생산을 높일 수 있으며, [COLOR_POSITIVE_TEXT]벌목[ENDCOLOR]과 [COLOR_POSITIVE_TEXT]정글 개간[ENDCOLOR]을 통해 그 자리에 다른 시설을 건설할 수 있게 됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_NAVIGATION_HELP">
-      <Text>시나리오의 첫 전함인 [COLOR_POSITIVE_TEXT]삼단노선[ENDCOLOR]을 건조할 수 있게 됩니다. 또한, 승선한 유닛이 전함의 공격을 방어할 수 있게 됩니다. </Text>
+      <Text>시나리오의 첫 전함인 [COLOR_POSITIVE_TEXT]삼단노선[ENDCOLOR]을 건조할 수 있게 됩니다.  승선한 유닛이 전함의 공격을 방어할 수 있게 됩니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_OPTICS_HELP">
       <Text>시나리오에서 가장 강력한 전함인 [COLOR_POSITIVE_TEXT]프리깃함[ENDCOLOR]을 건조할 수 있게 됩니다. </Text>
@@ -548,10 +548,10 @@
       <Text>[NEWLINE][TAB][TAB]"문신이 없는 자는 신의 눈에 띄지 않는다."[NEWLINE][TAB][TAB] - 이반 속담[NEWLINE][TAB]</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_THEOLOGY_HELP">
-      <Text>각각 [ICON_CULTURE]문화와 [ICON_RESEARCH]과학를 증가 시키는 [COLOR_POSITIVE_TEXT]사원[ENDCOLOR]과 [COLOR_POSITIVE_TEXT]도서관[ENDCOLOR]을 건설할 수 있습니다. 또한, [COLOR_POSITIVE_TEXT]법원[ENDCOLOR]을 지을 수 있게 되는데, 이는 [ICON_OCCUPIED] 점령한 도시에서 발생하는 [ICON_HAPPINESS_4] 불만을 줄여줍니다.</Text>
+      <Text>각각 [ICON_CULTURE]문화와 [ICON_RESEARCH]과학를 증가 시키는 [COLOR_POSITIVE_TEXT]사원[ENDCOLOR]과 [COLOR_POSITIVE_TEXT]도서관[ENDCOLOR]을 건설할 수 있습니다.  [COLOR_POSITIVE_TEXT]법원[ENDCOLOR]을 지을 수 있게 되는데, 이는 [ICON_OCCUPIED] 점령한 도시에서 발생하는 [ICON_HAPPINESS_4] 불만을 줄여줍니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
-      <Text>강한 군사 유닛인 [COLOR_POSITIVE_TEXT]창병[ENDCOLOR]을 양성할 수 있습니다. 또한, 노동자이 [COLOR_POSITIVE_TEXT]야영지[ENDCOLOR]를 [ICON_RES_DEER]사슴과 [ICON_RES_IVORY]상아, [ICON_RES_FUR]모피 자원 위에 건설할 수 있게 됩니다. 
+      <Text>강한 군사 유닛인 [COLOR_POSITIVE_TEXT]창병[ENDCOLOR]을 양성할 수 있습니다.  노동자이 [COLOR_POSITIVE_TEXT]야영지[ENDCOLOR]를 [ICON_RES_DEER]사슴과 [ICON_RES_IVORY]상아, [ICON_RES_FUR]모피 자원 위에 건설할 수 있게 됩니다. 
 	  </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_DESC">

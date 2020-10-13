@@ -24,7 +24,7 @@
       <Text>도시에 은행이 있어야 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_STRATEGY">
-      <Text>터키탕은 오스만의 고유 건물입니다. 증권거래소와 같이 터키탕은 도시의 자금력을 증가시킵니다. 또한, 도시의 [ICON_GOLD]골드도 증가합니다. 다른 문명의 도시와 교역로가 연결될 때마다 터키탕이 있는 도시의 [ICON_GOLD]골드가 2 증가하며 연결된 다른 도시의 [ICON_GOLD]골드도 1 증가합니다. 도시에 은행이 건설되어 있어야 터키탕을 건설할 수 있습니다.</Text>
+      <Text>터키탕은 오스만의 고유 건물입니다. 증권거래소와 같이 터키탕은 도시의 자금력을 증가시킵니다.  도시의 [ICON_GOLD]골드도 증가합니다. 다른 문명의 도시와 교역로가 연결될 때마다 터키탕이 있는 도시의 [ICON_GOLD]골드가 2 증가하며 연결된 다른 도시의 [ICON_GOLD]골드도 1 증가합니다. 도시에 은행이 건설되어 있어야 터키탕을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_TEXT">
       <Text>고대 로마식 목욕탕에서 진화한 터키탕은 빅토리아 시대에 중동과 유럽에서 피로를 풀고 건강을 지키는 방법으로 각광받았다.</Text>
@@ -590,7 +590,7 @@
       <Text>자본주의</Text>
     </Row>
     <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E6_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]자본주의[ENDCOLOR][NEWLINE]모든 육상 및 해상 교역로에서 추가로 1 [ICON_GOLD]골드를 획득합니다. 또한, [ICON_CAPITAL]수도와 [ICON_CONNECTED]연결된 도시마다 [ICON_HAPPINESS_1]행복을 2 추가로 획득합니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]자본주의[ENDCOLOR][NEWLINE]모든 육상 및 해상 교역로에서 추가로 1 [ICON_GOLD]골드를 획득합니다.  [ICON_CAPITAL]수도와 [ICON_CONNECTED]연결된 도시마다 [ICON_HAPPINESS_1]행복을 2 추가로 획득합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1">
       <Text>사하라의 군대</Text>
@@ -755,7 +755,7 @@
       <Text>고고학자를 대체하는 유럽 유닛입니다. 고고학자와는 달리 스스로 공격/방어를 할 수 있습니다. 험준한 지형도 일반 지형처럼 이동할 수 있습니다. 대학이 필요하지 않습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE_STRATEGY">
-      <Text>소총병을 대신하는 벨기에 유닛입니다. 험지 승급을 받아 험난한 지형에서 더욱 잘 싸울 수 있습니다. 또한 상처 입은 유닛을 공격할 때 공격력이 상승하는 승급도 있습니다.</Text>
+      <Text>소총병을 대신하는 벨기에 유닛입니다. 험지 승급을 받아 험난한 지형에서 더욱 잘 싸울 수 있습니다.  상처 입은 유닛을 공격할 때 공격력이 상승하는 승급도 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS_STRATEGY">
       <Text>소총병을 대체하는 보어 공화국 유닛입니다. 일반 소총병보다 공격력은 약하지만 방어력이 강합니다. 적을 처치한 후 부분적으로 회복하기도 합니다.</Text>

@@ -198,7 +198,7 @@
       <Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_CULTURE]  문명 특성에서 획득</Text>
     </Row>
     <Row Tag="TXT_KEY_CULTURE_HELP_INFO">
-      <Text>[ICON_CULTURE]문화는 도시의 영토를 확장시켜 도시 산출량을 높일 수 있게 합니다. 또한 [COLOR_POSITIVE_TEXT]사회 정책[ENDCOLOR]을 채택하는 데에도 필요합니다.</Text>
+      <Text>[ICON_CULTURE]문화는 도시의 영토를 확장시켜 도시 산출량을 높일 수 있게 합니다.  [COLOR_POSITIVE_TEXT]사회 정책[ENDCOLOR]을 채택하는 데에도 필요합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CULTURE_INFO">
       <Text>국경 확장까지 [ENDCOLOR][COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]/[COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR]</Text>
@@ -1197,7 +1197,7 @@
       <Text>[COLOR_POSITIVE_TEXT]{1_Num} 턴[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_SWITCH_POLICY_BRANCHES">
-      <Text>[COLOR_POSITIVE_TEXT]{1_NewBranchName:textkey}[ENDCOLOR]{1: plural 1?을; 2?를;} 채택하시겠습니까? {1_NewBranchName:textkey}{1: plural 1?을; 2?를;} 선택하시면, {2_OldBranches}에서 받던 모든 효과를 잃게 됩니다. 또한, 한 턴 동안 [COLOR_WARNING_TEXT]무정부 상태[ENDCOLOR]가 되어, 이 기간동안 [ICON_PRODUCTION]생산, [ICON_RESEARCH]과학, [ICON_GOLD]골드를 얻을 수 없습니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]{1_NewBranchName:textkey}[ENDCOLOR]{1: plural 1?을; 2?를;} 채택하시겠습니까? {1_NewBranchName:textkey}{1: plural 1?을; 2?를;} 선택하시면, {2_OldBranches}에서 받던 모든 효과를 잃게 됩니다.  한 턴 동안 [COLOR_WARNING_TEXT]무정부 상태[ENDCOLOR]가 되어, 이 기간동안 [ICON_PRODUCTION]생산, [ICON_RESEARCH]과학, [ICON_GOLD]골드를 얻을 수 없습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TALK_TO_PLAYER">
       <Text>[COLOR_YELLOW]클릭하면 이 도시의 지도자와 대화합니다![ENDCOLOR]</Text>
