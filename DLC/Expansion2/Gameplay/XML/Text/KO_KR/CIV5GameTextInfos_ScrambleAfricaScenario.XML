@@ -719,7 +719,7 @@
       <Text>포함 외교</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS">
-      <Text>타일 시설 건설 속도가 두 배로 증가합니다.</Text>
+      <Text>타일 시설 건설 속도가 두 배 빨라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS_SHORT">
       <Text>로도스의 거상</Text>
