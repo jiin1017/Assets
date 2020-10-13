@@ -8,7 +8,7 @@
       <Text>해안가에 있는 야만인 주둔지에서 현재 가장 기술이 진보한 문명이 생산할 수 있는 해상 유닛이 출현할 수 있습니다. 이들 유닛은 해안가를 돌아다니며 해상 시설을 파괴하고 사정거리에 들어온 해상 유닛을 공격합니다. 따라서 해상 유닛을 생산해 해안의 안전을 확보해야 합니다. 가장 좋은 방법은 근처 해안가에 있는 야만인 주둔지를 파괴하는 것입니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_CATHEDRAL_STRATEGY">
-      <Text>대성당 교리가 있는 종교를 믿는 도시에만 건설할 수 있습니다. 대성당을 건설하려면 [ICON_PEACE] 신앙이 필요합니다.</Text>
+      <Text>대성당 교리가 있는 종교를 믿는 도시에만 건설할 수 있습니다. 대성당을 건설하려면 [ICON_PEACE]신앙이 필요합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_TEXT">
          <Text>대사원은 신자들에게 성스러운 장소이며 경외의 대상입니다. 대사원은 보통 건축술의 정수이며 오랜 세월을 견디며 보는 이에게 믿음을 불어넣는 장식 문구가 새겨져 있습니다. 정확하지는 않지만, 세상에서 가장 오래된 사원은 터키에 있는 괴베클리 테페입니다. 이 사원은 12,000년 전에 건설되었으며 인간이 건축한 가장 오래된 종교 건물입니다.</Text>
@@ -1657,13 +1657,13 @@
       <Text>건축은 미술과 과학 양쪽 측면을 모두 지닙니다. 건물을 기획하고 설계하는 것부터 실제 건설 과정까지를 포함하는 건축은 고대부터 중요한 요소였습니다. 지금까지 알려진 가장 오래된 건축서인 '건축 10서'는 기원전 1세기경 로마 건축가 비트루비우스가 쓴 책입니다. 총 10권으로 구성된 이 책은 로마의 가장 복잡한 건축법을 모두 자세하게 기술하였습니다. 현재 비트루비우스의 저작은 건축 설계 과정의 발전에 중요한 역할을 했다는 평가를 받습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_ARCHITECTURE_HELP">
-      <Text>건축학을 연구하면 [ICON_CULTURE]문화와 [ICON_RESEARCH] 과학, [ICON_HAPPINESS_1]행복을 크게 높여주는 다양한 불가사의를 건설할 수 있습니다.</Text>
+      <Text>건축학을 연구하면 [ICON_CULTURE]문화와 [ICON_RESEARCH]과학, [ICON_HAPPINESS_1]행복을 크게 높여주는 다양한 불가사의를 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_ARCHITECTURE_QUOTE">
       <Text>[NEWLINE][TAB][TAB]"토목 공학이 끝나는 시점이 바로 건축의 시작이다."[NEWLINE] - 월터 그로피우스[NEWLINE][TAB]</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_ASTRONOMY_HELP">
-      <Text>천문학을 연구하면 대양을 항해할 수 있는 [COLOR_POSITIVE_TEXT]캐러벨선[ENDCOLOR]을 만들 수 있으며 [ICON_RESEARCH] 과학을 크게 증가시키는 [COLOR_POSITIVE_TEXT]천문대[ENDCOLOR]를 만들 수 있습니다. 승선한 유닛이 대양을 항해할 수 있습니다.</Text>
+      <Text>천문학을 연구하면 대양을 항해할 수 있는 [COLOR_POSITIVE_TEXT]캐러벨선[ENDCOLOR]을 만들 수 있으며 [ICON_RESEARCH]과학을 크게 증가시키는 [COLOR_POSITIVE_TEXT]천문대[ENDCOLOR]를 만들 수 있습니다. 승선한 유닛이 대양을 항해할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_BALLISTICS_HELP">
       <Text>탄도학을 연구하면 적 항공기의 침공을 막는 데 유용한 [COLOR_POSITIVE_TEXT]대공포[ENDCOLOR]와 사정거리는 한 타일이지만 강력한 위력을 자랑하는 원거리 유닛인 [COLOR_POSITIVE_TEXT]기관총[ENDCOLOR]을 만들 수 있습니다.</Text>
@@ -1715,7 +1715,7 @@
       <Text>생태학을 연구하면 도시 내부나 사막 옆 타일에 [COLOR_POSITIVE_TEXT]태양열 발전소[ENDCOLOR]를 건설할 수 있습니다. 태양열 발전소를 건설하면 [ICON_PRODUCTION]생산이 증가합니다. 또한 [ICON_RES_ALUMINUM]알루미늄 자원을 추가로 제공하는 [COLOR_POSITIVE_TEXT]재활용 센터[ENDCOLOR]를 건설할 수 있습니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_EDUCATION_HELP">
-      <Text>교육을 연구하면 [ICON_RESEARCH] 과학을 늘려주는 [COLOR_POSITIVE_TEXT]대학[ENDCOLOR]을 건설할 수 있으며 [COLOR_POSITIVE_TEXT]연구 협정[ENDCOLOR] 등 새로운 [ICON_RESEARCH] 과학 관련 능력을 얻을 수 있습니다. 연구 협정은 다른 플레이어와 맺는 특별한 거래입니다.</Text>
+      <Text>교육을 연구하면 [ICON_RESEARCH]과학을 늘려주는 [COLOR_POSITIVE_TEXT]대학[ENDCOLOR]을 건설할 수 있으며 [COLOR_POSITIVE_TEXT]연구 협정[ENDCOLOR] 등 새로운 [ICON_RESEARCH]과학 관련 능력을 얻을 수 있습니다. 연구 협정은 다른 플레이어와 맺는 특별한 거래입니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_ELECTRICITY_HELP">
       <Text>전기를 연구하면 다양한 게임 후반 유닛을 만드는 데 필요한 [ICON_RES_ALUMINUM]알루미늄 자원을 발견할 수 있습니다. [ICON_GOLD]골드를 늘려주는 [COLOR_POSITIVE_TEXT]증권거래소[ENDCOLOR], 강 옆의 타일의 생산을 높여주는 [COLOR_POSITIVE_TEXT]수력 발전소[ENDCOLOR], 적 스파이가 기술을 훔치는데 필요한 시간을 늘려주는 [COLOR_POSITIVE_TEXT]경찰서[ENDCOLOR]를 건설할 수 있습니다.</Text>
@@ -1775,7 +1775,7 @@
       <Text>철학을 연구하면 도시의 [ICON_PEACE]신앙을 늘려주는 [COLOR_POSITIVE_TEXT]사원[ENDCOLOR]을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_PLASTICS_HELP">
-      <Text>플라스틱 공학을 연구하면 도시의 [ICON_RESEARCH] 과학을 올려주는 [COLOR_POSITIVE_TEXT]연구소[ENDCOLOR]를 건설할 수 있으며 게임 후반 기본 지상 유닛인 [COLOR_POSITIVE_TEXT]보병[ENDCOLOR]을 만들 수 있습니다. </Text>
+      <Text>플라스틱 공학을 연구하면 도시의 [ICON_RESEARCH]과학을 올려주는 [COLOR_POSITIVE_TEXT]연구소[ENDCOLOR]를 건설할 수 있으며 게임 후반 기본 지상 유닛인 [COLOR_POSITIVE_TEXT]보병[ENDCOLOR]을 만들 수 있습니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_POTTERY_HELP">
       <Text>도예를 연구하면 식량을 제공하여 도시 성장을 돕는 [COLOR_POSITIVE_TEXT]곡창[ENDCOLOR]을 건설할 수 있으며 게임에 등장하는 첫 종교 건물인 [COLOR_POSITIVE_TEXT]성소[ENDCOLOR]를 건설할 수 있습니다.</Text>
@@ -1802,7 +1802,7 @@
       <Text>항해를 연구하면 군함 삼단노선은 물론 [ICON_RES_FISH] [COLOR_POSITIVE_TEXT]생선[ENDCOLOR], [ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]진주[ENDCOLOR], [ICON_RES_WHALE] [COLOR_POSITIVE_TEXT]고래[ENDCOLOR], [ICON_RES_CRAB] [COLOR_POSITIVE_TEXT]게[ENDCOLOR] 등과 같은 해양 자원을 채집하는 작업선을 만들 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_HELP">
-      <Text>과학 이론을 연구하면 도시의 [ICON_RESEARCH] 과학을 늘려주는 [COLOR_POSITIVE_TEXT]공립학교[ENDCOLOR]를 건설할 수 있습니다.</Text>
+      <Text>과학 이론을 연구하면 도시의 [ICON_RESEARCH]과학을 늘려주는 [COLOR_POSITIVE_TEXT]공립학교[ENDCOLOR]를 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_STEALTH_HELP">
       <Text>스텔스를 연구하면 게임에 등장하는 가장 강력한 원거리 유닛인 [COLOR_POSITIVE_TEXT]스텔스 폭격기[ENDCOLOR]를 만들 수 있습니다.</Text>
@@ -1832,7 +1832,7 @@
       <Text>수렵을 연구하면 노동자로 [ICON_RES_DEER] [COLOR_POSITIVE_TEXT]사슴[ENDCOLOR]과 [ICON_RES_IVORY] [COLOR_POSITIVE_TEXT]상아[ENDCOLOR], [ICON_RES_FUR] [COLOR_POSITIVE_TEXT]모피[ENDCOLOR], [ICON_RES_TRUFFLES] [COLOR_POSITIVE_TEXT]송로버섯[ENDCOLOR], [ICON_RES_BISON] [COLOR_POSITIVE_TEXT]들소[ENDCOLOR] 자원 위에 [COLOR_POSITIVE_TEXT]야영지[ENDCOLOR]를 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_WRITING_HELP">
-      <Text>문자를 연구하면 다른 문명에 [COLOR_POSITIVE_TEXT]대사관[ENDCOLOR]을 세울 수 있고, 게임에 등장하는 첫 [ICON_RESEARCH] 과학 건물인 [COLOR_POSITIVE_TEXT]도서관[ENDCOLOR]을 건설할 수 있습니다. 도서관을 건설하면 새 기술을 더욱 빨리 연구할 수 있습니다.</Text>
+      <Text>문자를 연구하면 다른 문명에 [COLOR_POSITIVE_TEXT]대사관[ENDCOLOR]을 세울 수 있고, 게임에 등장하는 첫 [ICON_RESEARCH]과학 건물인 [COLOR_POSITIVE_TEXT]도서관[ENDCOLOR]을 건설할 수 있습니다. 도서관을 건설하면 새 기술을 더욱 빨리 연구할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_CAVALRY_STRATEGY">
       <Text>기병대는 근접과 원거리 유닛, 공성 유닛을 상대로 큰 위력을 발휘합니다. 기병대로 머스킷총병을 처리하고 공격 후 이동 능력으로 전선을 돌파하십시오.</Text>

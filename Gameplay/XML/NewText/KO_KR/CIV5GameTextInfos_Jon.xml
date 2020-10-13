@@ -299,7 +299,7 @@
       <Text>은행을 대체하는 페르시아의 고유 건물입니다. 도시에 시장이 있어야 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_SEAPORT_HELP">
-      <Text>도시의 영향권에 속한 해양 자원 타일에서 [COLOR_POSITIVE_TEXT]1[ENDCOLOR][ICON_PRODUCTION] 생산을 추가로 얻습니다. 해상 유닛 건조 시 [ICON_PRODUCTION]생산 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 얻습니다. 도시에 항만이 있어야 건설할 수 있습니다.[NEWLINE][COLOR_YELLOW]해안 도시[ENDCOLOR]에서만 건설할 수 있습니다.
+      <Text>도시의 영향권에 속한 해양 자원 타일에서 [COLOR_POSITIVE_TEXT]1[ENDCOLOR][ICON_PRODUCTION]생산을 추가로 얻습니다. 해상 유닛 건조 시 [ICON_PRODUCTION]생산 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 얻습니다. 도시에 항만이 있어야 건설할 수 있습니다.[NEWLINE][COLOR_YELLOW]해안 도시[ENDCOLOR]에서만 건설할 수 있습니다.
 </Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_SOLAR_PLANT_HELP">
@@ -321,7 +321,7 @@
       <Text>도시 근처의 [ICON_RES_MARBLE]대리석과 [ICON_RES_STONE]석재의 [ICON_PRODUCTION]생산이 추가로 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다.[NEWLINE][NEWLINE]위 자원들에 채석장을 최소 하나 건설해야 건설할 수 있습니다.[NEWLINE][COLOR_YELLOW]평원에 있는 도시[ENDCOLOR]는 이 건물을 건설할 수 없습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_THEATRE_HELP">
-      <Text>[ICON_HAPPINESS_1] 행복은 현재 도시에 거주하는 [ICON_CITIZEN] 시민의 수만큼만 올라갑니다.[NEWLINE][NEWLINE]도시에 콜로세움이 있어야 합니다.</Text>
+      <Text>[ICON_HAPPINESS_1]행복은 현재 도시에 거주하는 [ICON_CITIZEN] 시민의 수만큼만 올라갑니다.[NEWLINE][NEWLINE]도시에 콜로세움이 있어야 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
       <Text>대학은 도시의 영향권에 속한 정글 타일에서 [COLOR_POSITIVE_TEXT]2 [ENDCOLOR][ICON_RESEARCH]과학을 추가로 얻습니다.[NEWLINE][NEWLINE]도서관이 있는 도시에서 건설할 수 있습니다.</Text>

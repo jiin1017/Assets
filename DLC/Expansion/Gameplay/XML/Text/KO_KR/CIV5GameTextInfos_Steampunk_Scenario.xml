@@ -56,7 +56,7 @@
       <Text>모든 도시에 차분기관이 있으면 분석 엔진을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE_STRATEGY">
-      <Text>차분기관을 건설하면 도시의 [ICON_PRODUCTION]생산과 [ICON_RESEARCH] 과학이 증가합니다. 모든 도시에 차분기관이 있으면 국가 불가사의인 분석 엔진을 건설할 수 있습니다.</Text>
+      <Text>차분기관을 건설하면 도시의 [ICON_PRODUCTION]생산과 [ICON_RESEARCH]과학이 증가합니다. 모든 도시에 차분기관이 있으면 국가 불가사의인 분석 엔진을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_GRAND_MANSION_HELP">
       <Text>모든 도시에 대저택이 있으면 빌트모어하우스를 건설할 수 있습니다.</Text>
@@ -74,7 +74,7 @@
       <Text>모든 도시에 특허국이 있어야 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL_STRATEGY">
-      <Text>모든 도시에 특허국이 있어야 건설할 수 있는 발명가의 홀은 문명당 한 개만 건설할 수 있습니다. 발명가의 홀을 건설하면 도시의 [ICON_GOLD]골드와 [ICON_RESEARCH] 과학이 증가합니다.</Text>
+      <Text>모든 도시에 특허국이 있어야 건설할 수 있는 발명가의 홀은 문명당 한 개만 건설할 수 있습니다. 발명가의 홀을 건설하면 도시의 [ICON_GOLD]골드와 [ICON_RESEARCH]과학이 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY_HELP">
       <Text>커르노우만 건설할 수 있습니다.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT][ICON_RES_URANIUM] 루보릭 2개[ENDCOLOR]를 제공합니다.[NEWLINE][NEWLINE]이 도시에서 생산하는 [ICON_RES_URANIUM] 루보릭 하나당 [ICON_PRODUCTION]생산이 1 증가합니다.</Text>
@@ -116,25 +116,25 @@
       <Text>모든 도시에 지하 전초기지가 있으면 지하 식민지를 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST_STRATEGY">
-      <Text>지하 전초기지를 건설하면 도시의 [ICON_PRODUCTION]생산과 [ICON_RESEARCH] 과학이 증가합니다. 모든 도시에 지하 전초기지가 있으면 국가 불가사의인 지하 식민지를 건설할 수 있습니다.</Text>
+      <Text>지하 전초기지를 건설하면 도시의 [ICON_PRODUCTION]생산과 [ICON_RESEARCH]과학이 증가합니다. 모든 도시에 지하 전초기지가 있으면 국가 불가사의인 지하 식민지를 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TESLA_COIL_HELP">
-      <Text>테슬라코일을 건설하면 도시의 [ICON_RESEARCH] 과학과 [ICON_GOLD]골드가 증가합니다.</Text>
+      <Text>테슬라코일을 건설하면 도시의 [ICON_RESEARCH]과학과 [ICON_GOLD]골드가 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TESLA_COIL_STRATEGY">
-      <Text>테슬라코일을 건설하면 도시의 [ICON_RESEARCH] 과학이 크게 증가하며 [ICON_GOLD]골드도 증가합니다.</Text>
+      <Text>테슬라코일을 건설하면 도시의 [ICON_RESEARCH]과학이 크게 증가하며 [ICON_GOLD]골드도 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_HELP">
       <Text>그리그스만 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_STRATEGY">
-      <Text>토루스 발전기는 그리그스만 건설할 수 있습니다. 테슬라코일을 대체하는 토루스 발전기는 테슬라코일보다 [ICON_RESEARCH] 과학이 많습니다. 이 보너스는 연구하지 않고 지나친 이전 기술을 연구하거나 미래 시대 기술을 연구할 때 유용합니다.</Text>
+      <Text>토루스 발전기는 그리그스만 건설할 수 있습니다. 테슬라코일을 대체하는 토루스 발전기는 테슬라코일보다 [ICON_RESEARCH]과학이 많습니다. 이 보너스는 연구하지 않고 지나친 이전 기술을 연구하거나 미래 시대 기술을 연구할 때 유용합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_HELP">
-      <Text>전문대학을 건설하면 도시의 [ICON_RESEARCH] 과학과 [ICON_CULTURE]문화가 증가합니다.</Text>
+      <Text>전문대학을 건설하면 도시의 [ICON_RESEARCH]과학과 [ICON_CULTURE]문화가 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_STRATEGY">
-      <Text>전문대학을 건설하면 도시의 [ICON_RESEARCH] 과학이 크게 증가하며 [ICON_CULTURE]문화도 증가합니다.</Text>
+      <Text>전문대학을 건설하면 도시의 [ICON_RESEARCH]과학이 크게 증가하며 [ICON_CULTURE]문화도 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_BUILDINGS_AERODROME_TEXT">
       <Text>저 유명한 에루치의 비행장은 비행선을 조립하고 비행사를 훈련시키는 역할을 합니다. 비행선 제조 공정에 직접 참여하는 조종사들은 훈련과 기량을 모두 쌓을 수 있습니다.</Text>
@@ -815,13 +815,13 @@
       <Text>[NEWLINE][TAB][TAB]"인간은 자연을 길들여야 한다."[NEWLINE] - 프란시스 베이컨[NEWLINE][TAB]</Text>
     </Row>
     <Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_HELP">
-      <Text>원정 과학을 연구하면 지도에서 [ICON_RES_ALUMINUM] 에더리움을 찾을 수 있으며 [COLOR_POSITIVE_TEXT]잠수함[ENDCOLOR]을 만들 수 있습니다. 또한 [ICON_RESEARCH] 과학과 [ICON_CULTURE]문화를 높여주는 [COLOR_POSITIVE_TEXT]전문대학[ENDCOLOR]을 건설할 수 있습니다.</Text>
+      <Text>원정 과학을 연구하면 지도에서 [ICON_RES_ALUMINUM] 에더리움을 찾을 수 있으며 [COLOR_POSITIVE_TEXT]잠수함[ENDCOLOR]을 만들 수 있습니다. 또한 [ICON_RESEARCH]과학과 [ICON_CULTURE]문화를 높여주는 [COLOR_POSITIVE_TEXT]전문대학[ENDCOLOR]을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_QUOTE">
       <Text>[NEWLINE][TAB][TAB]"대자연에서 생명의 기적을 보자 과학 발전이 대수롭지 않다고 느꼈다."[NEWLINE] - 찰스 린드버그[NEWLINE][TAB]</Text>
     </Row>
     <Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_HELP">
-      <Text>직류자기학을 연구하면 도시의 [ICON_RESEARCH] 과학을 크게 높여주고 [ICON_GOLD]골드 수입을 약간 높여주는 [COLOR_POSITIVE_TEXT]테슬라코일[ENDCOLOR]을 건설할 수 있습니다.</Text>
+      <Text>직류자기학을 연구하면 도시의 [ICON_RESEARCH]과학을 크게 높여주고 [ICON_GOLD]골드 수입을 약간 높여주는 [COLOR_POSITIVE_TEXT]테슬라코일[ENDCOLOR]을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_HELP">
       <Text>부의 찬가를 연구하면 도시의 [ICON_CULTURE]문화와 [ICON_HAPPINESS_1]행복을 높여주는 [COLOR_POSITIVE_TEXT]자선박람회[ENDCOLOR]를 건설할 수 있습니다.</Text>

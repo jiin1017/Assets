@@ -398,7 +398,7 @@
       </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]파우히리[ENDCOLOR][NEWLINE] 도시 국가에 [ICON_GOLD] 골드를 선물할 때 얻는 [ICON_INFLUENCE]영향력이 25%만큼 증가합니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]파우히리[ENDCOLOR][NEWLINE] 도시 국가에 [ICON_GOLD]골드를 선물할 때 얻는 [ICON_INFLUENCE]영향력이 25%만큼 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO">
       <Text>롱고-롱고</Text>
@@ -504,7 +504,7 @@
       <Text>도시의 방어력을 상당 수준 증가시키는 [COLOR_POSITIVE_TEXT]성벽[ENDCOLOR]을 건설할 수 있습니다. 또한, 노동자이 [COLOR_POSITIVE_TEXT]도로[ENDCOLOR]와 [COLOR_POSITIVE_TEXT]요새[ENDCOLOR]를 건설할 수 있게 됩니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
-      <Text>[ICON_GOLD]골드를 증가시키는 [COLOR_POSITIVE_TEXT]시장[ENDCOLOR]을 건설할 수 있으며 타일을 [COLOR_POSITIVE_TEXT]교역소[ENDCOLOR]로 개발할 수 있습니다. 또한, 도시의 [ICON_PRODUCTION]생산의 일부를 유닛이나 건물 생산에 사용하지 않고 [ICON_GOLD] 골드를 생산하는데 쓸 수 있습니다.</Text>
+      <Text>[ICON_GOLD]골드를 증가시키는 [COLOR_POSITIVE_TEXT]시장[ENDCOLOR]을 건설할 수 있으며 타일을 [COLOR_POSITIVE_TEXT]교역소[ENDCOLOR]로 개발할 수 있습니다. 또한, 도시의 [ICON_PRODUCTION]생산의 일부를 유닛이나 건물 생산에 사용하지 않고 [ICON_GOLD]골드를 생산하는데 쓸 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
       <Text>화기를 사용하는 첫 유닛인 [COLOR_POSITIVE_TEXT]머스킷 총병[ENDCOLOR]을 양성할 수 있습니다. 또한, 유럽인과의 접촉으로 얻은 새로운 기술의 경제적 혜택 몇 가지를 제공합니다.</Text>

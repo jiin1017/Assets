@@ -185,7 +185,7 @@
       <Text>처음으로 종교를 전파한 도시 하나당 [ICON_GOLD]골드가 [COLOR_POSITIVE_TEXT]100[ENDCOLOR] 증가 </Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_INTERFAITH_DIALOGUE">
-      <Text>선교사가 다른 종교를 믿는 도시에 플레이어의 종교를 전파할 때 [ICON_RESEARCH] 과학 증가</Text>
+      <Text>선교사가 다른 종교를 믿는 도시에 플레이어의 종교를 전파할 때 [ICON_RESEARCH]과학 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS">
       <Text>종교의 전파 거리가 [COLOR_POSITIVE_TEXT]30%[ENDCOLOR] 증가</Text>
@@ -197,7 +197,7 @@
       <Text>신자가 3명인 도시에 원형 극장이 있으면 [ICON_PEACE]신앙이 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
-      <Text>[ICON_CONNECTED] 교역로와 연결된 도시의 [ICON_RESEARCH] 과학이 [COLOR_POSITIVE_TEXT]2[ENDCOLOR] 증가</Text>
+      <Text>[ICON_CONNECTED] 교역로와 연결된 도시의 [ICON_RESEARCH]과학이 [COLOR_POSITIVE_TEXT]2[ENDCOLOR] 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_MESSIAH">
       <Text>선지자의 능력이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가하고 생산에 필요한 [ICON_PEACE]신앙이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 감소</Text>
@@ -326,7 +326,7 @@
       <Text>기술 개발을 주도하는 문명에 중요한 방어형 국가 불가사의입니다. 스파이가 추가로 한 명 생기며 모든 기존 스파이의 레벨이 오릅니다. 적 스파이의 효율성이 15%만큼 감소합니다. 모든 도시에 경찰서가 있어야 국가 정보국을 건설할 수 있습니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_MAYA_PYRAMID_STRATEGY">
-      <Text>피라미드는 성소를 대체하는 마야 고유의 고대 시대 건물입니다. 피라미드를 건설하면 도시의 [ICON_RESEARCH] 과학과 [ICON_PEACE]신앙이 증가하며 연구 속도와 종교 획득 속도가 증가합니다.</Text>
+      <Text>피라미드는 성소를 대체하는 마야 고유의 고대 시대 건물입니다. 피라미드를 건설하면 도시의 [ICON_RESEARCH]과학과 [ICON_PEACE]신앙이 증가하며 연구 속도와 종교 획득 속도가 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_MILITARY_BASE_STRATEGY">
       <Text>군사 기지는 도시의 방어력을 12, 체력을 25만큼 올려주는 중반 건물입니다. 군사 기지를 건설하려면 도시에 군수창고가 있어야 합니다.</Text>
