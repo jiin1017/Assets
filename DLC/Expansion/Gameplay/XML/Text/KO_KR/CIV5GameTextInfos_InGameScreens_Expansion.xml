@@ -173,7 +173,7 @@
       <Text>{1_SpyRank} {2_SpyName}{2: plural 1?이; 2?가;} {3_CityName}에서 쿠데타를 일으켜 {4_CivShotDesc} 지지자들을 몰아내게 할 수 있습니다.[NEWLINE][NEWLINE][COLOR_HIGHLIGHT_TEXT]이 임무의 성공률은 {5_PERCENT}%입니다.[ENDCOLOR]임무에 성공하면 {6_CityName}의 동맹이 되며 {7_CivShortDesc}의 영향력이 떨어집니다. 실패하면 스파이는 죽고 {8_CityName}와의 영향력이 감소합니다.[NEWLINE][NEWLINE]{9_SpyRank} {10_SpyName}에게 {11_CityName}에서 쿠데타를 일으키라고 지시하시겠습니까?</Text>
     </Row>
     <Row Tag="TXT_KEY_EO_THEIR_CITIES">
-      <Text>그들의 도시</Text>
+      <Text>상대의 도시</Text>
     </Row>
     <Row Tag="TXT_KEY_EO_TITLE">
       <Text>첩보 개요</Text>
