@@ -2550,7 +2550,7 @@
       <Text>미학</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_AESTHETICS_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR][NEWLINE]모든 도시 국가의 최소 [ICON_INFLUENCE]영향력이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다.  전쟁 중인 도시 국가를 제외하고 [ICON_INFLUENCE]영향력이 20 이하인 도시 국가도 수치에 관계없이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 이 효과는 매 턴 시작할 때마다 적용되며 매우 분노한 도시 국가도 포함됩니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR][NEWLINE]모든 도시 국가의 최소 [ICON_INFLUENCE]영향력이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 전쟁 중인 도시 국가를 제외하고 [ICON_INFLUENCE]영향력이 20 이하인 도시 국가도 수치에 관계없이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 이 효과는 매 턴 시작할 때마다 적용되며 매우 분노한 도시 국가도 포함됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_ARISTOCRACY">
       <Text>귀족제</Text>
