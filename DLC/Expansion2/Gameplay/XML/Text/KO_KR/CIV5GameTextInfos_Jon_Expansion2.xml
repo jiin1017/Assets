@@ -41,7 +41,7 @@
       <Text>유닛이 소모됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
-      <Text>원형 극장은 해당 도시의 [ICON_CULTURE]문화를 늘려 영토 확장과 사회 정책 도입을 앞당깁니다. 걸작 문학 슬롯 1개를 제공합니다. 도시에 기념비가 있어야 건설할 수 있습니다.</Text>
+      <Text>원형극장은 해당 도시의 [ICON_CULTURE]문화를 늘려 영토 확장과 사회 정책 도입을 앞당깁니다. 걸작 문학 슬롯 1개를 제공합니다. 도시에 기념비가 있어야 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_HERMITAGE_HELP"> <!--에르타미슈-->
       <Text>도시의 [ICON_CULTURE]문화가 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 증가하며 걸작 예술품 슬롯 [COLOR_POSITIVE_TEXT]3개[ENDCOLOR]가 제공됩니다.[NEWLINE][NEWLINE]모든 도시에 오페라 극장이 있어야 건설할 수 있습니다. 문명에 도시가 많을수록 건설에 필요한 [ICON_PRODUCTION]생산이 증가합니다.[NEWLINE][NEWLINE]이 불가사의는 문명당 하나만 건설할 수 있는 [COLOR_YELLOW]국가 불가사의[ENDCOLOR]입니다.</Text>
@@ -62,7 +62,7 @@
       <Text>이 도시의 [ICON_GREAT_PEOPLE]위인 출현율이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가합니다. 도시의 [ICON_CULTURE]문화가 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다. 걸작 문학 슬롯 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR]를 제공합니다.[NEWLINE][NEWLINE]모든 도시에 기념비가 있어야 건설할 수 있습니다. 문명에 도시가 많을수록 건설에 필요한 [ICON_PRODUCTION]생산이 증가합니다.[NEWLINE][NEWLINE]이 불가사의는 문명당 하나만 건설할 수 있는 [COLOR_YELLOW]국가 불가사의[ENDCOLOR]입니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-      <Text>오페라 극장은 도시의 [ICON_CULTURE]문화를 늘려주는 르네상스 시대 건물입니다. 걸작 음악 슬롯 1개를 제공합니다. 도시에 원형 극장이 있어야 건설할 수 있습니다.</Text>
+      <Text>오페라 극장은 도시의 [ICON_CULTURE]문화를 늘려주는 르네상스 시대 건물입니다. 걸작 음악 슬롯 1개를 제공합니다. 도시에 원형극장이 있어야 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY_HELP"> <!--옥스포드-->
       <Text>[COLOR_RESEARCH_STORED]무료 기술[ENDCOLOR]을 제공합니다. 걸작 문학 슬롯 [COLOR_POSITIVE_TEXT]2개[ENDCOLOR]를 제공합니다.[NEWLINE][NEWLINE]모든 도시에 대학이 있어야 건설할 수 있습니다. 문명에 도시가 많을수록 건설에 필요한 [ICON_PRODUCTION]생산이 증가합니다.[NEWLINE][NEWLINE]이 불가사의는 문명당 하나만 건설할 수 있는 [COLOR_YELLOW]국가 불가사의[ENDCOLOR]입니다.</Text>
@@ -415,7 +415,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]문화 센터[ENDCOLOR][NEWLINE]기념비, 원형 극장, 오페라 극장, 박물관 및 방송탑의 건설 속도가 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 빨라집니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]문화 센터[ENDCOLOR][NEWLINE]기념비, 원형극장, 오페라 극장, 박물관 및 방송탑의 건설 속도가 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 빨라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_CULTURAL_REVOLUTION">
       <Text>문화 대혁명</Text>

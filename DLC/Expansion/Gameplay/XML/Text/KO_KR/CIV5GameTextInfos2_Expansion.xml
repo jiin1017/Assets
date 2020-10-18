@@ -194,7 +194,7 @@
       <Text>같은 종교를 믿는 적대적인 도시 주위에서 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
-      <Text>신자가 3명인 도시에 원형 극장이 있으면 [ICON_PEACE]신앙이 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가</Text>
+      <Text>신자가 3명인 도시에 원형극장이 있으면 [ICON_PEACE]신앙이 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
       <Text>[ICON_CONNECTED] 교역로와 연결된 도시의 [ICON_RESEARCH]과학이 [COLOR_POSITIVE_TEXT]2[ENDCOLOR] 증가</Text>
@@ -281,7 +281,7 @@
       <Text>다른 문명에서 플레이어의 종교를 믿는 신도 5명마다 [ICON_CULTURE]문화 +1</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
-      <Text>원형 극장을 건설하면 도시의 [ICON_CULTURE]문화가 증가하므로 주변 문화 경계가 빨리 확장되어 사회 정책도 빨리 얻을 수 있습니다. 원형 극장은 기념비나 스텔레가 있는 도시에만 건설할 수 있습니다. </Text>
+      <Text>원형극장을 건설하면 도시의 [ICON_CULTURE]문화가 증가하므로 주변 문화 경계가 빨리 확장되어 사회 정책도 빨리 얻을 수 있습니다. 원형극장은 기념비나 스텔레가 있는 도시에만 건설할 수 있습니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_ARSENAL_STRATEGY">
       <Text>군수창고는 도시의 방어력을 9, 체력을 25만큼 올려주는 중반 군사 건물로, 이를 건설한 도시는 적이 점령하기 어려워집니다. 군수창고를 지으려면 도시에 성이 있어야 합니다.</Text>
@@ -1834,7 +1834,7 @@
       <Text>성이 있는 모든 도시에서 [ICON_GOLD]골드 3, [ICON_CULTURE]문화 2, [ICON_HAPPINESS_1]행복이 1 증가합니다.[NEWLINE][NEWLINE]도시가 자신의 영토에 있는 산으로부터 2타일 이내에 있어야 합니다.[NEWLINE][NEWLINE]이 불가사의는 전 세계에서 하나만 건설할 수 있는 [COLOR_POSITIVE_TEXT]세계 불가사의[ENDCOLOR]입니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_WONDER_PETRA_HELP">
-      <Text>도시가 사막 타일에 또는 사막 타일 옆에 있어야 합니다. 도시에서 작업하는 사막 타일 하나당 [ICON_FOOD]식량이 1, [ICON_PRODUCTION]생산이 1, [ICON_GOLD]골드가 1만큼 (범람원 제외) 증가합니다. 고고학을 연구하면 [ICON_CULTURE]문화가 6 증가합니다. 이 불가사의를 건설한 도시에 원형 극장을 무료로 건설할 수 있습니다.[NEWLINE][NEWLINE]이 불가사의는 전 세계에서 하나만 건설할 수 있는 [COLOR_POSITIVE_TEXT]세계 불가사의[ENDCOLOR]입니다.</Text>
+      <Text>도시가 사막 타일에 또는 사막 타일 옆에 있어야 합니다. 도시에서 작업하는 사막 타일 하나당 [ICON_FOOD]식량이 1, [ICON_PRODUCTION]생산이 1, [ICON_GOLD]골드가 1만큼 (범람원 제외) 증가합니다. 고고학을 연구하면 [ICON_CULTURE]문화가 6 증가합니다. 이 불가사의를 건설한 도시에 원형극장을 무료로 건설할 수 있습니다.[NEWLINE][NEWLINE]이 불가사의는 전 세계에서 하나만 건설할 수 있는 [COLOR_POSITIVE_TEXT]세계 불가사의[ENDCOLOR]입니다.</Text>
     </Row>
  
   </Language_KO_KR>

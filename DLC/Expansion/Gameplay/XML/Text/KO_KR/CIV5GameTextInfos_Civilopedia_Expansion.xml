@@ -30,7 +30,7 @@
       <Text>박물관은 [ICON_CULTURE]문화를 늘려주는 중반 건물입니다. 박물관을 건설하려면 도시에 오페라 극장 또는 연회장이 있어야 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
-      <Text>오페라 극장은 도시의 [ICON_CULTURE]문화를 늘려주는 르네상스 시대 건물입니다. 오페라 극장을 건설하려면 도시에 원형 극장이 있어야 합니다.</Text>
+      <Text>오페라 극장은 도시의 [ICON_CULTURE]문화를 늘려주는 르네상스 시대 건물입니다. 오페라 극장을 건설하려면 도시에 원형극장이 있어야 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_PAGODA_STRATEGY">
       <Text>파고다 교리가 있는 종교를 믿는 도시에만 건설할 수 있습니다. 파고다는 [ICON_PEACE]신앙으로만 구입할 수 있습니다.</Text>
@@ -145,7 +145,7 @@
       <Text>라틴어로 침략자를 뜻하는 "쿠르사리우스"에서 유래된 말인 후사르는 17세기와 18세기에 합스부르크 왕가가 지배하는 오스트리아의 헝가리 경기병 부대를 뜻합니다. 유럽 전역에서 운용되던 기병대를 모방해 만든 후사르는 승마술이 뛰어난 자들로 구성된 비정규 부대였으며, 신속하고 예측 불가능한 치고 빠지기 작전으로 악명을 떨쳤습니다. 후에 후사르는 정규군에 편입되었으며, 기수와 말이 특별한 조건을 만족해야 지원할 수 있는 부대였습니다. 나폴레옹전쟁에서 널리 쓰인 후사르는 19세기에 이르기까지 유럽과 아시아 군대에서 활약했습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT">
-      <Text>원형 극장은 야외 공연은 물론 스포츠 행사와 연주회를 여는 원형 무대입니다. 원형 극장은 고대 로마에서 특히 유행했는데, 수백 개에 이르는 원형 극장에서 검투사 시합, 공연, 공개 처형 등을 했다고 합니다.</Text>
+      <Text>원형극장은 야외 공연은 물론 스포츠 행사와 연주회를 여는 원형 무대입니다. 원형극장은 고대 로마에서 특히 유행했는데, 수백 개에 이르는 원형극장에서 검투사 시합, 공연, 공개 처형 등을 했다고 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_BUILDINGS_BOMB_SHELTER_TEXT">
       <Text>방공호는 말 그대로 폭탄이나 기타 폭발성 무기의 피해를 견디도록 설계한 구조물입니다. 공중 폭격을 방어하기 위한 방공호가 있는 반면, 핵 공격에서 살아남기 위한 방공호도 있습니다. 방공호는 보통 강화 콘크리트로 만들지만, 목적에 따라 다양한 재료를 사용하기도 합니다.</Text>
@@ -1706,7 +1706,7 @@
     </Row>
     <Row Tag="TXT_KEY_TECH_DRAMA_HELP">
 
-      <Text>드라마를 연구하면 [ICON_CULTURE]문화를 늘려주는 [COLOR_POSITIVE_TEXT]원형 극장[ENDCOLOR]을 건설할 수 있습니다.</Text>
+      <Text>드라마를 연구하면 [ICON_CULTURE]문화를 늘려주는 [COLOR_POSITIVE_TEXT]원형극장[ENDCOLOR]을 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_DRAMA_QUOTE">
       <Text>[NEWLINE][TAB][TAB]"드라마는 지루한 부분을 잘라낸 인생일 뿐입니다."[NEWLINE] - 알프레드 히치콕[NEWLINE][TAB]</Text>

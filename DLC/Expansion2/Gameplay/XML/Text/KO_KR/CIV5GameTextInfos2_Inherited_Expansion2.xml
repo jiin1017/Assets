@@ -194,7 +194,7 @@
       <Text>같은 종교를 믿는 적대적인 도시 주위에서 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
-      <Text>신자가 3명인 도시에 원형 극장이 있으면 [ICON_PEACE]신앙이 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가</Text>
+      <Text>신자가 3명인 도시에 원형극장이 있으면 [ICON_PEACE]신앙이 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BELIEF_MESSIAH">
       <Text>선지자의 능력이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가하고 생산에 필요한 [ICON_PEACE]신앙이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 감소</Text>

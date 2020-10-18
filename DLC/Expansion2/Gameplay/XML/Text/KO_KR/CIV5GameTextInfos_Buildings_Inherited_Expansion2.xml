@@ -8,7 +8,7 @@
       <Text>알함브라 궁전</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
-      <Text>원형 극장</Text>
+      <Text>원형극장</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
       <Text>방공호</Text>
