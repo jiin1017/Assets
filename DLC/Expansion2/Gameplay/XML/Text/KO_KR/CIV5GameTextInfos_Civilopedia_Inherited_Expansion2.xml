@@ -602,7 +602,7 @@
       <Text>다양한 게임 후반 유닛을 만드는 데 필요한 [ICON_RES_ALUMINUM]알루미늄 자원을 발견할 수 있습니다. [ICON_GOLD]골드를 늘려주는 [COLOR_POSITIVE_TEXT]증권거래소[ENDCOLOR], 강과 인접한 타일의 [ICON_PRODUCTION]생산을 높여주는 [COLOR_POSITIVE_TEXT]수력 발전소[ENDCOLOR], 적[ICON_SPY]스파이가 기술을 훔치는데 필요한 시간을 늘려주는 [COLOR_POSITIVE_TEXT]경찰서[ENDCOLOR]를 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_ELECTRONICS_HELP"> <!--전자공학-->
-      <Text>연구하면 항공기를 탑재할 수 있는 [COLOR_POSITIVE_TEXT]항공모함[ENDCOLOR]과 게임 후반의 강력한 원거리 해상 유닛인 [COLOR_POSITIVE_TEXT]전함[ENDCOLOR]을 만들 수 있습니다.</Text>
+      <Text>전자공학을 연구하면 항공기를 탑재할 수 있는 [COLOR_POSITIVE_TEXT]항공모함[ENDCOLOR]과 게임 후반의 강력한 원거리 해상 유닛인 [COLOR_POSITIVE_TEXT]전함[ENDCOLOR]을 만들 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TECH_ENGINEERING_HELP"> <!--공학-->
       <Text>도시의 [ICON_CITIZEN]시민이 늘어날 때 남는 [ICON_FOOD]식량을 유지할 수 있는 [COLOR_POSITIVE_TEXT]송수로[ENDCOLOR]를 건설할 수 있으며 노동자가 타일에 요새를 건설해 이곳에 주둔하는 유닛의 [ICON_STRENGTH]방어력을 높일 수 있습니다. 자동으로 강을 가로질러 연결된 도로에 다리가 생겨 유닛이 강을 건너더라도 느려지지 않습니다. </Text>

@@ -1024,7 +1024,7 @@
 		</Row>
 		<!-- Unit Help and Rollover Text-->
 		<Row Tag="TXT_KEY_UNIT_HELP_WORKER">
-			<Text>도시 근처의 타일에 시설을 건설하여 [ICON_FOOD]식량, [ICON_PRODUCTION]생산, [ICON_GOLD]골드 등등을 증가시킵니다.</Text>
+			<Text>도시 근처의 타일에 시설을 건설하여 [ICON_FOOD]식량, [ICON_PRODUCTION]생산, [ICON_GOLD]골드 등을 증가시킵니다.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SETTLER">
 			<Text>새로운 도시를 세워 국가를 확장시킵니다.[NEWLINE]이 유닛이 생산되는 동안 도시의 [ICON_CITIZEN]시민 증가가 멈춥니다.</Text>

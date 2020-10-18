@@ -1446,7 +1446,7 @@
       <Text>위대한 상인이 당신과 전쟁 중이 아닌 도시 국가의 영토 내에 있어야 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_HELP">
-      <Text>위대한 상인이 당신과 전쟁 중이 아닌 도시 국가의 영토 내에 있다면, 도시 국가와의 관계를 개선시키고, 많은 양의 [ICON_GOLD]골드를 제공하는 무역 미션을 만들게 됩니다. 위대한 상인은 이 과정에서 소모됩니다.</Text>
+      <Text>위대한 상인이 당신과 전쟁 중이 아닌 도시 국가의 영토 내에 있다면, 도시 국가와의 관계를 개선시키고, 많은 양의 [ICON_GOLD]골드를 제공하는 무역 임무를 만들게 됩니다. 위대한 상인은 이 과정에서 소모됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_MISSION_CONSTRUCT_HELP">
       <Text>각 위인만의 특별한 건물을 건설합니다. 위인은 이 과정에서 소모됩니다.</Text>
@@ -2550,7 +2550,7 @@
       <Text>미학</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_AESTHETICS_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR][NEWLINE]모든 도시 국가의 최소 [ICON_INFLUENCE]영향력이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다.  전쟁 중인 도시 국가를 제외하고 [ICON_INFLUENCE]영향력이 20 이하인 도시 국가도 수치에 관계없이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 이 효과는 매 턴 시작할 때마다 적용되며 매우 분노한 도시 국가도 포함됩니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR][NEWLINE]모든 도시 국가의 최소 [ICON_INFLUENCE]영향력이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 전쟁 중인 도시 국가를 제외하고 [ICON_INFLUENCE]영향력이 20 이하인 도시 국가도 수치에 관계없이 [COLOR_POSITIVE_TEXT]20[ENDCOLOR]으로 변경됩니다. 이 효과는 매 턴 시작할 때마다 적용되며 매우 분노한 도시 국가도 포함됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_ARISTOCRACY">
       <Text>귀족제</Text>
