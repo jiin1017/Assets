@@ -786,25 +786,25 @@
 			<Text>지형에 상관없이 모든 방향의 시야가 [COLOR_POSITIVE_TEXT]6[ENDCOLOR] 증가</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I">
-			<Text>기마 유닛과 전투 시 보너스 ([COLOR_POSITIVE_TEXT]+50%[ENDCOLOR])</Text>
+			<Text>기마 유닛 대항 전투력 보너스 ([COLOR_POSITIVE_TEXT]+50%[ENDCOLOR])</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I_HELP">
 			<Text>기마 유닛 공격 시 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 증가</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II">
-			<Text>기마 유닛과 전투 시 보너스 ([COLOR_POSITIVE_TEXT]+100%[ENDCOLOR])</Text>
+			<Text>기마 유닛 대항 전투력 보너스 ([COLOR_POSITIVE_TEXT]+100%[ENDCOLOR])</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II_HELP">
 			<Text>기마 유닛 공격 시 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]100%[ENDCOLOR] 증가</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE">
-			<Text>도시 공격 시 보너스 ([COLOR_POSITIVE_TEXT]+20%[ENDCOLOR])</Text>
+			<Text>도시 공격 보너스 ([COLOR_POSITIVE_TEXT]+20%[ENDCOLOR])</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_HELP">
 			<Text>도시 공격 시 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT">
-			<Text>도시 공격 시 보너스 ([COLOR_POSITIVE_TEXT]+50%[ENDCOLOR])</Text>
+			<Text>도시 공격 보너스 ([COLOR_POSITIVE_TEXT]+50%[ENDCOLOR])</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT_HELP">
 			<Text>도시 공격 시 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 증가</Text>

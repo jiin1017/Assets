@@ -11433,16 +11433,16 @@
 			<Text>공중 정찰</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_MOUNTED_I">
-			<Text>대 기마 유닛 보너스 (50)</Text> <Plurality>2</Plurality>
+			<Text>기마 유닛 대항 보너스 (50)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_MOUNTED_II">
-			<Text>대 기마 유닛 보너스 (100)</Text> <Plurality>2</Plurality>
+			<Text>기마 유닛 대항 보너스 (100)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_SIEGE">
-			<Text>대 도시 보너스 (20)</Text> <Plurality>2</Plurality>
+			<Text>도시 대항 보너스 (20)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CITY_ASSUALT">
-			<Text>대 도시 보너스 (50)</Text> <Plurality>2</Plurality>
+			<Text>도시 대항 보너스 (50)</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_DEFENSE_PENALTY">
 			<Text>방어 시 페널티</Text> <Plurality>2</Plurality>
@@ -11607,7 +11607,7 @@
 			<Text>체력 회복 속도 두 배</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_PEDIA_PROMOTION_STRONGER_VS_DAMAGED">
-			<Text>피해받은 적에게 보너스</Text> <Plurality>2</Plurality>
+			<Text>부상 적군 보너스</Text> <Plurality>2</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_CIVILOPEDIA_SPECIALABILITIES_MOVEMENT">
 			<Text>{TXT_KEY_ABLTY_FASTER_MOVEMENT_STRING} {@1_RouteDescription} [NEWLINE]</Text>
