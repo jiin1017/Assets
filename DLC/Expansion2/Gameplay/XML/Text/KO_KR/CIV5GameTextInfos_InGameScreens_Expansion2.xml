@@ -746,7 +746,7 @@
       <Text>해상 교역 거리가 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_EXTRA_VOTES_FROM_DIPLOMATS">
-      <Text>다른 문명의 [ICON_CAPITAL]수도에 [ICON_DIPLOMAT]외교관으로 활동하고 있는 스파이 1명당 추가 대표단 [COLOR_POSITIVE_TEXT]{1_DelegatesPerDiplomat}명[ENDCOLOR]을 확보합니다.</Text>
+      <Text>다른 문명의 [ICON_CAPITAL]수도에 [ICON_DIPLOMAT]외교관으로 활동하고 있는 스파이 1명당 추가 [COLOR_POSITIVE_TEXT]대표단[ENDCOLOR] {1_DelegatesPerDiplomat}명을 확보합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_24">
       <Text>교역</Text>
