@@ -740,7 +740,7 @@
       <Text>상태</Text>
     </Row>
     <Row Tag="TXT_KEY_SV_ICONS_ALL">
-      <Text>모두</Text>
+      <Text>모든</Text>
     </Row>
     <Row Tag="TXT_KEY_SV_ICONS_IMPROVEMENTS">
       <Text>시설</Text>
