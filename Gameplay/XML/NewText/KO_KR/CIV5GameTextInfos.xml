@@ -1347,7 +1347,7 @@
       <Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {2_IconString}  종교에서 획득</Text>
     </Row>
     <Row Tag="TXT_KEY_YIELD_FROM_SPECIALISTS">
-      <Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {2_IconString}  전문가에게서 획득</Text>
+      <Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {2_IconString}  전문가에서 획득</Text>
     </Row>
     <Row Tag="TXT_KEY_YIELD_FROM_TERRAIN">
       <Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] {2_IconString}  지형에서 획득</Text>

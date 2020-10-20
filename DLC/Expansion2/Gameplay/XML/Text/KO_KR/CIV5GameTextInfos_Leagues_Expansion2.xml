@@ -465,7 +465,7 @@
       <Text>승무원 탑승</Text>
     </Row>
     <Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_2_HELP">
-      <Text>[ICON_GREAT_SCIENTIST]위대한 과학자가 [COLOR_POSITIVE_TEXT]1명[ENDCOLOR]출현합니다.</Text>
+      <Text>[ICON_GREAT_SCIENTIST][COLOR_POSITIVE_TEXT]위대한 과학자[ENDCOLOR]가 1명 출현합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_3">
       <Text>우주 비행 관제 센터</Text>

@@ -2998,10 +2998,10 @@
       <Text>성격 :</Text>
     </Row>
     <Row Tag="TXT_KEY_POP_CSTATE_PLEDGE_TO_PROTECT">
-      <Text>보호국 선언</Text>
+      <Text>보호 선언</Text>
     </Row>
     <Row Tag="TXT_KEY_POP_CSTATE_PLEDGE_TT">
-      <Text>도시 국가를 보호국으로 선언하는 것은 다른 주요 국가에게 보호국으로 맺은 도시 국가를 공격하려면 당신까지 상대해야 한다는 것을 알게 해줍니다. 이는 당신과 갈등을 일으키길 바라지 않는 문명이 공격을 단념하게 합니다.</Text>
+      <Text>도시 국가를 보호 선언하는 것은 다른 주요 국가에게 보호국으로 맺은 도시 국가를 공격하려면 당신까지 상대해야 한다는 것을 알게 해줍니다. 이는 당신과 갈등을 일으키길 바라지 않는 문명이 공격을 단념하게 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POP_CSTATE_PROVIDE_GOLD_GIFT">
       <Text>[ICON_GOLD]골드를 선물</Text>
