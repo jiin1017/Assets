@@ -341,7 +341,7 @@
       <Text>이 시나리오에서 신대륙 탐사를 후원하려면 캐러벨을 만들어야 합니다. 완성한 캐러벨을 지도의 서쪽 끝으로 보내면 캐러벨이 사라지면서 VP를 얻게 됩니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_CARAVEL">
-      <Text>르네상스 시대의 해상 탐험 유닛입니다. VP를 얻으려면 지도의 서쪽 끝으로 가십시오. 해상 근접 유닛처럼 싸웁니다.</Text>
+      <Text>르네상스 시대의 해상 탐험 유닛입니다. VP를 얻으려면 지도의 서쪽 끝으로 가십시오. 근접 해상 유닛처럼 싸웁니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_MUSLIM_CAVALRY">
       <Text>강력한 중세 기마 유닛이지만 장창병에는 약합니다. 아이유브만 만들 수 있습니다. 이 유닛은 대체 유닛인 기사와는 달리 도시를 공격할 때에도 페널티를 받지 않습니다.</Text>

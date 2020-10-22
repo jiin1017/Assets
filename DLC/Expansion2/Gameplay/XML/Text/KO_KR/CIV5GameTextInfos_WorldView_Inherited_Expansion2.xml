@@ -104,7 +104,7 @@
       <Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR]  종교에서 획득</Text>
     </Row>
     <Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
-      <Text>[ICON_GOLDEN_AGE]황금기에는 제국의 골드를 생산하는 모든 타일에서 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] [ICON_GOLD]골드를 더 생산합니다. 도시의 [ICON_PRODUCTION]생산은 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가하며 제국 전체에서 [ICON_CULTURE]문화가 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가합니다.</Text>
+      <Text>[ICON_GOLDEN_AGE]황금기에는 골드를 산출하는 제국의 모든 타일에서 [ICON_GOLD]골드를 [COLOR_POSITIVE_TEXT]+1[ENDCOLOR] 더 생산합니다. 도시의 [ICON_PRODUCTION]생산이 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가하고 제국 전역의 [ICON_CULTURE]문화가 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
       <Text>[ICON_GOLDEN_AGE]황금기가 도래하면 해당 문명이 소유한 모든 타일에서 [ICON_GOLD]골드 [COLOR_POSITIVE_TEXT]1[ENDCOLOR]을 추가로 생산할 수 있으며 해당 문명의 모든 도시에서 [ICON_PRODUCTION]생산 속도가 [COLOR_POSITIVE_TEXT]20%[ENDCOLOR] 증가합니다.</Text>

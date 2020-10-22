@@ -84,7 +84,7 @@
       <Text>[ICON_GREAT_WRITER]위대한 작가가 출현하는 데 필요한 [ICON_GREAT_PEOPLE]위대한 작가 점수가 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다. 이 건물에 전문가를 최대 [COLOR_POSITIVE_TEXT]2명[ENDCOLOR] 투입해 [ICON_CULTURE]문화를 높이고 위대한 작가의 출현을 앞당길 수 있습니다.[NEWLINE][NEWLINE]이 건물은 문명당 하나만 건설할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_FEATURES_KILIMANJARO_HELP">
-      <Text>킬리만자로와 인접해 이동한 유닛은 [COLOR_PLAYER_PURPLE]고산지 훈련[ENDCOLOR] (언덕에서 [ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR], 언덕에서 전투 시 [ICON_STRENGTH]전투력 보너스 [COLOR_POSITIVE_TEXT]10%[ENDCOLOR]) 승급이 부여됩니다.</Text>
+      <Text>킬리만자로와 인접해 이동한 유닛은 [COLOR_PLAYER_PURPLE]고산지 훈련[ENDCOLOR] 승급이 부여됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_HELP">
       <Text>브라질 소방목 벌목장은 정글 타일에만 건설할 수 있습니다. 브라질 소방목 벌목장을 건설하면 타일의 [ICON_GOLD]골드가 증가합니다. 음향학 기술을 연구하면 타일에서 [ICON_CULTURE]문화를 추가로 생산합니다.</Text>
@@ -322,13 +322,13 @@
       <Text>이 교역로를 약탈하면 이 교역로와 연결된 {1_Team}팀과의 관계가 악화됩니다. 위험을 감수하고 약탈하시겠습니까?</Text>
     </Row>
     <Row Tag="TXT_KEY_PRODMOD_YIELD_HANSE">
-      <Text>[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}%[ENDCOLOR]  한자가 주는 이익</Text>
+      <Text>[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}%[ENDCOLOR]  한자가 주는 이익</Text> 
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING">
       <Text>고산지 훈련</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING_HELP">
-      <Text>언덕에서 이동력이 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]로 증가합니다. [COLOR_POSITIVE_TEXT]언덕[ENDCOLOR]에서 싸울 때 [ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]10%[ENDCOLOR] 증가합니다.</Text>
+      <Text>언덕에서 [ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR][NEWLINE]언덕에서 [ICON_STRENGTH]전투력 보너스 [COLOR_POSITIVE_TEXT]+10%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_AMBITION">
       <Text>야망</Text>
@@ -384,7 +384,7 @@
       <Text>[ICON_STRENGTH]전투력이 [COLOR_POSITIVE_TEXT]10%[ENDCOLOR] 증가합니다. 측면 공격 시 전투력이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가합니다. [COLOR_POSITIVE_TEXT]원거리 공격[ENDCOLOR]에 대한 [ICON_STRENGTH]방어력이 [COLOR_POSITIVE_TEXT]10%[ENDCOLOR] 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II">
-      <Text>도시 대항 보너스 (250)</Text>
+      <Text>도시 공격 보너스 (250)</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II_HELP">
@@ -395,13 +395,13 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]사막[ENDCOLOR]에서 전투 시 [ICON_STRENGTH]전투력 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 증가</Text>
+      <Text>사막에서 전투 시 [ICON_STRENGTH]전투력 보너스 [COLOR_POSITIVE_TEXT]+50%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER">
       <Text>도시 약탈</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER_HELP">
-      <Text>도시에 입히는 피해량의 [COLOR_POSITIVE_TEXT]100%[ENDCOLOR]에 해당하는[ICON_GOLD]골드를 획득</Text>
+      <Text>도시에 주는 피해의 [COLOR_POSITIVE_TEXT]100%[ENDCOLOR]만큼 [ICON_GOLD]골드를 약탈</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_ENEMY_BLADE">
       <Text>적의 칼날</Text>
@@ -420,31 +420,31 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_EXTENDED_PARADROP_HELP">
-      <Text>강하 거리 증가 ([COLOR_POSITIVE_TEXT]40타일[ENDCOLOR])</Text>
+      <Text>공중 투하 거리 증가 ([COLOR_POSITIVE_TEXT]40타일[ENDCOLOR])</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_FAST_GENERAL_HELP">
-      <Text>[ICON_MOVES]이동력이 [COLOR_POSITIVE_TEXT]3[ENDCOLOR] 증가</Text>
+      <Text>[ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]+3[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_1">
       <Text>비행 갑판 I</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_1_HELP">
-      <Text>공중 유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR]를 추가로 수송할 수 있습니다.</Text>
+      <Text>공중 유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR] 추가 수송</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_2">
       <Text>비행 갑판 II</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_2_HELP">
-      <Text>공중 유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR]를 추가로 수송할 수 있습니다.</Text>
+      <Text>공중 유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR] 추가 수송</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_3">
       <Text>비행 갑판 III</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_3_HELP">
-      <Text>공중 유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR]를 추가로 수송할 수 있습니다.</Text>
+      <Text>공중 유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR] 추가 수송</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS">
       <Text>승리를 통한 황금기</Text>
@@ -457,7 +457,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER_HELP">
-      <Text>고대 유적 발견 보상을 [COLOR_POSITIVE_TEXT]선택[ENDCOLOR]할 수 있습니다.</Text>
+      <Text>고대 유적 발견 보상 [COLOR_POSITIVE_TEXT]선택[ENDCOLOR] 가능</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_HEAVY_CHARGE">
       <Text>육중한 돌격</Text>
@@ -479,10 +479,10 @@
       <Text>선조의 자부심</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_BOOGALOO_HELP">
-      <Text>자국 영토에서 전투 시 보너스 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR]</Text>
+      <Text>자국 영토에서 전투 시 [ICON_STRENGTH]전투력 보너스 [COLOR_POSITIVE_TEXT]+15%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_HELP">
-      <Text>자국 영토에서 전투 시 보너스 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR]</Text>
+      <Text>자국 영토에서 전투 시 [ICON_STRENGTH]전투력 보너스 [COLOR_POSITIVE_TEXT]+25%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_INVULNERABIILITY">
       <Text>무적</Text>
@@ -504,14 +504,14 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_MOON_STRIKER_HELP">
-      <Text>이동력 +1</Text>
+      <Text>[ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]+1[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE">
       <Text>비전의 보도</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE_HELP">
-      <Text>이 유닛이 첫 전투를 완료하면 기존 승급이 무작위 승급으로 교체됩니다.</Text>
+      <Text>첫 전투를 완료하면 기존 승급이 무작위 승급으로 교체됩니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_NATIONALISM">
       <Text>애국전쟁</Text>
@@ -526,7 +526,7 @@
       <Text>야만인 외의 유닛 파괴 시 체력 모두 회복</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_RESTLESSNESS">
-      <Text>쉼없음</Text>
+      <Text>초조</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_RESTLESSNESS_HELP">
       <Text>[COLOR_POSITIVE_TEXT]두 번[ENDCOLOR] 공격 가능, 추가 이동력 [COLOR_POSITIVE_TEXT]1[ENDCOLOR]</Text>
@@ -547,35 +547,35 @@
       <Text>기습 공격</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_SNEAK_ATTACK_HELP">
-      <Text>측면 공격 시 전투력이 [COLOR_POSITIVE_TEXT]50%[ENDCOLOR] 증가</Text>
+      <Text>측면 공격 시 [ICON_STRENGTH]전투력 보너스 [COLOR_POSITIVE_TEXT]+50%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_TRADE_MISSION_BONUS">
       <Text>무역 임무 보너스</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_TRADE_MISSION_BONUS_HELP">
-      <Text>무역 임무 시[ICON_GOLD]골드 [COLOR_POSITIVE_TEXT]100[ENDCOLOR]과 증가하는 영향력이 [COLOR_POSITIVE_TEXT]100%[ENDCOLOR] 증가</Text>
+      <Text>무역 임무 시[ICON_GOLD]골드 [COLOR_POSITIVE_TEXT]100[ENDCOLOR] 제공[NEWLINE]평소의 무역 임무보다 영향력이 [COLOR_POSITIVE_TEXT]+100%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WOLFPACK_1">
       <Text>집단공격 I</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WOLFPACK_1_HELP">
-      <Text>공격 시 전투력 보너스 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가</Text>
+      <Text>공격 시 전투력 보너스 [COLOR_POSITIVE_TEXT]+25%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WOLFPACK_2">
       <Text>집단공격 II</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WOLFPACK_2_HELP">
-      <Text>공격 시 전투력 보너스 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가</Text>
+      <Text>공격 시 전투력 보너스 [COLOR_POSITIVE_TEXT]+25%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WOLFPACK_3">
       <Text>집단공격 III</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_WOLFPACK_3_HELP">
-      <Text>공격 시 전투력 보너스 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가</Text>
+      <Text>공격 시 전투력 보너스 [COLOR_POSITIVE_TEXT]+25%[ENDCOLOR]</Text>
     </Row>
     <Row Tag="TXT_KEY_RELIGION_TOOLTIP_LINE_WITH_TRADE">
       <Text>{1_ReligionIcon} 신자 {2_NumFollowers}명 {3_PressureString}(교역로 {4_Num}개)</Text>
@@ -684,7 +684,7 @@
       <Text>검사를 대체하는 인도네시아의 고유 유닛입니다. 첫 전투를 해야 드러나는 능력을 지닌 신비로운 무기를 사용하는 고전 시대 근접 유닛입니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT"><!--란츠크네-->
-      <Text>파이크병보다 매우 저렴하고, 약탈 시 이동력 소모가 없는 유닛입니다. 이 유닛으로 도시에 입히는 피해량의 100%만큼 [ICON_GOLD]골드를 획득합니다. [COLOR_MAGENTA]상업[ENDCOLOR] 정책에서 용병군을 채택하고 [ICON_GOLD]골드로 구매해야 합니다. 구매 후 바로 이동할 수 있습니다.</Text>
+      <Text>장창병보다 매우 저렴하고, 약탈 시 이동력 소모가 없는 유닛입니다. 이 유닛으로 도시에 입히는 피해량의 100%만큼 [ICON_GOLD]골드를 획득합니다. [COLOR_MAGENTA]상업[ENDCOLOR] 정책에서 용병군을 채택하고 [ICON_GOLD]골드로 구매해야 합니다. 구매 후 바로 이동할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
       <Text>우호 지역에서 9타일 떨어진 곳까지 강하할 수 있는 강력한 보병 유닛입니다. 공수부대는 강하 후에도 이동할 수 있지만, 다음 턴까지 전투를 할 수 없습니다.</Text>
@@ -708,7 +708,7 @@
       <Text>[ICON_GREAT_MERCHANT_VENICE]베니스의 상인은 위대한 상인을 대체하는 베네치아의 고유 위인입니다. 교역 임무를 수행할 수 있는 능력 외에도 도시 국가를 구입해 괴뢰정부를 수립할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_WINGED_HUSSAR">
-      <Text>창기병을 대체하는 폴란드의 고유 유닛입니다. 적 기마 유닛을 공격하는데 특화된 중기마 유닛입니다. 창기병보다 [ICON_MOVES]이동력과 [ICON_STRENGTH]전투력이 높고 이 유닛에게 준 피해보다 더 많은 피해를 입은 유닛은 후퇴 합니다.</Text>
+      <Text>창기병을 대체하는 폴란드의 고유 유닛입니다. 적 기마 유닛 공격에 특화된 중기마 유닛으로 일반 창기병보다 [ICON_MOVES]이동력과 [ICON_STRENGTH]전투력이 높고 이 유닛에게 준 피해보다 더 많은 피해를 입은 유닛을 후퇴시킵니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_XCOM_SQUAD">
       <Text>위험이 도사리는 먼 곳에 투하되는 미래 보병 유닛입니다. 이 유닛은 착륙 후 바로 이동이나 약탈을 할 수 있으나 전투는 다음 턴부터 할 수 있습니다.[NEWLINE][NEWLINE][COLOR_CYAN]행운을 빕니다, 사령관님![ENDCOLOR]</Text>

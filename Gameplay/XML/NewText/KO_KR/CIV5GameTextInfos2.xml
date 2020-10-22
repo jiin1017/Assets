@@ -1104,7 +1104,7 @@
       <Text>우호적인 영토 내에 있을 때, 이 유닛은 다음 타일로 강하할 수 있습니다.  그 후에도 다른 행동을 취할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_INTERFACEMODE_PARADROP_HELP_WITH_RANGE">
-      <Text>우호적인 영토 내에 있을 때, 이 유닛은 최대 {1_NumTiles}타일 떨어진 곳까지 강하할 수 있습니다.  그 후에도 다른 행동을 취할 수 있습니다.</Text>
+      <Text>우호적인 영토 내에 있을 때, 이 유닛은 최대 {1_NumTiles}타일 떨어진 곳까지 강하할 수 있습니다. 그 후에도 다른 행동을 취할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_INTERFACEMODE_PING">
       <Text>팀원 핑</Text>
@@ -1635,13 +1635,13 @@
       <Text>당신의 {@1_UnitName}{@1: plural 1?이; 2?가;} 소모 때문에 전멸하였습니다!</Text>
     </Row>
     <Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED_UNKNOWN">
-      <Text>{당신의 {@1_UnitName}{@1: plural 1?이; 2?가;} 위장 중이던 {@2_EnUName}(-{3_Num})에게 전멸당했습니다!</Text>
+      <Text>당신의 {@1_UnitName}{@1: plural 1?이; 2?가;} 위장 중이던 {@2_EnUName}(-{3_Num})에게 전멸당했습니다!</Text>
     </Row>
     <Row Tag="TXT_KEY_MISC_YOU_UNIT_WITHDRAW">
-      <Text>{당신의 {@1_UnitName}(-{2_Num}){@1: plural 1?이; 2?가;} {@3_EnUName}(-{4_Num}){@3: plural 1?을; 2?를;} 공격했습니다!</Text>
+      <Text>당신의 {@1_UnitName}(-{2_Num}){@1: plural 1?이; 2?가;} {@3_EnUName}(-{4_Num}){@3: plural 1?을; 2?를;} 공격했습니다!</Text>
     </Row>
     <Row Tag="TXT_KEY_MISC_YOU_UNIT_WITHDRAW_CITY">
-      <Text>{당신의 {@1_UnitName}(-{2_Num}){@1: plural 1?이; 2?가;} {@3_CityName}(-{4_Num}){@3: plural 1?을; 2?를;} 공격했습니다!</Text>
+      <Text>당신의 {@1_UnitName}(-{2_Num}){@1: plural 1?이; 2?가;} {@3_CityName}(-{4_Num}){@3: plural 1?을; 2?를;} 공격했습니다!</Text>
     </Row>
     <Row Tag="TXT_KEY_MISC_YOUR_CITY_ATTACKED_BY_AIR">
       <Text>{@1_CityName}(-{3_Num}){@1: plural 1?이; 2?가;} {@2_EnUName}에게 공격당했습니다!</Text>
@@ -1719,7 +1719,7 @@
       <Text>공중 투하</Text>
     </Row>
     <Row Tag="TXT_KEY_MISSION_PARADROP_HELP">
-      <Text>지정된 위치로 공중 투하 합니다. 이 임무는 요격당할 수도 있습니다.</Text>
+      <Text>지정된 위치로 공중 투하 합니다. 임무 시 요격당할 수도 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_MISSION_PILLAGE">
       <Text>약탈</Text>
@@ -1833,7 +1833,7 @@
       <Text>빠른 전투 (방어시)</Text>
     </Row>
     <Row Tag="TXT_KEY_PLAYER_OPTION_QUICK_COMBAT_OFFENSE">
-      <Text>빠른 전투 (공격시)</Text>
+      <Text>빠른 전투 (공격 시)</Text>
     </Row>
     <Row Tag="TXT_KEY_PLAYER_OPTION_QUICK_MOVES">
       <Text>빠른 이동</Text>

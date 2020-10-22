@@ -830,7 +830,7 @@
       <Text>우호적인 도시 국가가 생성하는 [ICON_FOOD]식량, [ICON_CULTURE]문화 및 [ICON_PEACE]신앙이 50% 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS">
-      <Text>모든 해상 근접 유닛은 물리친 적선을 나포할 수 있는 [COLOR_POSITIVE_TEXT]전리품 선박[ENDCOLOR] 승급이 부여됩니다. 해상 유닛의 유지비가 [COLOR_POSITIVE_TEXT]1/3[ENDCOLOR]로 줄어듭니다.</Text>
+      <Text>모든 근접 해상 유닛은 물리친 적선을 나포할 수 있는 [COLOR_POSITIVE_TEXT]전리품 선박[ENDCOLOR] 승급이 부여됩니다. 해상 유닛의 유지비가 [COLOR_POSITIVE_TEXT]1/3[ENDCOLOR]로 줄어듭니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT">
       <Text>모든 해상 유닛의 [ICON_MOVES]이동력이 [COLOR_POSITIVE_TEXT]2[ENDCOLOR] 증가합니다. 스파이 [COLOR_POSITIVE_TEXT]1명[ENDCOLOR]을 추가로 받습니다.</Text>

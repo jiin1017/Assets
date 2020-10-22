@@ -326,7 +326,7 @@
       <Text>스페인인들이 아메리카 대륙에 도착해 새로 발견한 보물을 유럽으로 운반하기 시작했을 때, 해적 습격의 압박에 맞서기 위해 새롭고 더욱 효율적인 항해 방법을 찾아야 했습니다. 적재 및 항해에 있어 엄격한 규제를 받은 특수 호송 선단인 스페인 보물선 단이 그 해답이었습니다. 남아메리카 북쪽 해안을 따라 아메리카를 떠나는 배들은 단체로 특정 항로를 따라 항해하도록 지시를 받았으며, 따라서 더 적은 군대로도 호위하기가 쉬웠습니다.  이 배들은 출입이 제한되고 보호되는 항구 도시(세비야 등)로만 항해했기에, 해적 습격 가능성이 더 줄어들었습니다.[NEWLINE][NEWLINE]보물선대는 16세기에서 18세기까지 스페인에서 이용되면서 큰 성공을 거두었으며, 아직도 역사상 가장 수익성이 높고 효과적인 해상 작전으로 간주하고 있습니다. 그러나 1700년대 스페인이 남아메리카 북쪽 해안의 중요 해안 도시를 잃으면서 보물선 단의 존폐가 위협받게 되었습니다. 이 상황을 타개하려는 노력의 일환으로, 카를로스 3세는 1765년에 엄격했던 체계를 완화하여, 1780년대에는 더 많은 식민지가 보물선 단을 이용할 수 있게 하였습니다. 그러나 결국은 1790년에 항해한 보물선대가 마지막이 되었고, 두 대륙 간의 해운은 필요할 때마다 소규모 선대가 담당하게 되었습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_HELP">
-      <Text>모든 지상 유닛이 [COLOR_POSITIVE_TEXT]방어 승선[ENDCOLOR] 진급을 할 수 있게 되어, 해상 공격을 방어할 수 있게 됩니다. </Text>
+      <Text>모든 지상 유닛이 [COLOR_POSITIVE_TEXT]방어 승선[ENDCOLOR] 승급을 할 수 있게 되어, 해상 공격을 방어할 수 있게 됩니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_QUOTE">
       <Text>[NEWLINE][TAB][TAB]"금은 보물이다. 금을 가진 자는 자기 세상에서 하고자 하는 일은 무엇이든 할 수 있으며, 다른 영혼이 천국에 가도록 도와줄 수 있다."[NEWLINE][TAB][TAB] - 크리스토퍼 콜럼버스[NEWLINE][TAB]</Text>
@@ -483,7 +483,7 @@
       <Text>도시 강탈</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_CITY_SACK_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]도시 강탈[ENDCOLOR][NEWLINE]도시 공격 시 [ICON_STRENGTH]전투력이 33% 증가하며 보물 유닛의 이동력이 1만큼 증가합니다. (유닛은 도시 강탈 진급을 받고 모든 보물 유닛은 이동력 증가 1 진급을 받습니다.)</Text>
+      <Text>[COLOR_POSITIVE_TEXT]도시 강탈[ENDCOLOR][NEWLINE]도시 공격 시 [ICON_STRENGTH]전투력이 33% 증가하며 보물 유닛의 이동력이 1만큼 증가합니다. (유닛은 도시 강탈 승급을 받고 모든 보물 유닛은 이동력 증가 1 승급을 받습니다.)</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_CITY_SACK_TEXT">
       <Text>정복한 신세계의 도시를 약탈하는 행위는 유럽 침략자들이 원주민들의 사기를 꺾거나 단순히 재물을 얻기 위한 정책이었다. 전자의 예는 곤잘로 피사로가 1539년에 잉카 제국의 수도인 비카밤바를 약탈한 것이었다. 후자는 해적 헨리 모건이 1671년에 파나마 시티를 약탈한 것이었다.</Text>
@@ -631,7 +631,7 @@
       <Text>[COLOR_POSITIVE_TEXT]물 타일[ENDCOLOR]에 승선할 수 있습니다. (항해 학교가 세워지지 않았을 경우) 이 유닛은 중립 또는 적 물 타일에서 움직일 때마다 10% 확률로 10만큼의 [COLOR_NEGATIVE_TEXT]괴혈병[ENDCOLOR] 피해를 받습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_NATIVE_TONGUE_HELP">
-      <Text>자연 경관을 발견하면 [ICON_PEACE]신앙을 받습니다. 처음으로 발견할 경우 보너스가 증가하지만, 이 진급을 가진 유닛 중 하나가 이미 발견한 경우에는 보너스가 없습니다.</Text>
+      <Text>자연 경관을 발견하면 [ICON_PEACE]신앙을 받습니다. 처음으로 발견할 경우 보너스가 증가하지만, 이 승급을 가진 유닛 중 하나가 이미 발견한 경우에는 보너스가 없습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_SELL_EXOTIC_GOODS_HELP">
       <Text>중국에 도달하여 [ICON_GOLD]골드를 받습니다. 대신 유닛은 사라집니다.</Text>

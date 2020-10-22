@@ -5,7 +5,7 @@
 <GameData>
   <Language_KO_KR>
     <Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY">
-      <Text>설원, 툰드라, 언덕 지형 보너스</Text>
+      <Text>설원/툰드라/언덕 지형 보너스</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY_HELP">
