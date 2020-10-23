@@ -705,7 +705,7 @@
       <Text>갈레아스를 대체하는 베네치아의 고유 유닛입니다. 원거리 공격으로 제해권을 장악할 수 있는 매우 강력한 중세 해상 유닛입니다. 갈레아스보다 공격력 및 방어력이 더욱 뛰어나지만 그만큼 비싸기도 합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_MERCHANT">
-      <Text>[ICON_GREAT_MERCHANT_VENICE]베니스의 상인은 위대한 상인을 대체하는 베네치아의 고유 위인입니다. 교역 임무를 수행할 수 있는 능력 외에도 도시 국가를 구입해 괴뢰정부를 수립할 수 있습니다.</Text>
+      <Text>[ICON_GREAT_MERCHANT_VENICE]베니스의 상인은 위대한 상인을 대체하는 베네치아의 고유 위인입니다. 무역 임무를 수행할 수 있는 능력 외에도 도시 국가를 구입해 괴뢰정부를 수립할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_WINGED_HUSSAR">
       <Text>창기병을 대체하는 폴란드의 고유 유닛입니다. 적 기마 유닛 공격에 특화된 중기마 유닛으로 일반 창기병보다 [ICON_MOVES]이동력과 [ICON_STRENGTH]전투력이 높고 이 유닛에게 준 피해보다 더 많은 피해를 입은 유닛을 후퇴시킵니다.</Text>

@@ -362,7 +362,7 @@
       <Text>이 타일은 활성화 되지 않았습니다. 클릭하여 [ICON_CITIZEN]시민을 배치할 수 있습니다. 하지만 도시 관리자가 선택해 놓은 배치에 영향을 줄 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITYVIEW_WLTKD_COUNTER">
-      <Text>국왕 경축일! ([COLOR_POSITIVE_TEXT]{1_Num} 턴[ENDCOLOR] 남음)</Text>
+      <Text>국왕 경축일 ([COLOR_POSITIVE_TEXT]{1_Num}턴[ENDCOLOR] 남음)</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_TOOLTIP">
       <Text>게임의 다양한 요소들을 설명해 놓은 문명 백과사전을 엽니다.</Text>

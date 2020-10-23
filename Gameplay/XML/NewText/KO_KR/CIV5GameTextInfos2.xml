@@ -1740,7 +1740,7 @@
       <Text>비활성화</Text>
     </Row>
     <Row Tag="TXT_KEY_MISSION_START_GOLDENAGE">
-      <Text>[ICON_GOLDEN_AGE]황금기 시작!</Text>
+      <Text>[ICON_GOLDEN_AGE]황금기 시작</Text>
     </Row>
     <Row Tag="TXT_KEY_MOVE_DETAILS">
       <Text>선택한 유닛에게 이동 명령을 내리려면 화면에 한 손가락을 대고 두 번 탭하십시오.</Text>

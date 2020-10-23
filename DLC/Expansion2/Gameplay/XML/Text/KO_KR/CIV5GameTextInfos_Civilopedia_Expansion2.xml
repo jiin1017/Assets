@@ -1958,7 +1958,7 @@
       <Text>작가 전문가가 하는 일은 무엇인가요?</Text>
     </Row>
     <Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_BODY">
-      <Text>전문 작가는 문화를 생산하며 위대한 작가를 향한 포인트를 생성합니다. 작가는 적절한 전문가 슬롯이 있는 건물인 작가 길드에만 배정할 수 있습니다.</Text>
+      <Text>작가 전문가는 문화를 생산하며 위대한 작가를 향한 포인트를 생성합니다. 작가는 적절한 전문가 슬롯이 있는 건물인 작가 길드에만 배정할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_ADV_QUEST">
       <Text>걸작은 어떻게 만드나요?</Text>
@@ -2117,10 +2117,10 @@
       <Text>[ICON_GREAT_ARTIST]위대한 예술가는 [COLOR_POSITIVE_TEXT]걸작 예술품[ENDCOLOR]([ICON_CULTURE]문화 [ICON_TOURISM]관광 제공)을 만들 수 있습니다. 걸작 예술품은 빈 슬롯이 있는 적절한 건물(궁전, 박물관, 대성당 등)이 건설된 가장 가까운 도시에 배치됩니다.  [COLOR_POSITIVE_TEXT][ICON_GOLDEN_AGE]황금기[ENDCOLOR]를 열 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 예술가는 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_MUSICIAN_STRATEGY">
-      <Text>[ICON_GREAT_MUSICIAN]위대한 음악가는 [COLOR_POSITIVE_TEXT]걸작 음악[ENDCOLOR]([ICON_CULTURE]문화 [ICON_TOURISM]관광 제공)을 만들 수 있습니다. 걸작 음악은 빈 슬롯이 있는 적절한 건물(오페라 극장, 방송탑 등)이 건설된 가장 가까운 도시에 배치됩니다.  다른 문명으로 건너가 [COLOR_POSITIVE_TEXT]순회 공연[ENDCOLOR]을 열어 해당 영역에서 얻을 수 있는 [ICON_TOURISM]관광을 늘릴 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 음악가는 사라집니다.</Text>
+      <Text>[ICON_GREAT_MUSICIAN]위대한 음악가는 [COLOR_POSITIVE_TEXT]걸작 음악[ENDCOLOR]([ICON_CULTURE]문화 [ICON_TOURISM]관광 제공)을 만들 수 있습니다. 걸작 음악은 빈 슬롯이 있는 적절한 건물(오페라 극장, 방송탑 등)이 건설된 가장 가까운 도시에 배치됩니다. 다른 문명으로 건너가 [COLOR_POSITIVE_TEXT]순회 공연[ENDCOLOR]을 열어 해당 영역에서 얻을 수 있는 [ICON_TOURISM]관광을 늘릴 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 음악가는 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_WRITER_STRATEGY">
-      <Text>[ICON_GREAT_WRITER]위대한 작가는 [COLOR_POSITIVE_TEXT]걸작 문학[ENDCOLOR]([ICON_CULTURE]문화 [ICON_TOURISM]관광 제공)을 만들 수 있습니다. 걸작 문학은 빈 슬롯이 있는 적절한 건물(원형극장, 건국 서사시, 영웅 서사시, 왕립 도서관 등)이 건설된 가장 가까운 도시에 배치됩니다.  [COLOR_POSITIVE_TEXT]정치 논문[ENDCOLOR]을 써서 대량의 [ICON_CULTURE]문화를 획득할 수도 있습니다.[NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 작가는 사라집니다.</Text>
+      <Text>[ICON_GREAT_WRITER]위대한 작가는 [COLOR_POSITIVE_TEXT]걸작 문학[ENDCOLOR]([ICON_CULTURE]문화 [ICON_TOURISM]관광 제공)을 만들 수 있습니다. 걸작 문학은 빈 슬롯이 있는 적절한 건물(원형극장, 건국 서사시, 영웅 서사시, 왕립 도서관 등)이 건설된 가장 가까운 도시에 배치됩니다. [COLOR_POSITIVE_TEXT]정치 논문[ENDCOLOR]을 써서 대량의 [ICON_CULTURE]문화를 획득할 수도 있습니다.[NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 작가는 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN_STRATEGY">
       <Text>크리스 검사는 일반 검사를 대체합니다. 최대한 빨리 전투에 참가시켜 크리스의 굽은 칼날에 숨은 비밀을 최대한 활용하십시오.</Text>

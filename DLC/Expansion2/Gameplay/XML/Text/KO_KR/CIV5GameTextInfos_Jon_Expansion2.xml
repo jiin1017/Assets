@@ -453,7 +453,7 @@
       <Text>기업가 정신</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP">
-      <Text>[COLOR_POSITIVE_TEXT]기업가 정신[ENDCOLOR][NEWLINE]위대한 상인 출현율이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가합니다. 위대한 상인의 교역 임무에서 얻는 [ICON_GOLD]골드가 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]로 증가합니다.</Text>
+      <Text>[COLOR_POSITIVE_TEXT]기업가 정신[ENDCOLOR][NEWLINE]위대한 상인 출현율이 [COLOR_POSITIVE_TEXT]25%[ENDCOLOR] 증가합니다. 위대한 상인의 무역 임무에서 얻는 [ICON_GOLD]골드가 [COLOR_POSITIVE_TEXT]두 배[ENDCOLOR]로 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_POLICY_ETHICS">
       <Text>문화 교류</Text>

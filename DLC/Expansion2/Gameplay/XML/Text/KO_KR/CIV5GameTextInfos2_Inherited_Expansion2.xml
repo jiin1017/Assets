@@ -363,7 +363,7 @@
       <Text>당신과 전쟁을 벌이는 도시 국가는 영향력이 0 이하로 떨어지며 당신의 문명에게 어떤 선물도 주지 않습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATE_WAROFTHE_HEADING2_BODY">
-      <Text>당신은 언제라도 도시 국가에 선전포고할 수 있습니다. 외교 화면을 통해 도시 국가에 선전포고하거나 군사 유닛으로 원하는 도시 국가나 유닛을 공격하면 전쟁이 시작됩니다. 외교 화면에서 또는 해당 도시를 클릭하여 평화 협상을 요청할 수 있습니다.[NEWLINE][NEWLINE]</Text>
+      <Text>당신은 언제라도 도시 국가에 선전포고할 수 있습니다. 외교 화면을 통해 도시 국가에 선전포고하거나 군사 유닛으로 원하는 도시 국가나 유닛을 공격하면 전쟁이 시작됩니다. 외교 화면에서 또는 해당 도시를 클릭하여 평화 협상을 요청할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITYSTATES_GREATPROPHET_ADV_QUEST">
       <Text>위대한 선지자란 무엇입니까?</Text>
@@ -447,7 +447,7 @@
       <Text>{TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC}</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_SUMMARY">
-      <Text>당신이 창시한 종교가 도시 국가의 대중종교가 되면 해당 도시 국가에 대한 영향력이 25% 천천히 떨어지며 해당 도시 국가와의 영향력이 나쁘다면 회복 속도가 50% 빨라집니다.[NEWLINE][NEWLINE] 해당 도시 국가는 종종 특정 종교를 전파해 달라고 부탁하는데, 이에 성공하면 영향력이 상당히 증가합니다.</Text>
+      <Text>당신이 창시한 종교가 도시 국가의 대중종교가 되면 해당 도시 국가에 대한 영향력이 25% 천천히 떨어지며 해당 도시 국가와의 영향력이 나쁘다면 회복 속도가 50% 빨라집니다.[NEWLINE][NEWLINE]해당 도시 국가는 종종 특정 종교를 전파해 달라고 부탁하는데, 이에 성공하면 영향력이 상당히 증가합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC">
       <Text>종교 및 도시 국가와의 영향력</Text>
@@ -672,7 +672,7 @@
       <Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC}</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_SUMMARY">
-      <Text>[ICON_PEACE]신앙은 종교관을 세우고 위대한 선지자를 출현하게 하고 종교 유닛이나 건물을 구입할 때 쓰는 골드와 같은 기능을 합니다.[NEWLINE][NEWLINE][ICON_PEACE]신앙 점수를 얻는 여러 가지 방법이 있습니다. 먼저, 도시에 건설하면 턴마다 일정한 양의 [ICON_PEACE]신앙을 생산하는 건물이나 불가사의가 있습니다. 시민을 투입하면 [ICON_PEACE]신앙을 생산하는 자연 경관도 있습니다. 고대 유적을 방문하면 [ICON_PEACE]신앙을 얻을 수 있습니다. 종교 도시 국가와의 영향력이 높다면 일정한 간격으로 문명의 [ICON_PEACE]신앙을 올려주는 선물을 보냅니다. 마지막으로 위대한 선지자로 성지를 건설하면 [ICON_PEACE]신앙을 얻을 수 있습니다. </Text>
+      <Text>[ICON_PEACE]신앙은 종교관을 세우고 위대한 선지자를 출현하게 하고 종교 유닛이나 건물을 구입할 때 쓰는 골드와 같은 기능을 합니다.[NEWLINE][NEWLINE]신앙 점수를 얻는 여러 가지 방법이 있습니다. 먼저, 도시에 건설하면 턴마다 일정한 양의 신앙을 생산하는 건물이나 불가사의가 있습니다. 시민을 투입하면 신앙을 생산하는 자연 경관도 있습니다. 고대 유적을 방문하면 신앙을 얻을 수 있습니다. 종교 도시 국가와의 영향력이 높다면 일정한 간격으로 문명의 신앙을 올려주는 선물을 보냅니다. 마지막으로 위대한 선지자로 성지를 건설하면 신앙을 얻을 수 있습니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC">
       <Text>신앙 얻기</Text>
@@ -685,7 +685,7 @@
       <Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC}</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_SUMMARY">
-      <Text>다양한 방법으로 [ICON_PEACE]신앙을 소모할 수 있습니다. 종교와 관련된 유닛이나 건물을 구매할 때 사용하며 위대한 선지자가 출현할 때 이를 소모합니다. 산업 시대에 들어서면 위대한 선지자가 아닌 다른 위인이 출현할 수도 있습니다.[NEWLINE][NEWLINE][ICON_PEACE]신앙이 일정량 모이면 위대한 선지자가 자동으로 출현합니다. 상태 바에 있는 [ICON_PEACE]신앙 아이콘 위로 마우스 커서를 가져가면 위대한 선지자가 출현하는 데 필요한 [ICON_PEACE]신앙이 얼마인지 알 수 있습니다. 산업 시대에 특정한 사회 정책을 도입했다면 출현할 위인의 종류를 고를 수 있습니다.[NEWLINE][NEWLINE]위대한 선지자가 필요 없거나 [ICON_PEACE]신앙이 다 모일 때까지 기다리기 싫다면 대신 도시 화면에 있는 구매 메뉴를 통해 유닛이나 건물을 구매할 수 있습니다. 선교사나 이단심문관은 어느 도시에서나 구매할 수 있지만, 종교 건물은 해당 도시의 대중 종교가 종교 건물 구매를 허락하는 교리를 채택한 경우에만 구매할 수 있습니다.</Text>
+      <Text>다양한 방법으로 [ICON_PEACE]신앙을 소모할 수 있습니다. 종교와 관련된 유닛이나 건물을 구매할 때 사용하며 위대한 선지자가 출현할 때 이를 소모합니다. 산업 시대에 들어서면 위대한 선지자가 아닌 다른 위인이 출현할 수도 있습니다.[NEWLINE][NEWLINE]신앙이 일정량 모이면 위대한 선지자가 자동으로 출현합니다. 상태 바에 있는 신앙 아이콘 위로 마우스 커서를 가져가면 위대한 선지자가 출현하는 데 필요한 신앙이 얼마인지 알 수 있습니다. 산업 시대에 특정한 사회 정책을 도입했다면 출현할 위인의 종류를 고를 수 있습니다.[NEWLINE][NEWLINE]위대한 선지자가 필요 없거나 신앙이 다 모일 때까지 기다리기 싫다면 대신 도시 화면에 있는 구매 메뉴를 통해 유닛이나 건물을 구매할 수 있습니다. 선교사나 이단심문관은 어느 도시에서나 구매할 수 있지만, 종교 건물은 해당 도시의 대중 종교가 종교 건물 구매를 허락하는 교리를 채택한 경우에만 구매할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC">
       <Text>신앙 소모</Text>
@@ -1540,13 +1540,13 @@
       <Text>[ICON_GREAT_ADMIRAL]위대한 제독은 2타일 내의 모든 아군 해상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다.  자신이 있는 타일과 주변 타일의 모든 해상 유닛의 피해를 즉시 회복시키는 [COLOR_POSITIVE_TEXT]함대 수리[ENDCOLOR]를 수행할 수 있습니다.[NEWLINE][NEWLINE]함대 수리 능력을 사용하면 위대한 제독이 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
-      <Text>[ICON_GREAT_ENGINEER]위대한 기술자는 타일의 [ICON_PRODUCTION]생산을 크게 향상시키는 [COLOR_POSITIVE_TEXT]제조공장[ENDCOLOR]을 건설할 수 있습니다.  도시의 건물 생산 속도를 증가시키는 [COLOR_POSITIVE_TEXT]생산 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 기술자가 사라집니다. </Text>
+      <Text>[ICON_GREAT_ENGINEER]위대한 기술자는 타일의 [ICON_PRODUCTION]생산을 크게 향상시키는 [COLOR_POSITIVE_TEXT]제조소[ENDCOLOR]를 건설할 수 있습니다.  도시의 건물 생산 속도를 증가시키는 [COLOR_POSITIVE_TEXT]생산 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 기술자가 사라집니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
       <Text>[ICON_GREAT_GENERAL]위대한 장군은 유닛에게 큰 방어 보너스를 주는 [COLOR_POSITIVE_TEXT]성채[ENDCOLOR]를 건설할 수 있습니다. 성채를 건설하면 주변 타일이 당신의 영토가 되며 성채 옆의 적 유닛에게 피해를 줍니다. 성채를 건설하면 위대한 장군이 사라집니다.  2타일 내의 모든 아군 지상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY">
-      <Text>[ICON_GREAT_MERCHANT]위대한 상인은 대량의 [ICON_GOLD]골드를 제공하는 [COLOR_POSITIVE_TEXT]세관[ENDCOLOR]을 건설할 수 있습니다.  도시 국가에서 [COLOR_POSITIVE_TEXT]무역 임무[ENDCOLOR]를 수행하여 [ICON_GOLD]골드를 생성하고 해당 도시 국가와의 [ICON_INFLUENCE]영향력을 증가시킬 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 상인이 사라집니다.</Text>
+      <Text>[ICON_GREAT_MERCHANT]위대한 상인은 대량의 [ICON_GOLD]골드를 제공하는 [COLOR_POSITIVE_TEXT]세관[ENDCOLOR]을 건설할 수 있습니다. 도시 국가에서 [COLOR_POSITIVE_TEXT]무역 임무[ENDCOLOR]를 수행하여 [ICON_GOLD]골드를 생성하고 해당 도시 국가와의 [ICON_INFLUENCE]영향력을 증가시킬 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 상인이 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY">
       <Text>[ICON_PROPHET]위대한 선지자는 종교를 창시하거나 강화할 수 있는 유일한 유닛입니다. 위대한 선지자는 대량의 [ICON_PEACE]신앙을 획득할 수 있는 [COLOR_POSITIVE_TEXT]성지[ENDCOLOR]를 건설할 수 있습니다.  해당 도시의 이전 종교를 모두 대체하면서 종교를 [COLOR_POSITIVE_TEXT]4번[ENDCOLOR] 전파할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 선지자는 사라집니다.</Text>

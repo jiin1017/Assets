@@ -850,7 +850,7 @@
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_RESOLUTION_NUCLEAR_NON_PROLIFERATION_HELP">
-      <Text>모든 문명은 새로운 원자폭탄 및 핵미사일을 생산할 수 [COLOR_NEGATIVE_TEXT]없습니다[ENDCOLOR]. 이미 제조된 핵무기는 유지할 수 있습니다.[NEWLINE][NEWLINE][COLOR_RESEARCH_STORED]고급 탄도학[ENDCOLOR]을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.</Text>
+      <Text>모든 문명은 새로운 [COLOR_NEGATIVE_TEXT]원자폭탄[ENDCOLOR] 및 [COLOR_NEGATIVE_TEXT]핵미사일[ENDCOLOR]을 생산할 수 없습니다. 이미 제조된 핵무기는 유지할 수 있습니다.[NEWLINE][NEWLINE][COLOR_RESEARCH_STORED]고등 탄도학[ENDCOLOR]을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_RESOLUTION_PLAYER_EMBARGO">
       <Text>통상 금지</Text>
