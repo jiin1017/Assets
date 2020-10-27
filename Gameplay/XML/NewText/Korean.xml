@@ -8,7 +8,7 @@
             <TableName>Language_KO_KR</TableName>
             <PluralRule>2</PluralRule>
 			<UseExtendedFont>0</UseExtendedFont>
-			<FontName>고도 M</FontName>
+			<FontName>HY강B</FontName>
         </Row>
     </Languages>
 </GameData>
