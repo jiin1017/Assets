@@ -1012,7 +1012,7 @@
 			<Text>우리가 {1_TechName:textkey}{1: plural 1?을; 2?를;} 연구한다면, 영토 안의 [COLOR_POSITIVE_TEXT]{2_ResourceName:textkey}[ENDCOLOR]{2: plural 1?을; 2?를;} 개발할 수 있습니다.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_WAR">
-			<Text>저는 당신이 즉시 {1_LongCivName:textkey}{@1: plural 1?와; 2?과;} 평화 협정을 맺기를 충고합니다. 그들은 우리를 위협하고 있어, 매우 위험합니다!</Text>
+			<Text>저는 당신이 즉시 {1_LongCivName:textkey}{1: plural 1?와; 2?과;} 평화 협정을 맺기를 충고합니다. 그들은 우리를 위협하고 있어, 매우 위험합니다!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_PEACE">
 			<Text>우리는 {1_LongCivName:textkey}{1: plural 1?을; 2?를;} 자극하지 않는 것이 현명할 것입니다. 그들은 우리보다 더 광대하고 막강하므로, 조심스럽게 대해야 합니다.</Text>

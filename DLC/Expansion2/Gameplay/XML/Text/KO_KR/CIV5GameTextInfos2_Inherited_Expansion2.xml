@@ -1293,7 +1293,7 @@
       <Text>기마 유닛 대항 페널티 (33)</Text>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL">
-      <Text>장군에 이동력 양도</Text>
+      <Text>이동력 양도</Text>
 	  <Plurality>2</Plurality>
     </Row>
     <Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_HELP">
@@ -1540,7 +1540,7 @@
       <Text>[ICON_GREAT_ADMIRAL]위대한 제독은 2타일 내의 모든 아군 해상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다.  자신이 있는 타일과 주변 타일의 모든 해상 유닛의 피해를 즉시 회복시키는 [COLOR_POSITIVE_TEXT]함대 수리[ENDCOLOR]를 수행할 수 있습니다.[NEWLINE][NEWLINE]함대 수리 능력을 사용하면 위대한 제독이 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
-      <Text>[ICON_GREAT_ENGINEER]위대한 기술자는 타일의 [ICON_PRODUCTION]생산을 크게 향상시키는 [COLOR_POSITIVE_TEXT]제조소[ENDCOLOR]를 건설할 수 있습니다.  도시의 건물 생산 속도를 증가시키는 [COLOR_POSITIVE_TEXT]생산 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 기술자가 사라집니다. </Text>
+      <Text>[ICON_GREAT_ENGINEER]위대한 기술자는 타일의 [ICON_PRODUCTION]생산을 크게 향상시키는 [COLOR_POSITIVE_TEXT]제조소[ENDCOLOR]를 건설할 수 있습니다. 도시의 건물 생산 속도를 증가시키는 [COLOR_POSITIVE_TEXT]생산 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 기술자가 사라집니다. </Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
       <Text>[ICON_GREAT_GENERAL]위대한 장군은 유닛에게 큰 방어 보너스를 주는 [COLOR_POSITIVE_TEXT]성채[ENDCOLOR]를 건설할 수 있습니다. 성채를 건설하면 주변 타일이 당신의 영토가 되며 성채 옆의 적 유닛에게 피해를 줍니다. 성채를 건설하면 위대한 장군이 사라집니다.  2타일 내의 모든 아군 지상 유닛에 [ICON_STRENGTH]전투력 보너스를 [COLOR_POSITIVE_TEXT]15%[ENDCOLOR] 제공합니다.</Text>
@@ -1552,7 +1552,7 @@
       <Text>[ICON_PROPHET]위대한 선지자는 종교를 창시하거나 강화할 수 있는 유일한 유닛입니다. 위대한 선지자는 대량의 [ICON_PEACE]신앙을 획득할 수 있는 [COLOR_POSITIVE_TEXT]성지[ENDCOLOR]를 건설할 수 있습니다.  해당 도시의 이전 종교를 모두 대체하면서 종교를 [COLOR_POSITIVE_TEXT]4번[ENDCOLOR] 전파할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 선지자는 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY">
-      <Text>[ICON_GREAT_SCIENTIST]위대한 과학자는 대량의 [ICON_RESEARCH]과학을 제공하는 [COLOR_POSITIVE_TEXT]아카데미[ENDCOLOR]를 건설할 수 있습니다.  문명의 과학을 바탕으로 [COLOR_POSITIVE_TEXT]과학 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 과학자가 사라집니다.</Text>
+      <Text>[ICON_GREAT_SCIENTIST]위대한 과학자는 대량의 [ICON_RESEARCH]과학을 제공하는 [COLOR_POSITIVE_TEXT]아카데미[ENDCOLOR]를 건설할 수 있습니다. 문명의 과학을 바탕으로 [COLOR_POSITIVE_TEXT]과학 가속[ENDCOLOR]을 수행할 수 있습니다. [NEWLINE][NEWLINE]위 능력 중 하나를 사용하면 위대한 과학자가 사라집니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
       <Text>1차 세계대전 보병은 현대 시대의 기본 보병 유닛입니다. 이 유닛은 전 단계 유닛인 소총병보다 훨씬 강력합니다.</Text>

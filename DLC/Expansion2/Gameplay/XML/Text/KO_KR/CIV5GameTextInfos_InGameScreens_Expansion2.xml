@@ -344,7 +344,7 @@
       <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_TOURISM]  [ICON_PEACE]신앙으로 구입한 건물에서 획득 </Text>
     </Row>
     <Row Tag="TXT_KEY_CO_CITY_TOURISM_GREAT_WORKS">
-      <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{2_Num}[ENDCOLOR] [ICON_TOURISM]  [ICON_GREAT_WORK]걸작 {2_Num}개에서 획득 </Text>
+      <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{2_Num}[ENDCOLOR] [ICON_TOURISM]  [ICON_GREAT_WORK]걸작 [COLOR_POSITIVE_TEXT]{2_Num}개[ENDCOLOR]에서 획득 </Text>
     </Row>
     <Row Tag="TXT_KEY_CO_CITY_TOURISM_LEAGUES_BONUS">
       <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}%[ENDCOLOR] [ICON_TOURISM]  세계 종교의 성도로 얻는 보너스 : </Text>
@@ -1115,12 +1115,10 @@
       <Text>이용할 수 있는 총 대표단 :</Text>
     </Row>
     <Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_NEEDED">
-      <Text>세계 지도자 제의를 받는데 필요한 대표단 :</Text>
+      <Text>세계 지도자 제의를 받기 위해 필요한 대표단 :</Text>
     </Row>
     <Row Tag="TXT_KEY_VP_DIPLO_NEW_CAPITALS_REMAINING">
-      <Text>
-        모든 문명이 각자의 원래 [ICON_CAPITAL]수도를 통치합니다.
-      </Text>
+      <Text>모든 문명이 각자 원래의 [ICON_CAPITAL]수도를 통치합니다.</Text>
     </Row>
     <Row Tag="TXT_KEY_VP_DIPLO_SOMEONE_WON">
       <Text>{1_CivName}{1: plural 1?이; 2?가;} 세계 지도자로 선출되었습니다.</Text>

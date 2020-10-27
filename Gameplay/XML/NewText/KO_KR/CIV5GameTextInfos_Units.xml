@@ -336,17 +336,17 @@
 			<Text>[COLOR_POSITIVE_TEXT]해상 타일[ENDCOLOR]에서 이동할 수 있고, 승선한 유닛을 적이 공격하면 파괴당합니다.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION">
-            <Text>방어적 승선</Text>
-        </Row>
-        <Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION_HELP">
-            <Text>[COLOR_POSITIVE_TEXT]해상 타일[ENDCOLOR]에서 이동할 수 있고, 승선한 유닛은 방어가 가능합니다.</Text>
-        </Row>
-        <Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION">				
-            <Text>대양 항해 승선</Text>				
-        </Row>				
-        <Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION_HELP">				
-            <Text>[COLOR_POSITIVE_TEXT]해상 타일[ENDCOLOR]에서 이동할 수 있고, 승선한 유닛이 대양 타일에 갈 수 있으며, 시야가 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다.</Text>				
-        </Row>				
+			<Text>방어적 승선</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]해상 타일[ENDCOLOR]에서 이동할 수 있고, 승선한 유닛은 방어가 가능합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION">
+			<Text>대양 항해 승선</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]해상 타일[ENDCOLOR]에서 이동할 수 있고, 승선한 유닛이 대양 타일에 갈 수 있으며, 시야가 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 증가합니다.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY">
 			<Text>즉시 회복</Text>
 		</Row>
@@ -825,8 +825,8 @@
 			<Text>도시 공격 페널티 (25)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SMALL_PROMOTION_CITY_PENALTY_HELP">
-            <Text>도시 공격 시 [ICON_STRENGTH]전투력이 [COLOR_NEGATIVE_TEXT]25%[ENDCOLOR] 감소</Text>
-        </Row>
+			<Text>도시 공격 시 [ICON_STRENGTH]전투력이 [COLOR_NEGATIVE_TEXT]25%[ENDCOLOR] 감소</Text>
+		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_I">
 			<Text>공중 유닛 요격 시 보너스([COLOR_POSITIVE_TEXT]+20%[ENDCOLOR])</Text>
 		</Row>
@@ -984,7 +984,7 @@
 			<Text>전투 시 위대한 장군 출현율 증가</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_SPAWN_GENERALS_II_HELP">
-		    <Text>전투 시 위대한 장군 출현율 크게 증가</Text>
+			<Text>전투 시 위대한 장군 출현율 크게 증가</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FREE_PILLAGE_MOVES">
 			<Text>약탈 시 [ICON_MOVES]이동력 소모 없음</Text>

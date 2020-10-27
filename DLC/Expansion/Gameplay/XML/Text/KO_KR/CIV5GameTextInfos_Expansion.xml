@@ -11,10 +11,10 @@
       <Text>승선한 유닛의 방어력이 두 배 증가</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_CULTURE_STRING">
-      <Text>[ENDCOLOR] [ICON_CULTURE]문화 {1_Num}</Text>
+      <Text>{1_Num} [ENDCOLOR][ICON_CULTURE]문화</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILD_FAITH_STRING">
-      <Text>[ENDCOLOR] [ICON_PEACE]신앙 {1_Num}</Text>
+      <Text>{1_Num} [ENDCOLOR][ICON_PEACE]신앙</Text>
     </Row>
     <Row Tag="TXT_KEY_CANNOT_PURCHASE_NO_FAITH">
       <Text>[NEWLINE][ICON_PEACE]신앙이 부족해 구매할 수 없습니다.</Text>
