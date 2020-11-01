@@ -20,22 +20,22 @@
             <Text>정글 타일을 개간하지 않고도 [ICON_GOLD]골드를 증가시킬 수 있습니다. 음향학을 연구하면 [ICON_CULTURE]문화 보너스를 받습니다.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_CHATEAU_HELP">
-            <Text>샤토를 건설합니다. 샤토을 건설하면 타일당 문화 및 골드가 증가하며, 방어력 보너스도 받습니다.</Text>
+            <Text>샤토를 건설합니다. 샤토을 건설하면 타일당 문화 및 골드가 증가하며, [ICON_STRENGTH]방어력 보너스가 증가합니다.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_CHATEAU_REC">
-            <Text>샤토는 사치 자원과 인접한 타일에 건설해야 하며 다른 샤토와 인접한 타일에 건설할 수 없습니다. [NEWLINE][NEWLINE]샤토를 건설하면 타일당 문화 및 골드가 증가하며, 방어력 보너스도 받습니다.</Text>
+            <Text>샤토는 사치 자원과 인접한 타일에 건설해야 하며 다른 샤토와 인접한 타일에 건설할 수 없습니다. [NEWLINE][NEWLINE]샤토를 건설하면 타일당 문화 및 골드가 증가하며, [ICON_STRENGTH]방어력 보너스가 증가합니다.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_FEITORIA_HELP">
-            <Text>도시 국가 영토에 페이토리아를 건설합니다. 도시 국가에 페이토리아를 건설하면 해당 도시에서 제공하는 사치 자원을 종류별로 한 개씩 받으며 방어력 보너스도 받습니다.</Text>
+            <Text>도시 국가 영토에 페이토리아를 건설합니다. 도시 국가에 페이토리아를 건설하면 해당 도시에서 제공하는 사치 자원을 종류별로 한 개씩 받으며 [ICON_STRENGTH]방어력 보너스가 증가합니다.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_FEITORIA_REC">
-            <Text>도시 국가에 페이토리아를 건설하면 해당 도시에서 제공하는 사치 자원을 종류별로 한 개씩 받으며 방어력 보너스도 받습니다.</Text>
+            <Text>도시 국가에 페이토리아를 건설하면 해당 도시에서 제공하는 사치 자원을 종류별로 한 개씩 받으며 [ICON_STRENGTH]방어력 보너스가 증가합니다.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_KASBAH_HELP">
-            <Text>카스바를 건설하면 해당 타일의 [ICON_FOOD]식량, [ICON_PRODUCTION]생산 및 [ICON_GOLD]골드가 증가합니다. 방어력 보너스도 받습니다.</Text>
+            <Text>해당 타일의 [ICON_FOOD]식량, [ICON_PRODUCTION]생산 및 [ICON_GOLD]골드가 증가합니다. [ICON_STRENGTH]방어력 보너스가 증가합니다.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_KASBAH_REC">
-            <Text>카스바를 건설하면 해당 타일의 [ICON_FOOD]식량, [ICON_PRODUCTION]생산 및 [ICON_GOLD]골드가 증가합니다. 방어력 보너스도 받습니다.</Text>
+            <Text>해당 타일의 [ICON_FOOD]식량, [ICON_PRODUCTION]생산 및 [ICON_GOLD]골드가 증가합니다. [ICON_STRENGTH]방어력 보너스가 증가합니다.</Text>
         </Row>
         <Row Tag="TXT_KEY_BUILD_LANDMARK_HELP">
             <Text>유닛이 소모됩니다.</Text>
